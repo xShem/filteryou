@@ -1,0 +1,64 @@
+{
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "css": [
+        "assets/index-BEl-xhzj.css",
+        "local-edition.css"
+      ],
+      "js": [
+        "assets/index.ts-loader-MLBTP4lF.js"
+      ],
+      "matches": [
+        "https://www.youtube.com/*",
+        "https://youtube.com/*"
+      ],
+      "run_at": "document_idle"
+    },
+    {
+      "js": [
+        "assets/mainWorld.ts-loader-D4cLEja8.js"
+      ],
+      "matches": [
+        "https://www.youtube.com/*",
+        "https://youtube.com/*"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "default_locale": "en",
+  "description": "__MSG_extensionDescription__",
+  "host_permissions": [
+    "https://www.youtube.com/*",
+    "https://youtube.com/*",
+    "https://returnyoutubedislikeapi.com/*"
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "manifest_version": 3,
+  "name": "YouTube Filter · Original Local Edition",
+  "permissions": [
+    "storage",
+    "scripting"
+  ],
+  "version": "2.0.185.1",
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "assets/*.js",
+        "assets/*.css",
+        "icons/*.png"
+      ],
+      "matches": [
+        "https://www.youtube.com/*",
+        "https://youtube.com/*"
+      ]
+    }
+  ]
+}

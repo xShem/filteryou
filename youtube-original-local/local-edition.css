@@ -1,0 +1,7 @@
+/* Hide commercial/account-only UI. Filtering and native YouTube features remain in the original scripts. */
+#yfpRailAccount, #yfpAccountPanel, #yfpSignInOverlay, #yfpCheckoutOverlay,
+#yfpLicenseCancelOverlay, #yfpMfrPanelUpgrade,
+.YFP__settings-coffee, .coffee-btn, .YFP__checkout-overlay,
+.YFP__account-pitch, .YFP__account-gift {
+  display: none !important;
+}
