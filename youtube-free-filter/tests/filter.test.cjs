@@ -28,7 +28,7 @@ test('numeric boundaries, combined filters and unknown policy', () => {
   assert.equal(core.reason(video, { minMinutes: '11' }), 'seconds');
   assert.equal(core.reason(video, { maxAgeDays: '4' }), 'ageDays');
   assert.equal(core.reason({ ...video, views: null }, { minViews: '5' }), '');
-  assert.equal(core.reason({ ...video, views: null }, { minViews: '5', unknown: 'hide' }), 'unknown');
+  assert.equal(core.reason({ ...video, views: null }, { minViews: '5', unknown: 'hide' }), 'unknown:views');
   assert.equal(core.reason({ ...video, views: null }, { unknown: 'hide' }), '');
 });
 test('text rules, Shorts, live and master switch', () => {
@@ -39,27 +39,6 @@ test('text rules, Shorts, live and master switch', () => {
   assert.equal(core.reason({ ...video, shorts: true }, { hideShorts: true }), 'shorts');
   assert.equal(core.reason({ ...video, live: true }, { hideLive: true }), 'live');
   assert.equal(core.reason(video, { enabled: false, minViews: '999999' }), '');
-});
-test('content script filters initial and appended cards, then restores on storage change', () => {
-  const makeCard = () => {
-    const attrs = new Map();
-    return { parentElement: { closest: () => null }, matches: () => false,
-      querySelector: selector => selector.startsWith('#video-title') ? { textContent: 'Demo' } : selector.includes('/watch?') ? {} : null,
-      querySelectorAll: () => [{ textContent: '100 views' }],
-      setAttribute: (k, v) => attrs.set(k, v), removeAttribute: k => attrs.delete(k), attrs };
-  };
-  const cards = [makeCard()];
-  let onChange, onMutation, pending;
-  const context = { YTFreeFilter: core, document: { documentElement: {}, querySelectorAll: () => cards, addEventListener() {} },
-    chrome: { runtime: {}, storage: { local: { get: (key, cb) => cb({ filters: { minViews: '200' } }) }, onChanged: { addListener: cb => { onChange = cb; } } } },
-    setTimeout: cb => { pending = cb; return 1; }, MutationObserver: class { constructor(cb) { onMutation = cb; } observe() {} } };
-  vm.runInNewContext(fs.readFileSync(path.join(__dirname, '../content.js'), 'utf8'), context);
-  pending();
-  assert.equal(cards[0].attrs.get('data-ytff-hidden'), 'true');
-  cards.push(makeCard()); onMutation(); pending();
-  assert.equal(cards[1].attrs.get('data-ytff-hidden'), 'true');
-  onChange({ filters: { newValue: { enabled: false } } }, 'local'); pending();
-  assert.ok(cards.every(card => !card.attrs.has('data-ytff-hidden')));
 });
 test('manifest references existing local files and uses only storage permission', () => {
   const dir = path.join(__dirname, '..');

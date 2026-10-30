@@ -1,14 +1,51 @@
 {
   "manifest_version": 3,
-  "name": "YouTube Free Filter",
-  "version": "1.0.0",
-  "description": "Локальные фильтры YouTube без аккаунтов, подписок и платных функций.",
-  "permissions": ["storage"],
-  "action": { "default_popup": "popup.html", "default_title": "Фильтры YouTube" },
-  "content_scripts": [{
-    "matches": ["https://www.youtube.com/*", "https://youtube.com/*"],
-    "js": ["filter-core.js", "content.js"],
-    "css": ["content.css"],
-    "run_at": "document_idle"
-  }]
+  "name": "YouTube Free Filter Studio",
+  "version": "2.0.0",
+  "description": "Расширенные фильтры YouTube, данные видео и каналов, аналитика, пресеты и коллекция. Без оплат и аккаунтов.",
+  "permissions": [
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Фильтры YouTube"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.youtube.com/*",
+        "https://youtube.com/*"
+      ],
+      "js": [
+        "filter-core.js",
+        "dom.js",
+        "content.js"
+      ],
+      "css": [
+        "content.css"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": [
+    "https://www.youtube.com/*"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "popup.html",
+        "popup.css",
+        "popup.js",
+        "filter-core.js",
+        "ui-schema.js"
+      ],
+      "matches": [
+        "https://www.youtube.com/*",
+        "https://youtube.com/*"
+      ]
+    }
+  ]
 }

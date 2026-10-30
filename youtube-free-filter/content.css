@@ -1,1 +1,10 @@
 [data-ytff-hidden="true"] { display: none !important; }
+[data-ytff-dim="true"] { opacity: .45 !important; }
+.ytff-card-tools { display:flex; flex-wrap:wrap; gap:5px; align-items:center; margin:6px 0 12px; font:11px/1.5 system-ui,sans-serif; }
+.ytff-card-tools[hidden] { display:none; }
+.ytff-card-tools button { padding:4px 7px; border:1px solid #64748b66; border-radius:6px; cursor:pointer; background:var(--yt-spec-badge-chip-background, #202b3a); color:var(--yt-spec-text-primary,#eaf0fa); font:inherit; }
+.ytff-card-tools button:hover { border-color:#42ad79; }
+.ytff-card-tools button:focus-visible { outline:2px solid #42ad79; }
+.ytff-card-stats { color:var(--yt-spec-text-secondary,#94a3b8); }
+html[data-ytff-sort] ytd-rich-grid-row { display:contents !important; }
+html[data-ytff-sort] ytd-rich-grid-row > #contents { display:contents !important; }
