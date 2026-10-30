@@ -1,0 +1,3895 @@
+{
+   "aboutCodedCitadelBlurb": {
+      "message": "이 확장 프로그램은 CodedCitadel.com에서 만들었습니다. 1인 개발자로 SNS 및 이커머스용 유용한 도구를 만듭니다. Pro 버전을 사용하시면 서버 비용 부담을 덜어주고 개발을 이어가는 동기가 됩니다. 감사합니다!"
+   },
+   "accountAccessUntil": {
+      "message": "Access until $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountAffiliateBody": {
+      "message": "자신의 프로모 코드로 이루어진 모든 판매에서 20% 커미션을 받으세요."
+   },
+   "accountAffiliateCta": {
+      "message": "제휴 프로그램 참여"
+   },
+   "accountAffiliateTitle": {
+      "message": "알리고 수익 얻기"
+   },
+   "accountAuthError": {
+      "message": "로그인에 실패했습니다. 다시 시도해 주세요."
+   },
+   "accountBillingError": {
+      "message": "고객 포털을 열 수 없습니다. 다시 시도하세요."
+   },
+   "accountBillingTestModeEmail": {
+      "message": "테스트 모드: Lemon은 결제 이메일이 아닌 스토어 소유자에게 영수증 및 결제 로그인 링크를 보냅니다."
+   },
+   "accountCancelled": {
+      "message": "로그인이 취소되었습니다."
+   },
+   "accountCheckoutActivateFailed": {
+      "message": "활성화할 수 없습니다. 라이선스 코드 상자에서 사용해 보기를 시도하세요."
+   },
+   "accountCheckoutActivateLicense": {
+      "message": "라이선스 활성화"
+   },
+   "accountCheckoutBody": {
+      "message": "1. Make the payment on the other tab\n2. Copy the license code\n3. Paste it in the 'License Code' box and redeem"
+   },
+   "accountCheckoutClose": {
+      "message": "Got it"
+   },
+   "accountCheckoutCopied": {
+      "message": "Copied to clipboard"
+   },
+   "accountCheckoutCopyKey": {
+      "message": "Copy"
+   },
+   "accountCheckoutError": {
+      "message": "Couldn't open checkout. Please try again."
+   },
+   "accountCheckoutHelp": {
+      "message": "도움이 필요하신가요? CodedCitadel@gmail.com"
+   },
+   "accountCheckoutLicenseEnabled": {
+      "message": "라이선스 활성화됨"
+   },
+   "accountCheckoutOr": {
+      "message": "or"
+   },
+   "accountCheckoutReadyBody": {
+      "message": "Here is your license key. Copy it, paste it in the License Code box, and redeem."
+   },
+   "accountCheckoutReadyBodyActivate": {
+      "message": "라이선스가 준비되었습니다. 라이선스 활성화를 클릭하여 이 기기에서 Pro를 잠금 해제하세요."
+   },
+   "accountCheckoutReadyBodyEnabled": {
+      "message": "이 기기에서 Pro가 활성화되었습니다. 닫고 계속 탐색할 수 있습니다."
+   },
+   "accountCheckoutReadyTitle": {
+      "message": "Purchase complete"
+   },
+   "accountCheckoutStep1": {
+      "message": "Complete your payment in the other tab"
+   },
+   "accountCheckoutStep2": {
+      "message": "Copy the license code"
+   },
+   "accountCheckoutStep2Activate": {
+      "message": "결제가 완료되면 여기로 돌아오세요"
+   },
+   "accountCheckoutStep3": {
+      "message": "Paste it in the 'License Code' box and redeem"
+   },
+   "accountCheckoutStep3Activate": {
+      "message": "이 페이지는 2분 이내에 자동으로 업데이트됩니다"
+   },
+   "accountCheckoutTitle": {
+      "message": "Checkout is opening in a new tab"
+   },
+   "accountConnectGoogleLink": {
+      "description": "Secondary text link under Purchase License Key on the upgrade options dialog",
+      "message": "Google로 연결"
+   },
+   "accountContinueGoogle": {
+      "message": "Google로 계속하기"
+   },
+   "accountGiftBody": {
+      "message": "쿠폰이 있으신가요? 추가 무제한 시간으로 교환하세요 — 일부 코드는 몇 달 무료를 제공합니다. 적용하려면 로그인해야 합니다."
+   },
+   "accountGiftCodeLabel": {
+      "message": "라이선스 키 또는 기프트 코드를 여기에 붙여넣으세요."
+   },
+   "accountGiftDelete": {
+      "message": "삭제"
+   },
+   "accountGiftDeleteError": {
+      "message": "이 기프트 코드를 제거할 수 없습니다. 다시 시도해 주세요."
+   },
+   "accountGiftDeleted": {
+      "message": "이 기기에서 기프트 코드가 제거되었습니다."
+   },
+   "accountGiftHintEligibleSignedIn": {
+      "message": "2개월 기프트가 준비되었습니다 — 사용을 클릭하여 적용하세요."
+   },
+   "accountGiftHintEligibleSignedOut": {
+      "message": "Google로 로그인한 후 사용을 클릭하여 2개월 기프트를 적용하세요."
+   },
+   "accountGiftHintSignedIn": {
+      "message": "코드를 붙여넣고 추가 무제한 시간으로 교환하세요."
+   },
+   "accountGiftHintSignedOut": {
+      "message": "기프트 코드를 사용하려면 Google로 로그인하세요."
+   },
+   "accountGiftPauseTest": {
+      "message": "기프트 일시 중지 (테스트)"
+   },
+   "accountGiftResumeTest": {
+      "message": "기프트 재개 (테스트)"
+   },
+   "accountGiftTitle": {
+      "message": "기프트 코드"
+   },
+   "accountGiftUnlimited": {
+      "message": "무제한 이용 중"
+   },
+   "accountGiftUnlimitedUntil": {
+      "message": "$1까지 무제한 이용 가능",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountGoPro": {
+      "message": "Upgrade"
+   },
+   "accountLicenseCancel": {
+      "message": "라이선스 취소"
+   },
+   "accountLicenseCancelBody": {
+      "message": "이 브라우저에서만 Lemon 라이선스가 비활성화됩니다. 나중에 이 기기나 다른 기기에서 다시 활성화할 수 있습니다. 기프트 코드와 Google 구독에는 영향을 주지 않습니다."
+   },
+   "accountLicenseCancelConfirm": {
+      "message": "예, 라이선스 제거"
+   },
+   "accountLicenseCancelDismiss": {
+      "message": "라이선스 유지"
+   },
+   "accountLicenseCancelError": {
+      "message": "라이선스를 제거할 수 없습니다. 다시 시도해 주세요."
+   },
+   "accountLicenseCancelLoading": {
+      "message": "이 기기에서 라이선스를 제거하는 중…"
+   },
+   "accountLicenseCancelTitle": {
+      "message": "이 기기에서 라이선스를 제거하시겠습니까?"
+   },
+   "accountLicenseRemoveTest": {
+      "message": "라이선스 제거(테스트)"
+   },
+   "accountLoggedInAs": {
+      "message": "Logged in as $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountManageBilling": {
+      "message": "Manage billing"
+   },
+   "accountNextPayment": {
+      "message": "Next payment on $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountPerkCancel": {
+      "message": "Cancel anytime"
+   },
+   "accountPerkExports": {
+      "message": "Unlimited exports"
+   },
+   "accountPerkFilters": {
+      "message": "All sorting and advanced filters"
+   },
+   "accountPerkSearches": {
+      "message": "Unlimited searches"
+   },
+   "accountPitchLimitTitle": {
+      "message": "You've used all $1 searches this week",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountPitchSub": {
+      "message": "Unlimited searches, exports, and every filter — cancel anytime."
+   },
+   "accountPitchSupportNote": {
+      "message": "구독은 서버 비용을 충당하고 1인 개발자가 이 확장 프로그램을 계속 개선하는 데 도움이 됩니다. 감사합니다!"
+   },
+   "accountPitchTitle": {
+      "message": "Upgrade to Pro"
+   },
+   "accountPoweredByLemon": {
+      "message": "Powered by Stripe"
+   },
+   "accountPoweredByStripe": {
+      "message": "Powered by Stripe"
+   },
+   "accountPriceCancel": {
+      "message": "언제든지 취소 가능"
+   },
+   "accountPriceInstant": {
+      "message": "즉시 이용"
+   },
+   "accountPriceSecure": {
+      "message": "안전한 결제"
+   },
+   "accountProBody": {
+      "message": "Congratulations! Unlimited searches, exports, and all filters are unlocked."
+   },
+   "accountProCancelledBody": {
+      "message": "$1까지 Pro 이용이 유지됩니다. 결제 관리에서 재구독하거나 청구서를 다운로드하세요.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountProCancelledBodyEnded": {
+      "message": "Pro 구독이 종료되었습니다. 결제 관리에서 재구독하거나 청구서를 다운로드하세요."
+   },
+   "accountProCancelledTitle": {
+      "message": "구독을 취소했습니다"
+   },
+   "accountProEmailLoading": {
+      "message": "계정 로드 중…"
+   },
+   "accountProPurchasedAs": {
+      "message": "계정: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountProTitle": {
+      "message": "You're on Pro"
+   },
+   "accountPurchaseLicenseKey": {
+      "message": "Purchase License Key"
+   },
+   "accountPurchaseLicenseNoLogin": {
+      "message": "로그인이 필요하지 않습니다."
+   },
+   "accountQuotaResets": {
+      "message": "검색은 $1에 초기화됩니다",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountSignInOptional": {
+      "message": "로그인은 선택 사항입니다. 계정 없이도 검색과 필터를 사용할 수 있습니다."
+   },
+   "accountSignInToUpgradeBody": {
+      "message": "Sign in with Google first. Then you can upgrade to Pro."
+   },
+   "accountSignInToUpgradeTitle": {
+      "message": "Sign in to upgrade"
+   },
+   "accountSignOut": {
+      "message": "로그아웃"
+   },
+   "accountSignedInAs": {
+      "message": "로그인됨"
+   },
+   "accountSigningIn": {
+      "message": "로그인 중…"
+   },
+   "accountTitle": {
+      "message": "Profile"
+   },
+   "accountUnlockBody": {
+      "message": "무제한 검색,보내기, 정렬 및 모든 고급 필터를 이용하세요."
+   },
+   "accountUnlockTitle": {
+      "message": "Youtube Filter Pro의 모든 기능을 잠금 해제하세요"
+   },
+   "accountUpgradeNeedSignIn": {
+      "message": "Sign in with Google first to upgrade."
+   },
+   "accountUpgradeOpening": {
+      "message": "Opening checkout…"
+   },
+   "accountUpgradeOptionsTitle": {
+      "message": "Sign in with Google or Purchase a License Key (no login required)"
+   },
+   "accountUpgradePro": {
+      "message": "Pro로 업그레이드"
+   },
+   "accountUsageAiChatsUsed": {
+      "message": "$1 / $2 AI 채팅",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "accountUsageExportsUsed": {
+      "message": "$1 / $2 exports",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "accountUsagePercent": {
+      "message": "$1% 사용됨",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountUsageQuickViewUsed": {
+      "message": "$1 / $2 동영상 데이터",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "accountUsageUsed": {
+      "message": "이번 주 $1 / $2회 검색 사용",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "aiChatDisabledForVideo": {
+      "message": "이 YouTube 채널은 이 동영상에 대한 AI 상호작용을 비활성화했습니다."
+   },
+   "aiChatLimitReached": {
+      "message": "무료 AI 채팅 $1회를 모두 사용했습니다. 무제한 AI 채팅을 위해 업그레이드하세요.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "aiChatLimitReachedAnon": {
+      "message": "무료 AI 채팅 $1회를 모두 사용했습니다. 로그인 후 업그레이드하면 무제한 AI 채팅이 가능합니다.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "aiChatLimitToastHint": {
+      "message": "무제한 AI 채팅을 위해 {{UPGRADE}}하세요."
+   },
+   "aiChatLimitToastTitle": {
+      "message": "무료 AI 채팅 한도에 도달했습니다"
+   },
+   "aiChatLimitToastUpgradeLink": {
+      "message": "업그레이드"
+   },
+   "ariaAddChannelDescExclude": {
+      "message": "채널 설명 제외 키워드 추가"
+   },
+   "ariaAddChannelDescInclude": {
+      "message": "채널 설명 키워드 추가"
+   },
+   "ariaAddChannelExclude": {
+      "message": "제외할 채널 키워드 추가"
+   },
+   "ariaAddChannelTag": {
+      "message": "채널 태그 추가"
+   },
+   "ariaAddDescExclude": {
+      "message": "설명 제외 단어 추가"
+   },
+   "ariaAddDescKeyword": {
+      "message": "설명 키워드 추가"
+   },
+   "ariaAddTitleExclude": {
+      "message": "제외할 단어 추가"
+   },
+   "ariaAddTitleKeyword": {
+      "message": "제목 키워드 추가"
+   },
+   "ariaCaptionLanguagesGroup": {
+      "message": "자막 언어"
+   },
+   "ariaChannelCountriesExcludeGroup": {
+      "message": "제외할 채널 국가"
+   },
+   "ariaChannelCountriesGroup": {
+      "message": "채널 국가"
+   },
+   "ariaChannelDescExcludesGroup": {
+      "message": "채널 설명 제외 키워드"
+   },
+   "ariaChannelDescIncludesGroup": {
+      "message": "채널 설명 포함 키워드"
+   },
+   "ariaChannelSocialGroup": {
+      "message": "채널 소셜 플랫폼"
+   },
+   "ariaChannelTagsGroup": {
+      "message": "채널 태그"
+   },
+   "ariaClearChannelDescExcludes": {
+      "message": "채널 설명 제외 조건 지우기"
+   },
+   "ariaClearChannelDescIncludes": {
+      "message": "채널 설명 포함 조건 지우기"
+   },
+   "ariaClearChannelTags": {
+      "message": "채널 태그 지우기"
+   },
+   "ariaClearChannelVideos": {
+      "message": "채널 동영상 필터 지우기"
+   },
+   "ariaClearChannelViews": {
+      "message": "채널 조회수 필터 지우기"
+   },
+   "ariaClearCommentRate": {
+      "message": "댓글 비율 필터 지우기"
+   },
+   "ariaClearComments": {
+      "message": "댓글 필터 지우기"
+   },
+   "ariaClearDescExcludes": {
+      "message": "설명 제외 조건 지우기"
+   },
+   "ariaClearDescIncludes": {
+      "message": "설명 포함 조건 지우기"
+   },
+   "ariaClearDislikeRate": {
+      "message": "싫어요 비율 필터 지우기"
+   },
+   "ariaClearDislikes": {
+      "message": "싫어요 필터 지우기"
+   },
+   "ariaClearDuration": {
+      "message": "모든 재생 시간 값 지우기"
+   },
+   "ariaClearExcludedChannels": {
+      "message": "제외된 채널 지우기"
+   },
+   "ariaClearField": {
+      "message": "필드 지우기"
+   },
+   "ariaClearIncludedChannels": {
+      "message": "포함된 채널 지우기"
+   },
+   "ariaClearJoined": {
+      "message": "개설일 필터 지우기"
+   },
+   "ariaClearLikeRate": {
+      "message": "좋아요 비율 필터 지우기"
+   },
+   "ariaClearLikes": {
+      "message": "좋아요 필터 지우기"
+   },
+   "ariaClearPublished": {
+      "message": "게시일 필터 지우기"
+   },
+   "ariaClearSubscribers": {
+      "message": "구독자 필터 지우기"
+   },
+   "ariaClearTitleExcludes": {
+      "message": "제목 제외 지우기"
+   },
+   "ariaClearTitleIncludes": {
+      "message": "제목 포함 지우기"
+   },
+   "ariaClearVerified": {
+      "message": "인증 필터 지우기"
+   },
+   "ariaClearVideoType": {
+      "message": "동영상 유형을 동영상으로 되돌리기"
+   },
+   "ariaClearViews": {
+      "message": "조회수 필터 지우기"
+   },
+   "ariaClearViewsPerDay": {
+      "message": "일일 조회수 필터 지우기"
+   },
+   "ariaCloseSettings": {
+      "message": "설정 닫기"
+   },
+   "ariaDescExcludeGroup": {
+      "message": "설명 제외 태그"
+   },
+   "ariaDescIncludeGroup": {
+      "message": "설명에 포함할 키워드"
+   },
+   "ariaDisableFiltering": {
+      "message": "필터링 끄기"
+   },
+   "ariaDurMaxHours": {
+      "message": "최대 시간(0–59)"
+   },
+   "ariaDurMaxMinutes": {
+      "message": "최대 분(0–59)"
+   },
+   "ariaDurMaxSeconds": {
+      "message": "최대 초(0–59)"
+   },
+   "ariaDurMinHours": {
+      "message": "최소 시간(0–59)"
+   },
+   "ariaDurMinMinutes": {
+      "message": "최소 분(0–59)"
+   },
+   "ariaDurMinSeconds": {
+      "message": "최소 초(0–59)"
+   },
+   "ariaEnableFiltering": {
+      "message": "필터링 켜기"
+   },
+   "ariaExcludeChannelsGroup": {
+      "message": "채널 제외"
+   },
+   "ariaFilterHelpChapters": {
+      "message": "Show example of videos with chapters"
+   },
+   "ariaFilterHelpIncludeChannels": {
+      "message": "도움말: 채널 포함"
+   },
+   "ariaFilterHelpStrictSearch": {
+      "message": "엄격 검색 설명"
+   },
+   "ariaFilterMetricHelpCommentRate": {
+      "message": "댓글 비율 참여도 등급"
+   },
+   "ariaFilterMetricHelpDislikeRate": {
+      "message": "싫어요 비율 도움말"
+   },
+   "ariaFilterMetricHelpLikeRate": {
+      "message": "좋아요 비율 참여도 등급"
+   },
+   "ariaIncludeChannelsGroup": {
+      "message": "채널 포함"
+   },
+   "ariaJoinedFrom": {
+      "message": "채널 개설일(시작)"
+   },
+   "ariaJoinedPreset": {
+      "message": "채널 개설일 사전 설정"
+   },
+   "ariaJoinedUntil": {
+      "message": "채널 개설일(종료)"
+   },
+   "ariaMaxChannelVideos": {
+      "message": "최대 채널 동영상"
+   },
+   "ariaMaxChannelViews": {
+      "message": "채널 최대 총 조회수"
+   },
+   "ariaMaxCommentRate": {
+      "message": "최대 댓글 비율"
+   },
+   "ariaMaxComments": {
+      "message": "최대 댓글 수"
+   },
+   "ariaMaxDislikeRate": {
+      "message": "최대 싫어요 비율"
+   },
+   "ariaMaxDislikes": {
+      "message": "최대 싫어요 수"
+   },
+   "ariaMaxLikeRate": {
+      "message": "최대 좋아요 비율"
+   },
+   "ariaMaxLikes": {
+      "message": "최대 좋아요"
+   },
+   "ariaMaxSubscribers": {
+      "message": "최대 구독자"
+   },
+   "ariaMaxViews": {
+      "message": "최대 조회수"
+   },
+   "ariaMaxViewsPerDay": {
+      "message": "일일 최대 조회수"
+   },
+   "ariaMinChannelVideos": {
+      "message": "최소 채널 동영상"
+   },
+   "ariaMinChannelViews": {
+      "message": "채널 최소 총 조회수"
+   },
+   "ariaMinCommentRate": {
+      "message": "최소 댓글 비율"
+   },
+   "ariaMinComments": {
+      "message": "최소 댓글 수"
+   },
+   "ariaMinDislikeRate": {
+      "message": "최소 싫어요 비율"
+   },
+   "ariaMinDislikes": {
+      "message": "최소 싫어요 수"
+   },
+   "ariaMinLikeRate": {
+      "message": "최소 좋아요 비율"
+   },
+   "ariaMinLikes": {
+      "message": "최소 좋아요"
+   },
+   "ariaMinSubscribers": {
+      "message": "최소 구독자"
+   },
+   "ariaMinViews": {
+      "message": "최소 조회수"
+   },
+   "ariaMinViewsPerDay": {
+      "message": "최소 일일 조회수"
+   },
+   "ariaPublishedFrom": {
+      "message": "게시일 시작"
+   },
+   "ariaPublishedPreset": {
+      "message": "게시일 프리셋"
+   },
+   "ariaPublishedUntil": {
+      "message": "게시일 종료"
+   },
+   "ariaRemoveTag": {
+      "message": "$1 제거"
+   },
+   "ariaResetAllFilters": {
+      "message": "모든 필터 초기화"
+   },
+   "ariaSearchQuery": {
+      "message": "YouTube 검색어"
+   },
+   "ariaTitleExcludeGroup": {
+      "message": "제목 제외 태그"
+   },
+   "ariaTitleIncludeGroup": {
+      "message": "제목 포함 키워드"
+   },
+   "ariaVerifiedFilter": {
+      "message": "인증 필터"
+   },
+   "ariaVideoTypeFilter": {
+      "message": "동영상 유형 필터"
+   },
+   "askAboutVideo": {
+      "message": "이 동영상에 대해 질문하기"
+   },
+   "askAiAnything": {
+      "message": "AI에게 무엇이든 질문"
+   },
+   "askAriaLabel": {
+      "message": "이 동영상에 대해 질문하기"
+   },
+   "askPlaceholder": {
+      "message": "질문을 입력하세요…"
+   },
+   "btnApply": {
+      "message": "적용"
+   },
+   "btnCancel": {
+      "message": "취소"
+   },
+   "btnClose": {
+      "message": "닫기"
+   },
+   "btnEnableAndSearch": {
+      "message": "사용 및 검색"
+   },
+   "btnResetAll": {
+      "message": "모두 초기화"
+   },
+   "btnSearch": {
+      "message": "검색"
+   },
+   "btnSearchAgain": {
+      "message": "다시 검색"
+   },
+   "btnUpgrade": {
+      "message": "업그레이드"
+   },
+   "channelCountryUndeclared": {
+      "message": "국가 미신고"
+   },
+   "channelPickerMoreChannels": {
+      "message": "+$count$개 더",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "close": {
+      "message": "닫기"
+   },
+   "closeSearch": {
+      "message": "검색 닫기"
+   },
+   "coffeeBtnLabel": {
+      "message": "Buy me a coffee"
+   },
+   "coffeeFollowPrompt": {
+      "message": "소셜 미디어에서 팔로우하세요:"
+   },
+   "coffeeReviewBtn": {
+      "message": "Chrome 웹 스토어에서 리뷰"
+   },
+   "coffeeTextSupport": {
+      "message": "도움이 되었다면 커피 한 잔이 큰 도움이 됩니다."
+   },
+   "commentsReadLimitReached": {
+      "message": "무료 검색 $1회 모두에서 댓글 보기를 사용했습니다. 무제한으로 보려면 업그레이드하세요.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "commentsReadProOnly": {
+      "message": "댓글 보기는 Pro 전용입니다."
+   },
+   "copy": {
+      "message": "복사"
+   },
+   "couldNotFindVideoId": {
+      "message": "이 카드에서 동영상 ID를 찾을 수 없습니다."
+   },
+   "crawlTestDesc": {
+      "message": "이 검색을 API로만 가져오고(스크롤 없음) 썸네일 + 제목을 나열합니다."
+   },
+   "crawlTestReady": {
+      "message": "준비됨 — API로만 가져옵니다(스크롤 없음)."
+   },
+   "crawlTestStart": {
+      "message": "크롤 시작"
+   },
+   "crawlTestStop": {
+      "message": "중지"
+   },
+   "crawlTestTitle": {
+      "message": "테스트 검색 크롤 표시"
+   },
+   "discordJoinLabel": {
+      "message": "Discord 서버에 참여하기"
+   },
+   "dislikesProOnlyTip": {
+      "message": "Pro 사용자 전용입니다. {{UPGRADE}}"
+   },
+   "dislikesProOnlyTipShort": {
+      "message": "Pro 사용자 전용입니다."
+   },
+   "dislikesProOnlyUpgrade": {
+      "message": "여기서 업그레이드"
+   },
+   "done": {
+      "message": "완료"
+   },
+   "durDisplayBetween": {
+      "message": "\u003Cem>$1\u003C/em>에서 \u003Cem>$2\u003C/em> 사이"
+   },
+   "durDisplayLongerThan": {
+      "message": "\u003Cem>$1\u003C/em>보다 김"
+   },
+   "durDisplayUpTo": {
+      "message": "\u003Cem>$1\u003C/em>까지"
+   },
+   "durationHoursDisabledShorts": {
+      "message": "Shorts에는 시간을 사용하지 않습니다(최대 3분)"
+   },
+   "enableBtnTitleOff": {
+      "message": "필터링 꺼짐 — 클릭하여 켜기"
+   },
+   "enableBtnTitleOn": {
+      "message": "필터링 켜짐 — 클릭하여 끄기"
+   },
+   "enableBtnTitleOnDraft": {
+      "message": "사용 중 — 검색을 클릭해 필터링 시작"
+   },
+   "enableBtnTitleOnLive": {
+      "message": "필터링 켜짐 — 클릭하여 끄기"
+   },
+   "errorChannelVideosMinExceedsMax": {
+      "message": "최소 동영상 수는 최대를 초과할 수 없습니다."
+   },
+   "errorChannelViewMinExceedsMax": {
+      "message": "채널 최소 조회수는 최대 조회수를 초과할 수 없습니다."
+   },
+   "errorCommentRateMinExceedsMax": {
+      "message": "최소 댓글 %는 최대 댓글 %를 넘을 수 없습니다."
+   },
+   "errorCommentsMinExceedsMax": {
+      "message": "최소 댓글 수는 최대 댓글 수를 넘을 수 없습니다."
+   },
+   "errorDislikeRateMinExceedsMax": {
+      "message": "최소 싫어요 %는 최대값을 초과할 수 없습니다."
+   },
+   "errorDislikesMinExceedsMax": {
+      "message": "최소 싫어요 수는 최대값을 초과할 수 없습니다."
+   },
+   "errorDurMaxShortsExceeds3Min": {
+      "message": "Shorts 최대 길이는 3분(180초)을 넘을 수 없습니다."
+   },
+   "errorDurMinExceedsMax": {
+      "message": "최소 재생 시간은 최대를 초과할 수 없습니다."
+   },
+   "errorLikeRateMinExceedsMax": {
+      "message": "최소 좋아요 %는 최대 좋아요 %를 넘을 수 없습니다."
+   },
+   "errorLikesMinExceedsMax": {
+      "message": "최소 좋아요는 최대 좋아요를 초과할 수 없습니다."
+   },
+   "errorSubMinExceedsMax": {
+      "message": "최소 구독자는 최대를 초과할 수 없습니다."
+   },
+   "errorViewsMinExceedsMax": {
+      "message": "최소 조회수는 최대를 초과할 수 없습니다."
+   },
+   "errorViewsPerDayMinExceedsMax": {
+      "message": "일일 최소 조회수는 최대 조회수를 초과할 수 없습니다."
+   },
+   "excludeChannelsConflictInclude": {
+      "message": "이 채널은 포함 채널에 있습니다. 먼저 해당 목록에서 제거하세요."
+   },
+   "export": {
+      "message": "보내기"
+   },
+   "exportCsv": {
+      "message": "CSV"
+   },
+   "exportFieldChannel": {
+      "message": "채널"
+   },
+   "exportFieldChannelAvatar": {
+      "message": "채널 아바타"
+   },
+   "exportFieldChannelDescription": {
+      "message": "채널 설명"
+   },
+   "exportFieldChannelId": {
+      "message": "채널 ID"
+   },
+   "exportFieldChannelKeywords": {
+      "message": "채널 키워드"
+   },
+   "exportFieldChannelTags": {
+      "message": "채널 태그"
+   },
+   "exportFieldChannelUrl": {
+      "message": "채널 URL"
+   },
+   "exportFieldChannelVideos": {
+      "message": "채널 동영상"
+   },
+   "exportFieldChannelViews": {
+      "message": "채널 조회수"
+   },
+   "exportFieldChannelViewsCount": {
+      "message": "채널 조회수 (수)"
+   },
+   "exportFieldCommentPct": {
+      "message": "댓글 (%)"
+   },
+   "exportFieldComments": {
+      "message": "댓글 (수량)"
+   },
+   "exportFieldCountry": {
+      "message": "국가"
+   },
+   "exportFieldDescription": {
+      "message": "설명"
+   },
+   "exportFieldDislikePct": {
+      "message": "싫어요 (%)"
+   },
+   "exportFieldDislikes": {
+      "message": "싫어요 (수량)"
+   },
+   "exportFieldDuration": {
+      "message": "재생 시간"
+   },
+   "exportFieldEmail": {
+      "message": "이메일"
+   },
+   "exportFieldExample_channelViews": {
+      "message": "예: 250만"
+   },
+   "exportFieldExample_commentPct": {
+      "message": "예: 0.12% (보통)"
+   },
+   "exportFieldExample_comments": {
+      "message": "예: 42"
+   },
+   "exportFieldExample_dislikePct": {
+      "message": "예: 0.8% (양호)"
+   },
+   "exportFieldExample_dislikes": {
+      "message": "예: 120"
+   },
+   "exportFieldExample_likePct": {
+      "message": "예: 5% (우수)"
+   },
+   "exportFieldExample_likes": {
+      "message": "예: 10"
+   },
+   "exportFieldExample_subscribers": {
+      "message": "예: 15만"
+   },
+   "exportFieldExample_views": {
+      "message": "예: 12500"
+   },
+   "exportFieldExample_viewsPerDay": {
+      "message": "예: 850"
+   },
+   "exportFieldJoined": {
+      "message": "가입일"
+   },
+   "exportFieldJoinedAtIso": {
+      "message": "가입일시 (ISO)"
+   },
+   "exportFieldLikePct": {
+      "message": "좋아요 (%)"
+   },
+   "exportFieldLikes": {
+      "message": "좋아요 (수량)"
+   },
+   "exportFieldOtherWebsites": {
+      "message": "기타 웹사이트"
+   },
+   "exportFieldPublished": {
+      "message": "게시일"
+   },
+   "exportFieldPublishedAtIso": {
+      "message": "게시일시 (ISO)"
+   },
+   "exportFieldSubscribers": {
+      "message": "구독자"
+   },
+   "exportFieldSubscribersCount": {
+      "message": "구독자 (수)"
+   },
+   "exportFieldThumbnail": {
+      "message": "썸네일"
+   },
+   "exportFieldTitle": {
+      "message": "제목"
+   },
+   "exportFieldUrl": {
+      "message": "URL"
+   },
+   "exportFieldVerified": {
+      "message": "인증됨"
+   },
+   "exportFieldVideoId": {
+      "message": "동영상 ID"
+   },
+   "exportFieldViews": {
+      "message": "조회수"
+   },
+   "exportFieldViewsPerDay": {
+      "message": "조회수/일 (수량)"
+   },
+   "exportFieldsCancel": {
+      "message": "취소"
+   },
+   "exportFieldsExport": {
+      "message": "보내기"
+   },
+   "exportFieldsGroupChannel": {
+      "message": "채널"
+   },
+   "exportFieldsGroupContact": {
+      "message": "연락처 / 소셜"
+   },
+   "exportFieldsGroupEngagement": {
+      "message": "참여"
+   },
+   "exportFieldsGroupVideo": {
+      "message": "동영상"
+   },
+   "exportFieldsReset": {
+      "message": "초기화"
+   },
+   "exportFieldsTitle": {
+      "message": "보낼 필드 선택"
+   },
+   "exportFieldsTxtNote": {
+      "message": "TXT보내기는 URL만 포함합니다."
+   },
+   "exportJson": {
+      "message": "JSON"
+   },
+   "exportLimitReached": {
+      "message": "무료보내기 $1회를 모두 사용했습니다. 무제한보내기를 위해 업그레이드하세요.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportLimitToastHint": {
+      "message": "무제한보내기를 위해 {{UPGRADE}}하세요."
+   },
+   "exportLimitToastTitle": {
+      "message": "무료보내기 한도에 도달했습니다"
+   },
+   "exportLimitToastUpgradeLink": {
+      "message": "업그레이드"
+   },
+   "exportTxt": {
+      "message": "TXT"
+   },
+   "exportXlsx": {
+      "message": "XLSX"
+   },
+   "extensionDescription": {
+      "message": "YouTube 검색 결과를 재생 시간, 조회수, 게시일, 채널 등으로 실시간 필터링합니다."
+   },
+   "extensionName": {
+      "message": "Youtube Filter Pro: 조회수, 재생 시간, 날짜 등으로 필터"
+   },
+   "feedbackCloseAria": {
+      "message": "닫기"
+   },
+   "feedbackEmailPlaceholder": {
+      "message": "이메일(선택)"
+   },
+   "feedbackErrorEmail": {
+      "message": "유효한 이메일 주소를 입력하세요."
+   },
+   "feedbackErrorEmpty": {
+      "message": "피드백을 입력해 주세요."
+   },
+   "feedbackErrorGeneric": {
+      "message": "문제가 발생했습니다. 다시 시도해 주세요."
+   },
+   "feedbackIncludeSearchHint": {
+      "message": "비공개 데이터는 전송되지 않습니다. 이 데이터는 버그를 해결하는 동안 최대 30일간 서버에 보관됩니다."
+   },
+   "feedbackIncludeSearchHintResults": {
+      "message": "개인 데이터는 전송되지 않습니다. 이 데이터는 최대 30일 동안 서버에 저장됩니다."
+   },
+   "feedbackIncludeSearchLabel": {
+      "message": "이 검색어(\"$1\")와 현재 결과 $2개를 보고서에 포함해 버그 진단과 수정에 도움을 줍니다."
+   },
+   "feedbackIncludeSearchLabelNoQuery": {
+      "message": "이 검색어와 현재 결과 $1개를 보고서에 포함해 버그 진단과 수정에 도움을 줍니다."
+   },
+   "feedbackIncludeSearchLabelResults": {
+      "message": "조사를 위해 검색어와 결과를 포함합니다."
+   },
+   "feedbackLinkText": {
+      "message": "버그 또는 피드백?"
+   },
+   "feedbackModalTitle": {
+      "message": "모든 제안을 읽습니다. 개선할 점은?"
+   },
+   "feedbackModalTitleBug": {
+      "message": "버그 신고 또는 기능 제안"
+   },
+   "feedbackModalTitleResults": {
+      "message": "결과가 도움이 되지 않아 죄송합니다 — 무엇이 문제였나요?"
+   },
+   "feedbackRateLabel": {
+      "message": "평가해 주세요"
+   },
+   "feedbackReviewLinkLabel": {
+      "message": "리뷰 남기기"
+   },
+   "feedbackSubmitLabel": {
+      "message": "피드백 보내기"
+   },
+   "feedbackSubmittingLabel": {
+      "message": "전송 중..."
+   },
+   "feedbackSuggestionPlaceholder": {
+      "message": "제안을 입력하세요"
+   },
+   "feedbackThankyouText": {
+      "message": "시간을 내어 주셔서 정말 감사합니다."
+   },
+   "feedbackThankyouTitle": {
+      "message": "피드백 감사합니다!"
+   },
+   "filterBtnAriaActiveCount": {
+      "message": "동영상 필터 열기, $1개 필터 카테고리 활성"
+   },
+   "filterBtnAriaFilteringOff": {
+      "message": "동영상 필터 열기. 필터링이 꺼져 있습니다 — 필터 옵션에서 \"필터 활성화\"를 켜세요."
+   },
+   "filterBtnAriaOpen": {
+      "message": "동영상 필터 열기"
+   },
+   "filterBtnBadgeDisabled": {
+      "message": "(비활성)"
+   },
+   "filterBtnLabel": {
+      "message": "필터"
+   },
+   "filterBtnTooltipFilteringOff": {
+      "message": "필터링이 꺼져 있습니다. 필터 옵션에서 \"필터 활성화\"를 켜세요(Alt+Shift+F로 열고 톱니바퀴 아이콘 클릭)."
+   },
+   "filterHelpIncludeChannels": {
+      "message": "여기에 추가한 채널 내에서만 검색어를 검색합니다.\n채널 URL(예: youtube.com/@handle 또는 youtube.com/channel/UC…), @handle 또는 UC 채널 ID를 붙여넣고 Enter를 누르세요.\n각 채널의 내장 검색을 사용합니다(전체 YouTube 결과가 아님)."
+   },
+   "filterHelpStrictSearch": {
+      "message": "제목에 검색한 모든 단어가 포함된 동영상만 표시합니다."
+   },
+   "filterMetricHelpCommentRate": {
+      "message": "댓글 ÷ 조회수\n≥0.5%: 우수\n0.1–0.2%: 보통\n\u003C0.05%: 낮음"
+   },
+   "filterMetricHelpDislikeRate": {
+      "message": "싫어요 ÷ 조회수"
+   },
+   "filterMetricHelpLikeRate": {
+      "message": "좋아요 ÷ 조회수\n≥4%: 우수\n2–3%: 보통\n\u003C1%: 낮음"
+   },
+   "filterQuotaLockedTip": {
+      "message": "프리셋과 정렬을 사용하려면 더 많은 검색을 위해 업그레이드하세요."
+   },
+   "filterTagEdit": {
+      "message": "이 필터 수정"
+   },
+   "filterTagRemove": {
+      "message": "이 필터 제거"
+   },
+   "filterTagViewCaptionLanguages": {
+      "message": "언어 보기"
+   },
+   "filterTagViewChannels": {
+      "message": "채널 보기"
+   },
+   "filterTagViewCountries": {
+      "message": "국가 보기"
+   },
+   "footerAccountHint": {
+      "message": "검색 할당량과 기프트 코드를 관리하세요."
+   },
+   "footerFiltersCountPlural": {
+      "message": "필터 $1개"
+   },
+   "footerFiltersCountSingular": {
+      "message": "필터 $1개"
+   },
+   "footerFiltersLabel": {
+      "message": "필터"
+   },
+   "footerReviewLabel": {
+      "message": "리뷰"
+   },
+   "geminiCouldNotSummarize": {
+      "message": "Gemini가 이 동영상을 요약할 수 없습니다."
+   },
+   "geminiNoReply": {
+      "message": "Gemini가 응답을 반환하지 않았습니다."
+   },
+   "giftCodeError": {
+      "message": "해당 코드를 사용할 수 없습니다."
+   },
+   "giftCodeErrorAlreadyRedeemed": {
+      "message": "이미 이 코드를 사용했습니다."
+   },
+   "giftCodeErrorExpired": {
+      "message": "이 기프트 코드는 만료되었습니다."
+   },
+   "giftCodeErrorInvalid": {
+      "message": "유효한 기프트 코드를 입력하세요."
+   },
+   "giftCodeErrorMissingDevice": {
+      "message": "이 기기를 확인할 수 없습니다. 페이지를 새로고침하고 다시 시도하세요."
+   },
+   "giftCodeErrorUnknown": {
+      "message": "해당 기프트 코드가 존재하지 않습니다. 철자를 확인하고 다시 시도하세요."
+   },
+   "giftCodeErrorUsedUp": {
+      "message": "이 코드는 최대 사용 횟수에 도달했습니다."
+   },
+   "giftCodeLabel": {
+      "message": "기프트 코드"
+   },
+   "giftCodePlaceholder": {
+      "message": "YFP-XXXX-XXXX"
+   },
+   "giftCodeRedeem": {
+      "message": "사용"
+   },
+   "giftCodeRedeeming": {
+      "message": "사용 중…"
+   },
+   "giftCodeSuccess": {
+      "message": "기프트가 적용되었습니다."
+   },
+   "giftGrantAddsLabel": {
+      "message": "제공"
+   },
+   "giftGrantDays": {
+      "message": "$1일",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "giftGrantExpiresLabel": {
+      "message": "만료"
+   },
+   "giftGrantLifetime": {
+      "message": "평생"
+   },
+   "giftGrantMonths": {
+      "message": "$1개월",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "giftGrantNeverExpires": {
+      "message": "만료 없음"
+   },
+   "giftGrantOneDay": {
+      "message": "1일"
+   },
+   "giftGrantOneMonth": {
+      "message": "1개월"
+   },
+   "giftGrantRedeemedLabel": {
+      "message": "사용일"
+   },
+   "giftSignInBody": {
+      "message": "기프트 코드를 사용하려면 먼저 Google로 로그인하세요."
+   },
+   "giftSignInTitle": {
+      "message": "기프트 코드를 사용하려면 로그인하세요"
+   },
+   "helperChannelCountry": {
+      "message": "이 국가에 기반한 채널만 표시합니다(정보 탭)."
+   },
+   "helperChannelCountryExclude": {
+      "message": "이 국가에 기반한 채널을 숨깁니다(정보 탭)."
+   },
+   "helperChannelDescExcludes": {
+      "message": "정보 텍스트에 이 키워드 중 하나라도 있는 채널을 숨깁니다."
+   },
+   "helperChannelDescIncludes": {
+      "message": "채널 정보 텍스트에 이 키워드가 모두 포함되어야 합니다."
+   },
+   "helperChannelJoined": {
+      "message": "채널이 생성된 시점으로 필터링합니다."
+   },
+   "helperChannelSocial": {
+      "message": "이 플랫폼 중 하나 이상에 링크된 채널만 표시합니다."
+   },
+   "helperChannelTags": {
+      "message": "태그에 이 키워드 중 하나를 포함하는 채널의 동영상을 표시합니다."
+   },
+   "helperChannelVideos": {
+      "message": "채널 업로드 동영상 수로 필터링. 제한 없음은 비워 두세요."
+   },
+   "helperChannelViews": {
+      "message": "채널 총 조회수로 필터링합니다(정보에서 파싱, 언어 무관)."
+   },
+   "helperCommentRate": {
+      "message": "조회수 대비 댓글 비율"
+   },
+   "helperComments": {
+      "message": "선택한 댓글 수 범위의 동영상을 표시합니다."
+   },
+   "helperDescExcludes": {
+      "message": "설명에 이 키워드 중 하나라도 포함된 동영상을 숨깁니다."
+   },
+   "helperDescIncludes": {
+      "message": "설명에 이 키워드를 모두 포함하는 동영상만 표시합니다."
+   },
+   "helperDislikeRate": {
+      "message": "조회수 대비 싫어요 총 % (Pro)."
+   },
+   "helperDislikes": {
+      "message": "싫어요 수로 필터링 (Pro)."
+   },
+   "helperDuration": {
+      "message": "설정한 길이 범위의 동영상을 표시합니다."
+   },
+   "helperExcludeChannels": {
+      "message": "이 채널의 동영상은 숨겨집니다."
+   },
+   "helperIncludeChannels": {
+      "message": "이 채널의 동영상만 검색됩니다. 전체 채널 URL(youtube.com/@handle 또는 /channel/UC…), @handle 또는 UC 채널 ID로 추가하세요."
+   },
+   "helperLeaveBlankNoLimit": {
+      "message": "제한 없음은 비워 두세요."
+   },
+   "helperLikeRate": {
+      "message": "조회수 대비 좋아요 비율. 2-5% = 높음."
+   },
+   "helperLikes": {
+      "message": "이 수보다 좋아요가 적은 동영상을 숨깁니다."
+   },
+   "helperPublished": {
+      "message": "특정 날짜 범위에 게시된 동영상만 표시합니다."
+   },
+   "helperRequireCaptions": {
+      "message": "자막이 있는 동영상만 표시합니다. 원하는 경우 언어를 하나 이상 선택하세요."
+   },
+   "helperRequireChapters": {
+      "message": "설명에 타임스탬프 챕터가 있는 동영상만 표시"
+   },
+   "helperRequireEmail": {
+      "message": "동영상 설명에 이메일이 표시된 동영상을 찾습니다."
+   },
+   "helperSearchQuery": {
+      "message": "YouTube 검색어를 수정합니다."
+   },
+   "helperSubscribers": {
+      "message": "채널 구독자 수로 필터링. 제한 없음은 비워 두세요."
+   },
+   "helperTitleExcludes": {
+      "message": "이 단어가 포함된 동영상은 숨겨집니다."
+   },
+   "helperTitleIncludes": {
+      "message": "이 키워드를 모두 포함하는 동영상만 표시"
+   },
+   "helperVerified": {
+      "message": "인증 배지로 필터링합니다."
+   },
+   "helperVideoType": {
+      "message": "YouTube 동영상 또는 Shorts만 검색합니다."
+   },
+   "helperViews": {
+      "message": "선택한 조회수 범위의 동영상을 표시합니다."
+   },
+   "helperViewsPerDay": {
+      "message": "이 기준보다 일일 조회수가 적은 동영상을 숨깁니다."
+   },
+   "hintAfter": {
+      "message": "에서 변경할 수 있습니다."
+   },
+   "hintAiConversationsLeft": {
+      "message": "AI 대화 $1회가 남았습니다. 무제한은 {{UPGRADE}}하세요.",
+      "placeholders": {
+         "1": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "hintAiConversationsUpgrade": {
+      "message": "업그레이드"
+   },
+   "hintBefore": {
+      "message": "요약 길이 및 기타 설정은 "
+   },
+   "hintHere": {
+      "message": "여기"
+   },
+   "includeChannelsConflictExclude": {
+      "message": "이 채널은 제외 채널에 있습니다. 먼저 해당 목록에서 제거하세요."
+   },
+   "includeChannelsFetchSubscriptions": {
+      "message": "구독 채널 가져오기"
+   },
+   "includeChannelsFetchSubscriptionsDone": {
+      "message": "구독에서 $1개 채널을 저장했습니다."
+   },
+   "includeChannelsFetchSubscriptionsFailed": {
+      "message": "구독을 불러올 수 없습니다. youtube.com에 로그인한 후 다시 시도하세요."
+   },
+   "includeChannelsFetchingSubscriptions": {
+      "message": "구독 목록을 가져오는 중…"
+   },
+   "includeChannelsFetchingSubscriptionsProgress": {
+      "message": "구독 목록을 가져오는 중… 지금까지 $1개 채널을 불러왔습니다."
+   },
+   "includeChannelsListNoMatches": {
+      "message": "검색과 일치하는 채널이 없습니다."
+   },
+   "includeChannelsLookingUp": {
+      "message": "채널 조회 중…"
+   },
+   "includeChannelsNoCached": {
+      "message": "저장된 채널이 없습니다 — 위에 추가하세요."
+   },
+   "includeChannelsNotFound": {
+      "message": "채널을 찾을 수 없습니다. 전체 YouTube URL, @handle 또는 채널 ID를 사용하세요."
+   },
+   "includeInitialSummary": {
+      "message": "초기 요약을 포함할까요?"
+   },
+   "includeInitialSummaryHelp": {
+      "message": "AI 버튼을 클릭하면 동영상이 자동으로 요약됩니다(스포일러 포함 가능). 끄면 제안된 작업과 함께 채팅이 열립니다."
+   },
+   "labelChannelCountry": {
+      "message": "국가"
+   },
+   "labelChannelCountryExclude": {
+      "message": "국가 제외"
+   },
+   "labelChannelDescExcludes": {
+      "message": "채널 설명 제외"
+   },
+   "labelChannelDescIncludes": {
+      "message": "채널 설명 포함"
+   },
+   "labelChannelJoined": {
+      "message": "개설일"
+   },
+   "labelChannelSocial": {
+      "message": "소셜 링크"
+   },
+   "labelChannelTags": {
+      "message": "채널 태그"
+   },
+   "labelChannelVideos": {
+      "message": "채널 동영상"
+   },
+   "labelChannelViews": {
+      "message": "채널 조회수"
+   },
+   "labelCommentRate": {
+      "message": "댓글(%)"
+   },
+   "labelComments": {
+      "message": "댓글"
+   },
+   "labelDescExcludes": {
+      "message": "설명에서 제외"
+   },
+   "labelDescIncludes": {
+      "message": "설명에 포함"
+   },
+   "labelDislikeRate": {
+      "message": "싫어요 (%)"
+   },
+   "labelDislikes": {
+      "message": "싫어요"
+   },
+   "labelDuration": {
+      "message": "재생 시간"
+   },
+   "labelExcludeChannels": {
+      "message": "채널 제외"
+   },
+   "labelIncludeChannels": {
+      "message": "채널 포함"
+   },
+   "labelLikeRate": {
+      "message": "좋아요(%)"
+   },
+   "labelLikes": {
+      "message": "좋아요"
+   },
+   "labelMax": {
+      "message": "최대"
+   },
+   "labelMaxPercent": {
+      "message": "최대 %"
+   },
+   "labelMin": {
+      "message": "최소"
+   },
+   "labelMinPercent": {
+      "message": "최소 %"
+   },
+   "labelPublished": {
+      "message": "게시일"
+   },
+   "labelRequireCaptions": {
+      "message": "자막 있음"
+   },
+   "labelRequireChapters": {
+      "message": "챕터 있음"
+   },
+   "labelRequireEmail": {
+      "message": "동영상 설명에 이메일 있음"
+   },
+   "labelSearchQuery": {
+      "message": "검색"
+   },
+   "labelStrictSearch": {
+      "message": "엄격 검색 사용"
+   },
+   "labelSubscribers": {
+      "message": "구독자"
+   },
+   "labelTitleExcludes": {
+      "message": "제목에서 제외"
+   },
+   "labelTitleIncludes": {
+      "message": "제목 포함"
+   },
+   "labelVerified": {
+      "message": "인증됨"
+   },
+   "labelVideoType": {
+      "message": "동영상 유형"
+   },
+   "labelViews": {
+      "message": "조회수"
+   },
+   "labelViewsPerDay": {
+      "message": "일일 조회수"
+   },
+   "loading": {
+      "message": "로딩 중"
+   },
+   "mfrAiDisclosureTip": {
+      "message": "YouTube가 이 동영상의 AI 생성 콘텐츠(오디오, 번역 또는 시각 요소 포함)를 식별하고 표시했습니다."
+   },
+   "mfrAskAiNewTip": {
+      "message": "새 기능! 동영상과 관련된 것을 AI에게 무엇이든 질문하세요."
+   },
+   "mfrAskAiNewTipDismissAria": {
+      "message": "AI 질문 팁 닫기"
+   },
+   "mfrAskAiSummaryLabel": {
+      "message": "요약"
+   },
+   "mfrAskAiSummaryTip": {
+      "message": "이 동영상에 대해 AI에게 무엇이든 질문하세요."
+   },
+   "mfrCommentsReadTipDismissAria": {
+      "message": "댓글 팁 닫기"
+   },
+   "mfrCommentsReadTipTitle": {
+      "message": "이제 댓글을 빠르게 읽을 수 있습니다."
+   },
+   "mfrDashboardUpgrade": {
+      "message": "업그레이드"
+   },
+   "mfrDashboardUpgradeTip": {
+      "message": "무제한 검색, 정렬 및 AI 사용을 위해 업그레이드하세요."
+   },
+   "modalAriaCloseFilters": {
+      "message": "필터 닫기"
+   },
+   "modalAriaEnableToggle": {
+      "message": "필터링 켜기/끄기"
+   },
+   "modalAriaFilterSettings": {
+      "message": "필터 설정"
+   },
+   "modalFilterChipEnabledSubtitle": {
+      "message": "{{FILTERS}}에 맞는 동영상을 찾고 있습니다. 이 탭을 닫지 마세요."
+   },
+   "modalFilterChipEnabledTitle": {
+      "message": "필터링 사용 중"
+   },
+   "modalFilterChipFiltersLink": {
+      "message": "필터"
+   },
+   "modalFilterChipMetricChecked": {
+      "message": "확인함: $1"
+   },
+   "modalFilterChipMetricElapsed": {
+      "message": "경과: $1"
+   },
+   "modalFilterChipMetricFiltered": {
+      "message": "찾음: $1"
+   },
+   "modalFilterChipMetricPage": {
+      "message": "페이지: $1"
+   },
+   "modalFilterChipProgress": {
+      "message": "동영상 필터링 중 · \u003Cspan class=\"yfp-toast__found-count\">$1\u003C/span> / \u003Cspan class=\"yfp-toast__total-count\">$2\u003C/span> 찾음 · 페이지 $3"
+   },
+   "modalFilterChipScrollingHint": {
+      "message": "모든 동영상을 확인하기 위해 \u003Cb>결과를 더 불러오는 중\u003C/b>입니다. 잠시만 기다려 주세요!"
+   },
+   "modalFilterCompleted": {
+      "message": "완료! 여기를 클릭해 결과를 보세요."
+   },
+   "modalFilterCopiedUrlsSuccess": {
+      "message": "URL $1개를 복사했습니다",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterDescEmpty": {
+      "message": "설명 없음"
+   },
+   "modalFilterDescLoading": {
+      "message": "설명 불러오는 중…"
+   },
+   "modalFilterEditFilters": {
+      "message": "필터 편집"
+   },
+   "modalFilterExcludeChannelTip": {
+      "message": "이 채널을 검색에서 제외"
+   },
+   "modalFilterExcludeCountryTip": {
+      "message": "이 국가를 검색에서 제외"
+   },
+   "modalFilterExhaustedNoMatches": {
+      "message": "일치하는 동영상 없이 검색 페이지 끝에 도달했습니다. 필터를 완화해 보세요."
+   },
+   "modalFilterExhaustedNoMatchesChannels": {
+      "message": "포함된 모든 채널의 끝에 도달했지만 일치하는 동영상이 없습니다. 필터를 완화해 보세요."
+   },
+   "modalFilterExport": {
+      "message": "내보내기"
+   },
+   "modalFilterExportCompletingSearch": {
+      "message": "검색 완료 중… $1개 발견 ($2개 확인)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "modalFilterExportCopyUrls": {
+      "message": "URL 복사"
+   },
+   "modalFilterExportCsv": {
+      "message": "CSV"
+   },
+   "modalFilterExportFormatCsv": {
+      "message": "CSV"
+   },
+   "modalFilterExportFormatJson": {
+      "message": "JSON"
+   },
+   "modalFilterExportFormatTxt": {
+      "message": "TXT"
+   },
+   "modalFilterExportFormatXlsx": {
+      "message": "Excel (.xlsx)"
+   },
+   "modalFilterExportJson": {
+      "message": "JSON"
+   },
+   "modalFilterExportPausing": {
+      "message": "보내기를 위해 필터링 일시 중지 중…"
+   },
+   "modalFilterExportSuccess": {
+      "message": "$1(으)로 내보냈습니다",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterExportTxt": {
+      "message": "TXT"
+   },
+   "modalFilterExportXlsx": {
+      "message": "XLSX"
+   },
+   "modalFilterFilterTagsMore": {
+      "message": "+ $1개 더"
+   },
+   "modalFilterFiltering": {
+      "message": "동영상 필터링 중…"
+   },
+   "modalFilterFiltersSummaryTitle": {
+      "message": "필터 요약"
+   },
+   "modalFilterGoToPage": {
+      "message": "페이지로 이동"
+   },
+   "modalFilterGoToPagePlaceholder": {
+      "message": "#"
+   },
+   "modalFilterKeepSearching": {
+      "message": "계속 검색"
+   },
+   "modalFilterLoading": {
+      "message": "로딩 중…"
+   },
+   "modalFilterMetricCheckedLabel": {
+      "message": "스캔한 동영상"
+   },
+   "modalFilterMetricElapsedLabel": {
+      "message": "경과 시간"
+   },
+   "modalFilterMetricFoundLabel": {
+      "message": "일치 동영상"
+   },
+   "modalFilterMetricPageLabel": {
+      "message": "도달한 페이지"
+   },
+   "modalFilterMoreVideosProcessing": {
+      "message": "동영상 $1개 더 처리 중",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterNextPage": {
+      "message": "다음 페이지"
+   },
+   "modalFilterNextPageBtn": {
+      "message": "다음 페이지"
+   },
+   "modalFilterNoMatches": {
+      "message": "일치하는 동영상을 찾지 못했습니다."
+   },
+   "modalFilterNoMoreResults": {
+      "message": "이 검색 페이지에 더 이상 결과가 없습니다"
+   },
+   "modalFilterPageSuffix": {
+      "message": "($1페이지)"
+   },
+   "modalFilterPaginationAria": {
+      "message": "결과 페이지"
+   },
+   "modalFilterPanelCompletedStatus": {
+      "message": "필터링 완료. 동영상 $1개 찾음.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "modalFilterPanelEnabledStatus": {
+      "message": "필터링 사용 중. 동영상 $1개 찾음.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "modalFilterPanelFound": {
+      "message": "동영상 \u003Cspan class=\"yfp-toast__found-count\">$1\u003C/span>개 찾음 \u003Csmall class=\"yfp-mfr-checked\">(확인한 동영상 $2개)\u003C/small>"
+   },
+   "modalFilterPanelPausedStatus": {
+      "message": "필터링 일시정지. 동영상 $1개 찾음.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "modalFilterPause": {
+      "message": "일시정지"
+   },
+   "modalFilterPausing": {
+      "message": "일시 중지 중…"
+   },
+   "modalFilterPreparingDownload": {
+      "message": "다운로드 준비 중…"
+   },
+   "modalFilterPrevPage": {
+      "message": "이전 페이지"
+   },
+   "modalFilterProgressFoundPlural": {
+      "message": "결과 $1개 찾음"
+   },
+   "modalFilterProgressFoundSingular": {
+      "message": "결과 $1개 찾음"
+   },
+   "modalFilterRateFiveStars": {
+      "message": "평가"
+   },
+   "modalFilterReportBug": {
+      "message": "버그 신고"
+   },
+   "modalFilterResultsCompleteSubtitle": {
+      "message": "검색이 완료되었습니다."
+   },
+   "modalFilterResultsForQuery": {
+      "message": "검색 결과: \"$1\"",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterResultsTitle": {
+      "message": "필터 결과"
+   },
+   "modalFilterResume": {
+      "message": "다시 시작"
+   },
+   "modalFilterSearchingBannerSubtitle": {
+      "message": "페이지를 자동으로 스크롤하며 필터에 맞는 동영상을 검색합니다.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterSearchingBannerSubtitleFallback": {
+      "message": "이 탭을 열어 두세요."
+   },
+   "modalFilterSearchingChannelsSubtitle": {
+      "message": "포함된 채널에서 \"$1\" 검색 중입니다. 이 탭을 열어 두세요."
+   },
+   "modalFilterSearchingChannelsSubtitleFallback": {
+      "message": "포함된 채널을 검색 중입니다. 이 탭을 열어 두세요."
+   },
+   "modalFilterSearchingChannelsTitle": {
+      "message": "$1개 채널 검색 중"
+   },
+   "modalFilterSearchingCriteriaTitle": {
+      "message": "모든 조건에 맞는 동영상 필터링 중"
+   },
+   "modalFilterSearchingEmptyHint": {
+      "message": "찾은 결과는 여기에 표시됩니다.\n몇 분 정도 걸릴 수 있습니다. 이 페이지는 언제든지 닫을 수 있습니다."
+   },
+   "modalFilterSearchingNoResultsYet": {
+      "message": "검색 중… 아직 결과가 없습니다."
+   },
+   "modalFilterSearchingPausedSubtitle": {
+      "message": "자동 페이지 스크롤이 일시정지되었습니다."
+   },
+   "modalFilterSearchingPausedTitle": {
+      "message": "검색이 일시정지되었습니다."
+   },
+   "modalFilterSearchingProgress": {
+      "message": "검색 중(동영상 $2개 중 $1개 찾음)"
+   },
+   "modalFilterSearchingProgressShort": {
+      "message": "동영상 $2개 중 $1개 찾음"
+   },
+   "modalFilterSearchingStatus": {
+      "message": "검색 중..."
+   },
+   "modalFilterSearchingStatusFilters": {
+      "message": "필터 적용 중"
+   },
+   "modalFilterSearchingStatusMatches": {
+      "message": "일치 항목 찾는 중"
+   },
+   "modalFilterSearchingStatusScroll": {
+      "message": "자동 스크롤 중"
+   },
+   "modalFilterSearchingStatusTime": {
+      "message": "몇 분 정도 걸릴 수 있습니다"
+   },
+   "modalFilterSearchingSubtitle": {
+      "message": "$1개 필터에 맞는 동영상 스캔 중"
+   },
+   "modalFilterSearchingSubtitlePlural": {
+      "message": "$1개 필터에 맞는 동영상 스캔 중"
+   },
+   "modalFilterSearchingSubtitleSingular": {
+      "message": "$1개 필터에 맞는 동영상 스캔 중"
+   },
+   "modalFilterSearchingTipBody": {
+      "message": "너무 오래 걸리나요? 필터가 너무 엄격하면 결과가 거의 없거나 전혀 없을 수 있습니다."
+   },
+   "modalFilterSearchingTipLabel": {
+      "message": "팁:"
+   },
+   "modalFilterSearchingTitle": {
+      "message": "YouTube 검색 중..."
+   },
+   "modalFilterShowFeedback": {
+      "message": "피드백 표시"
+   },
+   "modalFilterShowLess": {
+      "message": "접기"
+   },
+   "modalFilterShowMore": {
+      "message": "더 보기"
+   },
+   "modalFilterSortAvailableWhenSettled": {
+      "message": "결과가 나타나면 정렬할 수 있습니다"
+   },
+   "modalFilterSortReorderHint": {
+      "message": "동영상이 실시간으로 정렬됩니다. 모든 결과를 불러와 정렬하는 데 30-60초가 걸릴 수 있습니다."
+   },
+   "modalFilterSortReorderTitle": {
+      "message": "불러오는 동안 동영상 순서가 바뀔 수 있습니다."
+   },
+   "modalFilterSortTip": {
+      "message": "결과를 정렬하려면 여기를 클릭하세요"
+   },
+   "modalFilterSortTipDismissAria": {
+      "message": "정렬 팁 닫기"
+   },
+   "modalFilterSortVisibleResultsAria": {
+      "message": "현재 보이는 결과 정렬"
+   },
+   "modalFilterSortingBy": {
+      "message": "$1(으)로 정렬 중…",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterStart": {
+      "message": "시작"
+   },
+   "modalFilterStartedHint": {
+      "message": "찾은 결과가 여기에 나타납니다. 이 탭을 열어 두세요."
+   },
+   "modalFilterStartedTitle": {
+      "message": "필터링 시작됨"
+   },
+   "modalFilterStop": {
+      "message": "중지"
+   },
+   "modalFilterStopped": {
+      "message": "필터링 중지됨"
+   },
+   "modalFilterSupportPromo": {
+      "message": "이 확장 프로그램이 도움이 된다면 후원에 깊이 감사드립니다!"
+   },
+   "modalFilterVideosChecked": {
+      "message": "동영상 $1개 확인함…"
+   },
+   "modalFilterVideosSorted": {
+      "message": "$1/$2개 정렬됨"
+   },
+   "modalFilterViewResults": {
+      "message": "결과 $1개 보기"
+   },
+   "modalFilterViewResultsPlural": {
+      "message": "결과 $1개 보기"
+   },
+   "modalFilterViewResultsSingular": {
+      "message": "결과 $1개 보기"
+   },
+   "modalFilteringDisabled": {
+      "message": "꺼짐"
+   },
+   "modalFilteringEnabled": {
+      "message": "사용 중"
+   },
+   "modalSubtitle": {
+      "message": "이 검색에 필터 추가:"
+   },
+   "modalSubtitleFiltering": {
+      "message": "검색 필터링 중:"
+   },
+   "modalSubtitleLogin": {
+      "message": "업그레이드"
+   },
+   "modalSubtitleLoginMore": {
+      "message": "하면 무제한 검색이 가능합니다."
+   },
+   "modalSubtitleQuotaLeft": {
+      "message": "검색 $1회가 남았습니다.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalSubtitleQuotaUnlimited": {
+      "message": "무제한 검색이 가능합니다."
+   },
+   "modalTitle": {
+      "message": "필터"
+   },
+   "multiSelectNoResults": {
+      "message": "일치 없음"
+   },
+   "nextMatch": {
+      "message": "다음 일치"
+   },
+   "noteChannelCountryDisplay": {
+      "message": "$1을(를) 켜면 각 채널의 국가를 더 잘 파악할 수 있습니다.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "noteChannelCountryLanguage": {
+      "message": "결과를 개선하려면 해당 채널의 언어로 검색해 보세요."
+   },
+   "noteChannelCountryUndeclared": {
+      "message": "결과가 매우 제한될 수 있습니다. 모든 채널이 국가를 명시적으로 밝히지는 않습니다."
+   },
+   "notesChannelCountryTitle": {
+      "message": "참고:"
+   },
+   "onboardingDone": {
+      "message": "완료"
+   },
+   "onboardingNext": {
+      "message": "다음"
+   },
+   "onboardingSkip": {
+      "message": "튜토리얼 건너뛰기"
+   },
+   "onboardingStep1Desc": {
+      "message": "검색에 필터를 추가해 봅시다.\n\n위의 필터 버튼을 클릭하세요."
+   },
+   "onboardingStep2Desc": {
+      "message": "유용한 필터가 많지만, 이 튜토리얼에서는 2개만 사용합니다.\n\n5~10분 길이의 동영상을 찾아 봅시다.\n\n재생 시간은 이미 설정해 두었습니다 — {{NEXT}}를 클릭해 계속하세요."
+   },
+   "onboardingStep3Desc": {
+      "message": "필터가 하나 더 추가되었습니다:\n\n\u003Cb>구독자 1만 명 이상\u003C/b> 채널의 동영상만 표시.\n\n{{NEXT}}를 클릭해 계속하세요."
+   },
+   "onboardingStep4Desc": {
+      "message": "검색을 클릭해 필터링을 시작하세요."
+   },
+   "onboardingStep5Desc": {
+      "message": "필터에 맞는 결과는 여기에서 볼 수 있습니다.\n\n복잡한 필터는 시간이 오래 걸릴 수 있으니 참고하세요."
+   },
+   "onboardingStep6Desc": {
+      "message": "언제든지 일시정지할 수 있습니다.\n\n더 원활한 사용을 위해 결과를 살펴보기 전에 일시정지하는 것을 권장합니다.\n\n즐기세요!"
+   },
+   "onboardingStepProgress": {
+      "message": "단계 $1/$2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "onboardingWelcomeBody": {
+      "message": "이 30초 튜토리얼을 \u003Cb>강력히\u003C/b> 권장합니다."
+   },
+   "onboardingWelcomeClose": {
+      "message": "닫기"
+   },
+   "onboardingWelcomeLegal": {
+      "message": "계속 진행하고 확장 프로그램을 사용하면 \u003Ca href=\"https://codedcitadel.com/privacy-policy/youtube-filter-pro\" target=\"_blank\" rel=\"noopener noreferrer\">개인정보 처리방침\u003C/a> 및 \u003Ca href=\"https://codedcitadel.com/terms-of-service/youtube-filter-pro\" target=\"_blank\" rel=\"noopener noreferrer\">서비스 약관\u003C/a>에 동의하는 것입니다."
+   },
+   "onboardingWelcomeOk": {
+      "message": "보여주세요"
+   },
+   "onboardingWelcomeTitle": {
+      "message": "YouTube Filter Pro를 설치해 주셔서 감사합니다!"
+   },
+   "placeholderAddIncludeChannel": {
+      "message": "URL 또는 @handle 붙여넣기 후 Enter"
+   },
+   "placeholderChannelDescExcludes": {
+      "message": "정보에 포함되면 제외…(쉼표 또는 Enter)"
+   },
+   "placeholderChannelDescIncludes": {
+      "message": "정보 설명의 키워드(쉼표 또는 Enter)"
+   },
+   "placeholderChannelTags": {
+      "message": "Channel tags (comma or Enter)"
+   },
+   "placeholderDescExclude": {
+      "message": "Words to exclude (comma or Enter)"
+   },
+   "placeholderDescKeywords": {
+      "message": "Keywords in description (comma or Enter)"
+   },
+   "placeholderExcludeChannels": {
+      "message": "제외할 채널 선택…"
+   },
+   "placeholderIncludeChannels": {
+      "message": "포함할 채널 선택…"
+   },
+   "placeholderMaxChannelViews": {
+      "message": "최대 조회수"
+   },
+   "placeholderMaxCommentRate": {
+      "message": "3%"
+   },
+   "placeholderMaxComments": {
+      "message": "1000"
+   },
+   "placeholderMaxDislikeRate": {
+      "message": "2%"
+   },
+   "placeholderMaxDislikes": {
+      "message": "최대"
+   },
+   "placeholderMaxLikeRate": {
+      "message": "3%"
+   },
+   "placeholderMaxLikes": {
+      "message": "10000"
+   },
+   "placeholderMaxSubscribers": {
+      "message": "Max subscribers"
+   },
+   "placeholderMaxVideos": {
+      "message": "Max videos"
+   },
+   "placeholderMaxViews": {
+      "message": "50000"
+   },
+   "placeholderMaxViewsPerDay": {
+      "message": "1000"
+   },
+   "placeholderMinChannelViews": {
+      "message": "최소 조회수"
+   },
+   "placeholderMinCommentRate": {
+      "message": "0.5%"
+   },
+   "placeholderMinComments": {
+      "message": "100"
+   },
+   "placeholderMinDislikeRate": {
+      "message": "0.1%"
+   },
+   "placeholderMinDislikes": {
+      "message": "최소"
+   },
+   "placeholderMinLikeRate": {
+      "message": "0.5%"
+   },
+   "placeholderMinLikes": {
+      "message": "100"
+   },
+   "placeholderMinSubscribers": {
+      "message": "Min subscribers"
+   },
+   "placeholderMinVideos": {
+      "message": "Min videos"
+   },
+   "placeholderMinViews": {
+      "message": "1000"
+   },
+   "placeholderSearchCaptionLanguages": {
+      "message": "언어 검색…"
+   },
+   "placeholderSearchCountries": {
+      "message": "국가 검색"
+   },
+   "placeholderSearchSocial": {
+      "message": "플랫폼 검색"
+   },
+   "placeholderSelectCaptionLanguages": {
+      "message": "모든 언어"
+   },
+   "placeholderSelectCountries": {
+      "message": "국가 선택…"
+   },
+   "placeholderSelectCountriesExclude": {
+      "message": "국가 제외…"
+   },
+   "placeholderSelectSocial": {
+      "message": "플랫폼 선택…"
+   },
+   "placeholderTitleExclude": {
+      "message": "Words to exclude (comma or Enter)"
+   },
+   "placeholderTitleKeywords": {
+      "message": "Keywords in title (comma or Enter)"
+   },
+   "placeholderViewsPerDay": {
+      "message": "100"
+   },
+   "planAiChats": {
+      "message": "AI 채팅"
+   },
+   "planAiChatsHelp": {
+      "message": "필터링된 결과의 동영상에 대해 질문하세요 — 요약, 핵심 포인트 등."
+   },
+   "planBestValue": {
+      "message": "최고의 가치"
+   },
+   "planChannelData": {
+      "message": "채널 데이터"
+   },
+   "planChannelDataHelp": {
+      "message": "검색 결과의 채널별 통계: 구독자, 동영상 수, 국가, 채널 조회수, 가입일, 소셜 미디어 링크."
+   },
+   "planChannelFilters": {
+      "message": "채널 필터"
+   },
+   "planChannelFiltersHelp": {
+      "message": "구독자 수, 국가, 특정 채널 등으로 필터링하세요. $1개의 필터를 사용할 수 있습니다.",
+      "placeholders": {
+         "1": {
+            "content": "$1",
+            "example": "14"
+         }
+      }
+   },
+   "planDescription": {
+      "message": "설명"
+   },
+   "planDescriptionHelp": {
+      "message": "동영상을 열지 않고도 설명을 볼 수 있습니다."
+   },
+   "planDetectAiContent": {
+      "message": "AI 콘텐츠 감지"
+   },
+   "planDetectAiContentHelp": {
+      "message": "YouTube가 일부 AI 생성 콘텐츠를 자동으로 표시하며, 필터링된 결과에 나타납니다."
+   },
+   "planDislikeCount": {
+      "message": "싫어요 수"
+   },
+   "planDislikeCountHelp": {
+      "message": "동영상의 싫어요 수를 확인합니다."
+   },
+   "planExports": {
+      "message": "보내기"
+   },
+   "planExportsHelp": {
+      "message": "필터링된 결과를 CSV, Excel, JSON 또는 일반 텍스트로 다운로드하거나 결과 패널에서 동영상 URL을 복사하세요."
+   },
+   "planFeatures": {
+      "message": "Features"
+   },
+   "planFree": {
+      "message": "무료"
+   },
+   "planIncluded": {
+      "message": "포함"
+   },
+   "planLimited": {
+      "description": "Free column label for add-ons that are available but capped on the free plan",
+      "message": "제한됨"
+   },
+   "planPerformance": {
+      "message": "성과"
+   },
+   "planPerformanceHelp": {
+      "message": "각 동영상의 성과 지표를 확인합니다."
+   },
+   "planPresets": {
+      "message": "프리셋"
+   },
+   "planPresetsHelp": {
+      "message": "빠른 검색을 위한 유용한 사전 정의 필터 조합입니다."
+   },
+   "planPro": {
+      "message": "Pro"
+   },
+   "planQuickView": {
+      "message": "동영상 데이터"
+   },
+   "planQuickViewHelp": {
+      "message": "검색 결과의 동영상별 통계: 좋아요, 조회수, 댓글, 일일 조회수."
+   },
+   "planReadComments": {
+      "message": "댓글 보기"
+   },
+   "planReadCommentsHelp": {
+      "message": "마우스를 올려 가장 좋아요이 많은 댓글을 읽으세요."
+   },
+   "planSearches": {
+      "message": "검색 / 주"
+   },
+   "planSocialMedia": {
+      "message": "소셜 미디어"
+   },
+   "planSocialMediaHelp": {
+      "message": "AI가 추출한 채널의 모든 링크를 봅니다."
+   },
+   "planSorting": {
+      "message": "정렬"
+   },
+   "planSortingHelp": {
+      "message": "결과 패널 헤더에서 조회수, 업로드 날짜, 구독자 수 등으로 필터링된 결과를 정렬하세요."
+   },
+   "planUnlimited": {
+      "message": "무제한"
+   },
+   "planVideoFilters": {
+      "message": "동영상 필터"
+   },
+   "planVideoFiltersHelp": {
+      "message": "조회수, 업로드 날짜, 길이, 좋아요 및 $1개의 유용한 필터로 필터링하세요.",
+      "placeholders": {
+         "1": {
+            "content": "$1",
+            "example": "10"
+         }
+      }
+   },
+   "planVideoStats": {
+      "description": "Profile compare row for watch-page Data / Video Stats",
+      "message": "동영상 통계 / 주"
+   },
+   "planVideoStatsHelp": {
+      "description": "Help tooltip for the Video Stats row in the account compare table",
+      "message": "시청 페이지에서 이 동영상의 성과 통계를 확인합니다."
+   },
+   "presetComplete": {
+      "message": "완전히"
+   },
+   "presetShort": {
+      "message": "짧게"
+   },
+   "presetSuperShort": {
+      "message": "매우 짧게"
+   },
+   "presetsApplied": {
+      "message": "프리셋이 적용됨"
+   },
+   "presetsButton": {
+      "message": "프리셋"
+   },
+   "presetsButtonAria": {
+      "message": "필터 프리셋"
+   },
+   "presetsClearAria": {
+      "message": "프리셋 지우기"
+   },
+   "presetsDeleteAria": {
+      "message": "프리셋 $1 삭제"
+   },
+   "presetsEmpty": {
+      "message": "저장된 프리셋이 아직 없습니다"
+   },
+   "presetsModalHint": {
+      "message": "검색 필터의 미리 정의된 조합입니다. 마우스를 올리면 짧은 설명이 표시됩니다."
+   },
+   "presetsModalTitle": {
+      "message": "필터 프리셋"
+   },
+   "presetsNewTip": {
+      "message": "새로움! 여기서 유용한 미리 정의된 필터를 추가하세요."
+   },
+   "presetsNewTipDismissAria": {
+      "message": "프리셋 팁 닫기"
+   },
+   "presetsNone": {
+      "message": "없음"
+   },
+   "presetsNoneDesc": {
+      "message": "프리셋 없음"
+   },
+   "presetsSaveCancel": {
+      "message": "취소"
+   },
+   "presetsSaveConfirm": {
+      "message": "저장"
+   },
+   "presetsSaveCurrent": {
+      "message": "현재 설정을 프리셋으로 저장"
+   },
+   "presetsSaveDefaultName": {
+      "message": "내 프리셋"
+   },
+   "presetsSaveNamePlaceholder": {
+      "message": "프리셋 이름"
+   },
+   "presetsSuggested": {
+      "message": "추천"
+   },
+   "presetsYours": {
+      "message": "내 프리셋"
+   },
+   "previousMatch": {
+      "message": "이전 일치"
+   },
+   "privacyNoticeBody": {
+      "message": "YouTube Filter Pro를 더 정확하고 유용하게 만들기 위해 어떤 필터 유형이 사용되는지에 대한 익명 데이터를 수집합니다. 검색어, 동영상 콘텐츠, 개인 데이터는 절대 수집하지 않습니다. 개인정보는 항상 안전하게 유지됩니다."
+   },
+   "privacyNoticeContinue": {
+      "message": "계속"
+   },
+   "privacyNoticeLearnMore": {
+      "message": "자세히 알아보기"
+   },
+   "privacyNoticeOptInLabel": {
+      "message": "익명 필터 사용 데이터 공유"
+   },
+   "privacyNoticeTitle": {
+      "message": "개인정보가 중요합니다"
+   },
+   "pubPreset_10y": {
+      "message": "지난 10년"
+   },
+   "pubPreset_12h": {
+      "message": "지난 12시간"
+   },
+   "pubPreset_15d": {
+      "message": "지난 15일"
+   },
+   "pubPreset_18m": {
+      "message": "지난 18개월"
+   },
+   "pubPreset_1h": {
+      "message": "지난 1시간"
+   },
+   "pubPreset_1m": {
+      "message": "지난 1개월"
+   },
+   "pubPreset_1w": {
+      "message": "지난 1주"
+   },
+   "pubPreset_1y": {
+      "message": "지난 1년"
+   },
+   "pubPreset_24h": {
+      "message": "지난 24시간"
+   },
+   "pubPreset_2d": {
+      "message": "지난 2일"
+   },
+   "pubPreset_2m": {
+      "message": "지난 2개월"
+   },
+   "pubPreset_2w": {
+      "message": "지난 2주"
+   },
+   "pubPreset_2y": {
+      "message": "지난 2년"
+   },
+   "pubPreset_3d": {
+      "message": "지난 3일"
+   },
+   "pubPreset_3h": {
+      "message": "지난 3시간"
+   },
+   "pubPreset_3m": {
+      "message": "지난 3개월"
+   },
+   "pubPreset_3w": {
+      "message": "지난 3주"
+   },
+   "pubPreset_3y": {
+      "message": "지난 3년"
+   },
+   "pubPreset_5d": {
+      "message": "지난 5일"
+   },
+   "pubPreset_5y": {
+      "message": "지난 5년"
+   },
+   "pubPreset_6h": {
+      "message": "지난 6시간"
+   },
+   "pubPreset_6m": {
+      "message": "지난 6개월"
+   },
+   "pubPreset_9m": {
+      "message": "지난 9개월"
+   },
+   "pubPreset_any": {
+      "message": "모든 날짜"
+   },
+   "pubPreset_specific": {
+      "message": "특정 범위…"
+   },
+   "quickViewLimitReached": {
+      "message": "무료 검색 $1회 모두에서 퀵 뷰를 사용했습니다. 무제한으로 사용하려면 업그레이드하세요.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quickViewLimitReachedAnon": {
+      "message": "무료 검색 $1회 모두에서 퀵 뷰를 사용했습니다. 로그인 후 업그레이드하면 무제한으로 사용할 수 있습니다.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quotaLimitReached": {
+      "message": "이번 주 검색 $1회를 모두 사용했습니다. 업그레이드하거나 기프트 코드를 사용하여 더 받으세요."
+   },
+   "quotaLimitReachedAnon": {
+      "message": "이번 주 검색 $1회를 모두 사용했습니다. 로그인 후 Pro로 업그레이드하면 무제한 검색이 가능합니다."
+   },
+   "quotaUnlimited": {
+      "message": "무제한 검색"
+   },
+   "quotaUsage": {
+      "message": "이번 주 $1 / $2회 검색"
+   },
+   "rangeDisplayMax": {
+      "message": "최대: \u003Cem>$1\u003C/em>"
+   },
+   "rangeDisplayMin": {
+      "message": "최소: \u003Cem>$1\u003C/em>"
+   },
+   "refreshThePage": {
+      "message": "페이지 새로고침"
+   },
+   "resultsHelpfulDislikeAria": {
+      "message": "아니요, 도움이 되지 않음"
+   },
+   "resultsHelpfulLikeAria": {
+      "message": "예, 도움이 됨"
+   },
+   "resultsHelpfulPrompt": {
+      "message": "이 결과가 도움이 되었나요?"
+   },
+   "resultsHelpfulThankYou": {
+      "message": "감사합니다!"
+   },
+   "search": {
+      "message": "검색"
+   },
+   "searchChat": {
+      "message": "채팅 검색"
+   },
+   "searchQueryIncludeAlready": {
+      "message": "이미 제목에 포함에 있습니다"
+   },
+   "searchQueryIncludeTip": {
+      "message": "제목에 이 단어가 있는 동영상만 포함"
+   },
+   "searchSortApply": {
+      "message": "정렬"
+   },
+   "searchSortAria": {
+      "message": "검색 결과 정렬"
+   },
+   "searchSortAscendent": {
+      "message": "오름차순"
+   },
+   "searchSortAuto": {
+      "message": "자동"
+   },
+   "searchSortAutoAria": {
+      "message": "일치하는 새 동영상이 나타나면 자동 정렬"
+   },
+   "searchSortChannelVideos": {
+      "message": "채널 동영상"
+   },
+   "searchSortComments": {
+      "message": "Comments (qty)"
+   },
+   "searchSortCommentsGroup": {
+      "message": "Comments"
+   },
+   "searchSortCommentsPct": {
+      "message": "Comments (%)"
+   },
+   "searchSortDate": {
+      "message": "업로드 날짜"
+   },
+   "searchSortDefault": {
+      "message": "YouTube 순서"
+   },
+   "searchSortDescendent": {
+      "message": "내림차순"
+   },
+   "searchSortDirAria": {
+      "message": "정렬 방향 전환"
+   },
+   "searchSortDislikes": {
+      "message": "싫어요 (수량)"
+   },
+   "searchSortDislikesGroup": {
+      "message": "싫어요"
+   },
+   "searchSortDislikesPct": {
+      "message": "싫어요 (%)"
+   },
+   "searchSortDuration": {
+      "message": "길이"
+   },
+   "searchSortExpandAria": {
+      "message": "정렬 컨트롤 펼치기"
+   },
+   "searchSortHeading": {
+      "message": "결과 정렬"
+   },
+   "searchSortLabel": {
+      "message": "정렬"
+   },
+   "searchSortLikes": {
+      "message": "좋아요"
+   },
+   "searchSortLikesGroup": {
+      "message": "Likes"
+   },
+   "searchSortLikesPct": {
+      "message": "Likes (%)"
+   },
+   "searchSortPercentage": {
+      "message": "Percentage"
+   },
+   "searchSortQuantity": {
+      "message": "Quantity"
+   },
+   "searchSortSubscribers": {
+      "message": "구독자"
+   },
+   "searchSortTeaser": {
+      "message": "결과 정렬…"
+   },
+   "searchSortTeaserActive": {
+      "message": "정렬: $1 $2"
+   },
+   "searchSortViews": {
+      "message": "조회수"
+   },
+   "searchSortViewsPerDay": {
+      "message": "조회수 / 일"
+   },
+   "searchViewsPerDayLabel": {
+      "message": "$1 조회/일"
+   },
+   "sectionChannelSettings": {
+      "message": "채널 설정"
+   },
+   "sectionVideoSettings": {
+      "message": "동영상 설정"
+   },
+   "send": {
+      "message": "보내기"
+   },
+   "settings": {
+      "message": "설정"
+   },
+   "settingsAboutLabel": {
+      "message": "YouTube Filter Pro 정보"
+   },
+   "settingsAccountTitle": {
+      "message": "Profile"
+   },
+   "settingsAllowUsageAnalyticsDesc": {
+      "message": "Youtube Filter Pro 개선을 위해 익명 필터 사용 데이터를 보냅니다. 검색어나 키워드 텍스트는 포함되지 않습니다."
+   },
+   "settingsAllowUsageAnalyticsLabel": {
+      "message": "익명 사용 데이터 공유"
+   },
+   "settingsAutoApplyDesc": {
+      "message": "값이 변경되면 자동으로 필터를 적용합니다."
+   },
+   "settingsAutoApplyLabel": {
+      "message": "자동 적용"
+   },
+   "settingsBackToChat": {
+      "message": "채팅으로 돌아가기"
+   },
+   "settingsBatchFilterUpdatesDesc": {
+      "message": "빠른 연속 필터 실행을 즉시 돌리지 않고 프레임당 한 번의 업데이트로 합칩니다."
+   },
+   "settingsBatchFilterUpdatesLabel": {
+      "message": "필터 업데이트 묶기"
+   },
+   "settingsDebugDisableYfpDataDesc": {
+      "message": "다시 가져오기를 클릭할 때까지 yfp-data를 비워 둡니다. 필터 성능 비교용입니다."
+   },
+   "settingsDebugDisableYfpDataLabel": {
+      "message": "yfp-data를 불러오지 않음 [개발 디버그]"
+   },
+   "settingsDebugDomDesc": {
+      "message": "모든 동영상 행과 표시 결과를 콘솔에 기록합니다(yfpDebugDomVideos, yfpDebugVisibleVideos)."
+   },
+   "settingsDebugDomLabel": {
+      "message": "DOM 디버그"
+   },
+   "settingsFetchModeAll": {
+      "message": "모두 불러오기"
+   },
+   "settingsFetchModeDefault": {
+      "message": "느림"
+   },
+   "settingsFetchModeDesc": {
+      "message": "느림은 백그라운드에서 결과를 계속 불러옵니다. 빠름은 이 페이지와 다음 페이지를 채운 뒤 기다립니다."
+   },
+   "settingsFetchModeFast": {
+      "message": "빠름"
+   },
+   "settingsFetchModeLabel": {
+      "message": "불러오기 모드"
+   },
+   "settingsFetchModeSlow": {
+      "message": "느림"
+   },
+   "settingsFilterActivatedDesc": {
+      "message": "필터를 실시간으로 켜거나 끕니다."
+   },
+   "settingsFilterActivatedLabel": {
+      "message": "필터 활성화"
+   },
+   "settingsFilterToastsDesc": {
+      "message": "동영상이 숨겨질 때 알림을 표시합니다."
+   },
+   "settingsFilterToastsLabel": {
+      "message": "필터 알림"
+   },
+   "settingsFilteredSearchesDesc": {
+      "message": "필터링이 켜진 상태에서 실행된 YouTube 검색."
+   },
+   "settingsFilteredSearchesLabel": {
+      "message": "필터링된 검색"
+   },
+   "settingsFilteringModeDesc": {
+      "message": "모달은 YouTube 결과를 그대로 두고 일치 항목을 패널에 표시합니다. 페이지는 결과 목록에서 불일치를 숨깁니다."
+   },
+   "settingsFilteringModeLabel": {
+      "message": "필터링 모드"
+   },
+   "settingsFilteringModeModal": {
+      "message": "모달(권장)"
+   },
+   "settingsFilteringModePage": {
+      "message": "페이지"
+   },
+   "settingsHardToFindTipsDesc": {
+      "message": "많은 결과를 확인해도 일치 항목이 없거나 일치가 드문 경우 팁을 표시합니다."
+   },
+   "settingsHardToFindTipsLabel": {
+      "message": "필터로 동영상을 거의 찾지 못할 때 알림"
+   },
+   "settingsHideAdsFromDesc": {
+      "message": "YouTube 검색 결과의 스폰서 피드 광고 행을 숨깁니다."
+   },
+   "settingsHideAdsFromLabel": {
+      "message": "검색에서 광고 숨기기"
+   },
+   "settingsImprovementFiltersDesc": {
+      "message": "실험적 성능 옵션입니다. 조합해 보며 기기에 가장 부드러운 설정을 찾아보세요."
+   },
+   "settingsImprovementFiltersTitle": {
+      "message": "추가 설정"
+   },
+   "settingsIncludeOnlyVideosDesc": {
+      "message": "검색 URL에 YouTube 동영상 필터를 추가합니다."
+   },
+   "settingsIncludeOnlyVideosLabel": {
+      "message": "검색에 동영상만 포함"
+   },
+   "settingsLoadAdditionalDataImmediatelyDesc": {
+      "message": "켜면 결과가 나오는 즉시 추가 채널/동영상 통계를 불러옵니다. 끄면 나중에 불러옵니다."
+   },
+   "settingsLoadAdditionalDataImmediatelyLabel": {
+      "message": "추가 데이터를 즉시 불러오기"
+   },
+   "settingsProcessModeDesc": {
+      "message": "외부(기본값)는 Cloudflare를 통해 좋아요, 댓글, 채널 통계를 일괄 처리합니다. 로컬은 브라우저에서 처리합니다. Worker가 실패하면 로컬로 대체됩니다."
+   },
+   "settingsProcessModeExternal": {
+      "message": "외부(Cloudflare)"
+   },
+   "settingsProcessModeLabel": {
+      "message": "처리 모드"
+   },
+   "settingsProcessModeLocal": {
+      "message": "로컬"
+   },
+   "settingsResetCacheDesc": {
+      "message": "저장된 채널 및 동영상 추가 정보를 지워 다시 가져옵니다."
+   },
+   "settingsResetCacheDone": {
+      "message": "캐시가 지워짐"
+   },
+   "settingsResetCacheLabel": {
+      "message": "캐시 재설정"
+   },
+   "settingsResetFiltersDesc": {
+      "message": "모든 필터를 지우고 기본값을 복원합니다."
+   },
+   "settingsResetFiltersLabel": {
+      "message": "모든 필터 초기화"
+   },
+   "settingsResultsFetchMethodApi": {
+      "message": "API로 가져오기"
+   },
+   "settingsResultsFetchMethodDesc": {
+      "message": "테스트 전용 — 필터링 중 추가 동영상을 어떻게 불러올지 선택합니다."
+   },
+   "settingsResultsFetchMethodLabel": {
+      "message": "결과 더 불러오기"
+   },
+   "settingsResultsFetchMethodScroll": {
+      "message": "스크롤로 가져오기"
+   },
+   "settingsSavePreferencesDesc": {
+      "message": "다음에도 필터를 기억합니다."
+   },
+   "settingsSavePreferencesLabel": {
+      "message": "환경설정 저장"
+   },
+   "settingsShowChannelVideosDesc": {
+      "message": "검색 결과 및 탐색에서 각 채널의 총 동영상 수를 표시합니다."
+   },
+   "settingsShowChannelVideosLabel": {
+      "message": "채널 동영상 수 표시"
+   },
+   "settingsShowCountryDesc": {
+      "message": "검색 결과의 채널 이름 옆에 국가 국기를 표시합니다."
+   },
+   "settingsShowCountryLabel": {
+      "message": "국가 표시"
+   },
+   "settingsShowExtraInfoDesc": {
+      "message": "추가 통계(좋아요, 조회/일, 구독자, 동영상 수, 국가, 총 조회수)와 채널 링크를 동영상 결과에 바로 표시합니다. \u003Cb>속도가 느려질 수 있습니다.\u003C/b>"
+   },
+   "settingsShowExtraInfoExperimental": {
+      "message": "실험적."
+   },
+   "settingsShowExtraInfoLabel": {
+      "message": "추가 정보를 표시할까요?"
+   },
+   "settingsShowExtraInfoOnFilteredResultsLabel": {
+      "message": "필터 결과 페이지에 추가 정보 표시"
+   },
+   "settingsShowExtraInfoOnSearchPageLabel": {
+      "message": "검색 페이지에 추가 정보 표시"
+   },
+   "settingsShowExtraInfoSlowDown": {
+      "message": "느려질 수 있습니다."
+   },
+   "settingsShowLikesDesc": {
+      "message": "검색 결과에서 각 동영상의 좋아요 수를 채널 정보 옆에 표시합니다."
+   },
+   "settingsShowLikesLabel": {
+      "message": "검색 페이지에 좋아요 수 표시"
+   },
+   "settingsShowMatchCheckmarkDesc": {
+      "message": "활성 필터를 통과한 제목 옆에 초록 체크를 표시합니다."
+   },
+   "settingsShowMatchCheckmarkLabel": {
+      "message": "필터와 일치하는 동영상에 체크 표시"
+   },
+   "settingsShowNonMatchMarkDesc": {
+      "message": "활성 필터에 맞지 않는 제목 옆에 빨간 ×를 추가합니다."
+   },
+   "settingsShowNonMatchMarkLabel": {
+      "message": "일치하지 않는 동영상에 × 표시"
+   },
+   "settingsShowSocialIconsDesc": {
+      "message": "연결된 소셜 플랫폼을 검색 결과에 아이콘으로 표시합니다."
+   },
+   "settingsShowSocialIconsLabel": {
+      "message": "채널 소셜 미디어 아이콘 표시"
+   },
+   "settingsShowSubscribersDesc": {
+      "message": "검색 결과 및 탐색에서 채널 구독자 수를 표시합니다."
+   },
+   "settingsShowSubscribersLabel": {
+      "message": "구독자 수 표시"
+   },
+   "settingsShowSummaryDesc": {
+      "message": "활성 필터 설명을 아래에 표시합니다."
+   },
+   "settingsShowSummaryLabel": {
+      "message": "필터 요약 표시"
+   },
+   "settingsShowTutorialDesc": {
+      "message": "필터 패널 빠른 가이드를 다시 재생합니다."
+   },
+   "settingsShowTutorialLabel": {
+      "message": "튜토리얼 표시"
+   },
+   "settingsShowViewsPerDayDesc": {
+      "message": "검색 결과에서 각 동영상의 일일 조회수를 채널 정보 옆에 표시합니다."
+   },
+   "settingsShowViewsPerDayLabel": {
+      "message": "일일 조회수 표시"
+   },
+   "settingsSignInSync": {
+      "message": "Sign in to sync your plan across devices"
+   },
+   "settingsSmartChannelFetchDesc": {
+      "message": "필터나 표시 부가 기능이 실제로 필요할 때만 채널 정보 데이터(국가, 총 조회수, 개설일, 소셜 링크)를 가져옵니다."
+   },
+   "settingsSmartChannelFetchLabel": {
+      "message": "스마트 채널 가져오기"
+   },
+   "settingsTabDisplay": {
+      "message": "표시"
+   },
+   "settingsTabFiltering": {
+      "message": "필터"
+   },
+   "settingsTitle": {
+      "message": "필터 옵션"
+   },
+   "settingsTransparentModeDesc": {
+      "message": "필터된 동영상을 완전히 숨기지 않고 흐리게 표시합니다."
+   },
+   "settingsTransparentModeLabel": {
+      "message": "투명 모드"
+   },
+   "settingsVersion": {
+      "message": "버전"
+   },
+   "settingsVersionNumber": {
+      "message": "버전 $1"
+   },
+   "settingsViewThankYouModal": {
+      "message": "감사 모달 보기"
+   },
+   "settingsViewThankYouModalDesc": {
+      "message": "장기 사용자 기프트 편지 미리보기(임시)."
+   },
+   "settingsVisualAddons": {
+      "message": "시각적 추가 기능"
+   },
+   "socialAmazon": {
+      "message": "Amazon"
+   },
+   "socialBluesky": {
+      "message": "Bluesky"
+   },
+   "socialDiscord": {
+      "message": "Discord"
+   },
+   "socialEmail": {
+      "message": "이메일"
+   },
+   "socialFacebook": {
+      "message": "Facebook"
+   },
+   "socialInstagram": {
+      "message": "Instagram"
+   },
+   "socialKick": {
+      "message": "Kick"
+   },
+   "socialLinkedin": {
+      "message": "LinkedIn"
+   },
+   "socialLinktree": {
+      "message": "Linktree"
+   },
+   "socialOthers": {
+      "message": "기타"
+   },
+   "socialPatreon": {
+      "message": "Patreon"
+   },
+   "socialPinterest": {
+      "message": "Pinterest"
+   },
+   "socialReddit": {
+      "message": "Reddit"
+   },
+   "socialSnapchat": {
+      "message": "Snapchat"
+   },
+   "socialSpotify": {
+      "message": "Spotify"
+   },
+   "socialTelegram": {
+      "message": "Telegram"
+   },
+   "socialThreads": {
+      "message": "Threads"
+   },
+   "socialTiktok": {
+      "message": "TikTok"
+   },
+   "socialTwitch": {
+      "message": "Twitch"
+   },
+   "socialWebsite": {
+      "message": "개인 웹사이트"
+   },
+   "socialWhatsapp": {
+      "message": "WhatsApp"
+   },
+   "socialX": {
+      "message": "X / Twitter"
+   },
+   "socialYoutube": {
+      "message": "YouTube"
+   },
+   "starterRecommend": {
+      "message": "관련 콘텐츠 추천"
+   },
+   "starterSummarize": {
+      "message": "동영상 요약"
+   },
+   "starterTimestamps": {
+      "message": "타임스탬프 보기"
+   },
+   "starterWelcome": {
+      "message": "안녕하세요! 이 필터링된 동영상에 대해 질문이 있으신가요? 도와드리겠습니다."
+   },
+   "subscriptionFetchConsentBody": {
+      "message": "구독 채널만 가져옵니다 — 다른 데이터는 가져오지 않습니다. 동의하시겠습니까?"
+   },
+   "subscriptionFetchConsentCancel": {
+      "message": "취소"
+   },
+   "subscriptionFetchConsentConfirm": {
+      "message": "예, 가져오기"
+   },
+   "subscriptionFetchConsentTitle": {
+      "message": "구독 채널 가져오기"
+   },
+   "suffixPercent": {
+      "message": "%"
+   },
+   "suffixViewsPerDay": {
+      "message": "조회/일"
+   },
+   "summarizeWithAi": {
+      "message": "AI로 요약"
+   },
+   "summarizing": {
+      "message": "요약 중…"
+   },
+   "summaryCaptionLanguagesListAria": {
+      "message": "자막 언어"
+   },
+   "summaryChannelCountries": {
+      "message": "\u003Cem>$1\u003C/em> 출신"
+   },
+   "summaryChannelCountriesExclude": {
+      "message": "\u003Cem>$1\u003C/em> 출신이 아님"
+   },
+   "summaryChannelDescExcludes": {
+      "message": "정보에서 \u003Cem>$1\u003C/em> 제외"
+   },
+   "summaryChannelDescIncludesAll": {
+      "message": "정보에 \u003Cem>$1\u003C/em> 모두 포함"
+   },
+   "summaryChannelJoinedAfter": {
+      "message": "\u003Cem>$1\u003C/em> 이후 개설"
+   },
+   "summaryChannelJoinedBefore": {
+      "message": "\u003Cem>$1\u003C/em> 이전 개설"
+   },
+   "summaryChannelJoinedBetween": {
+      "message": "\u003Cem>$1\u003C/em>~\u003Cem>$2\u003C/em>에 개설"
+   },
+   "summaryChannelJoinedInClause": {
+      "message": "\u003Cem>$1\u003C/em>에 개설"
+   },
+   "summaryChannelJoinedPickClause": {
+      "message": "특정 기간에 개설(위에서 날짜 선택)"
+   },
+   "summaryChannelSocial": {
+      "message": "\u003Cem>$1\u003C/em> 연결됨"
+   },
+   "summaryChannelTagsInclude": {
+      "message": "채널 태그에 다음 중 하나 포함: \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelVideosAtLeast": {
+      "message": "채널 동영상 \u003Cem>$1\u003C/em> 이상"
+   },
+   "summaryChannelVideosBetween": {
+      "message": "채널 동영상 \u003Cem>$1\u003C/em>–\u003Cem>$2\u003C/em>"
+   },
+   "summaryChannelVideosUpTo": {
+      "message": "채널 동영상 \u003Cem>$1\u003C/em>까지"
+   },
+   "summaryChannelViewsAtLeast": {
+      "message": "총 조회수 최소 \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelViewsBetween": {
+      "message": "총 조회수 \u003Cem>$1\u003C/em>~\u003Cem>$2\u003C/em>"
+   },
+   "summaryChannelViewsUpTo": {
+      "message": "총 조회수 최대 \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelWith": {
+      "message": "채널 $1."
+   },
+   "summaryCommentRateAtLeast": {
+      "message": "댓글(%) \u003Cem>$1\u003C/em> 이상"
+   },
+   "summaryCommentRateBetween": {
+      "message": "댓글(%) \u003Cem>$1\u003C/em>~\u003Cem>$2\u003C/em>"
+   },
+   "summaryCommentRateUpTo": {
+      "message": "댓글(%) \u003Cem>$1\u003C/em> 이하"
+   },
+   "summaryCommentsAtLeast": {
+      "message": "댓글 \u003Cem>$1\u003C/em>개 이상"
+   },
+   "summaryCommentsBetween": {
+      "message": "댓글 \u003Cem>$1\u003C/em>~\u003Cem>$2\u003C/em>개"
+   },
+   "summaryCommentsUpTo": {
+      "message": "댓글 \u003Cem>$1\u003C/em>개 이하"
+   },
+   "summaryDescExcludes": {
+      "message": "설명에서 제외: \u003Cem>$1\u003C/em>"
+   },
+   "summaryDescIncludesAll": {
+      "message": "설명에 모두 포함: \u003Cem>$1\u003C/em>"
+   },
+   "summaryDislikeRateAtLeast": {
+      "message": "싫어요 비율 \u003Cem>$1\u003C/em> 이상 (%)"
+   },
+   "summaryDislikeRateBetween": {
+      "message": "싫어요 비율 \u003Cem>$1\u003C/em>~\u003Cem>$2\u003C/em> (%)"
+   },
+   "summaryDislikeRateUpTo": {
+      "message": "싫어요 비율 \u003Cem>$1\u003C/em> 이하 (%)"
+   },
+   "summaryDislikesAtLeast": {
+      "message": "싫어요 \u003Cem>$1\u003C/em> 이상"
+   },
+   "summaryDislikesBetween": {
+      "message": "싫어요 \u003Cem>$1\u003C/em>~\u003Cem>$2\u003C/em>"
+   },
+   "summaryDislikesUpTo": {
+      "message": "싫어요 \u003Cem>$1\u003C/em> 이하"
+   },
+   "summaryDurBetween": {
+      "message": "재생 시간 \u003Cem>$1\u003C/em>에서 \u003Cem>$2\u003C/em>"
+   },
+   "summaryDurLongerThan": {
+      "message": "\u003Cem>$1\u003C/em>보다 김"
+   },
+   "summaryDurUpTo": {
+      "message": "\u003Cem>$1\u003C/em>까지"
+   },
+   "summaryExcludeChannelsListAria": {
+      "message": "제외된 채널"
+   },
+   "summaryExcludeCountriesListAria": {
+      "message": "제외된 국가"
+   },
+   "summaryExcludingChannels": {
+      "message": "제외 채널: \u003Cem>$1\u003C/em>"
+   },
+   "summaryExcludingChannelsCount": {
+      "message": "$1개 채널 제외"
+   },
+   "summaryExcludingCountriesCount": {
+      "message": "$1개 국가 제외"
+   },
+   "summaryIncludeChannels": {
+      "message": "포함된 \u003Cem>$1\u003C/em>개 채널 내에서만 검색"
+   },
+   "summaryLanguage": {
+      "message": "요약 언어"
+   },
+   "summaryLikeRateAtLeast": {
+      "message": "좋아요(%) \u003Cem>$1\u003C/em> 이상"
+   },
+   "summaryLikeRateBetween": {
+      "message": "좋아요(%) \u003Cem>$1\u003C/em>~\u003Cem>$2\u003C/em>"
+   },
+   "summaryLikeRateUpTo": {
+      "message": "좋아요(%) \u003Cem>$1\u003C/em> 이하"
+   },
+   "summaryLikesAtLeast": {
+      "message": "최소 \u003Cem>$1\u003C/em> 좋아요"
+   },
+   "summaryLikesBetween": {
+      "message": "좋아요 \u003Cem>$1\u003C/em>~\u003Cem>$2\u003C/em>"
+   },
+   "summaryLikesUpTo": {
+      "message": "좋아요 최대 \u003Cem>$1\u003C/em>"
+   },
+   "summaryNoFilters": {
+      "message": "활성 필터 없음. 모든 동영상을 표시합니다."
+   },
+   "summaryPub_10y": {
+      "message": "지난 10년"
+   },
+   "summaryPub_12h": {
+      "message": "지난 12시간"
+   },
+   "summaryPub_15d": {
+      "message": "지난 15일"
+   },
+   "summaryPub_18m": {
+      "message": "지난 18개월"
+   },
+   "summaryPub_1h": {
+      "message": "지난 1시간"
+   },
+   "summaryPub_1m": {
+      "message": "지난 1개월"
+   },
+   "summaryPub_1w": {
+      "message": "지난 1주"
+   },
+   "summaryPub_1y": {
+      "message": "지난 1년"
+   },
+   "summaryPub_24h": {
+      "message": "지난 24시간"
+   },
+   "summaryPub_2d": {
+      "message": "지난 2일"
+   },
+   "summaryPub_2m": {
+      "message": "지난 2개월"
+   },
+   "summaryPub_2w": {
+      "message": "지난 2주"
+   },
+   "summaryPub_2y": {
+      "message": "지난 2년"
+   },
+   "summaryPub_3d": {
+      "message": "지난 3일"
+   },
+   "summaryPub_3h": {
+      "message": "지난 3시간"
+   },
+   "summaryPub_3m": {
+      "message": "지난 3개월"
+   },
+   "summaryPub_3w": {
+      "message": "지난 3주"
+   },
+   "summaryPub_3y": {
+      "message": "지난 3년"
+   },
+   "summaryPub_5d": {
+      "message": "지난 5일"
+   },
+   "summaryPub_5y": {
+      "message": "지난 5년"
+   },
+   "summaryPub_6h": {
+      "message": "지난 6시간"
+   },
+   "summaryPub_6m": {
+      "message": "지난 6개월"
+   },
+   "summaryPub_9m": {
+      "message": "지난 9개월"
+   },
+   "summaryRequireCaptions": {
+      "message": "자막 있음"
+   },
+   "summaryRequireCaptionsLang": {
+      "message": "자막: $1"
+   },
+   "summaryRequireCaptionsLangCount": {
+      "message": "자막: $1개 언어"
+   },
+   "summaryRequireChapters": {
+      "message": "설명에 챕터 있음"
+   },
+   "summaryRequireEmail": {
+      "message": "동영상 설명에 이메일 있음"
+   },
+   "summaryResponse": {
+      "message": "요약 응답"
+   },
+   "summaryResponseHelp": {
+      "message": "AI의 첫 메시지가 얼마나 상세해야 하는지. 첫 번째 응답에만 적용됩니다."
+   },
+   "summaryShowingUploaded": {
+      "message": "$1 업로드된 동영상 필터링 중."
+   },
+   "summaryShowingUploadedWithAlso": {
+      "message": "$1 업로드되고 $2에 맞는 동영상 필터링 중."
+   },
+   "summaryShowingWith": {
+      "message": "$1 조건의 동영상을 표시합니다."
+   },
+   "summarySubsAtLeast": {
+      "message": "구독자 \u003Cem>$1\u003C/em> 이상"
+   },
+   "summarySubsBetween": {
+      "message": "구독자 \u003Cem>$1\u003C/em>에서 \u003Cem>$2\u003C/em>"
+   },
+   "summarySubsUpTo": {
+      "message": "구독자 \u003Cem>$1\u003C/em>까지"
+   },
+   "summaryTitleExcludes": {
+      "message": "제목 제외: \u003Cem>$1\u003C/em>"
+   },
+   "summaryTitleIncludesAll": {
+      "message": "다음을 모두 포함하는 제목만: \u003Cem>$1\u003C/em>"
+   },
+   "summaryUnverifiedOnly": {
+      "message": "\u003Cem>미인증 채널만\u003C/em>"
+   },
+   "summaryUploadedAfterClause": {
+      "message": "\u003Cem>$1\u003C/em> 이후"
+   },
+   "summaryUploadedBeforeClause": {
+      "message": "\u003Cem>$1\u003C/em> 이전"
+   },
+   "summaryUploadedBetweenClause": {
+      "message": "\u003Cem>$1\u003C/em>~\u003Cem>$2\u003C/em>"
+   },
+   "summaryUploadedInClause": {
+      "message": "\u003Cem>$1\u003C/em>"
+   },
+   "summaryUploadedPickClause": {
+      "message": "특정 기간(위에서 날짜 선택)"
+   },
+   "summaryVerifiedOnly": {
+      "message": "\u003Cem>인증된 채널만\u003C/em>"
+   },
+   "summaryVideoTypeShorts": {
+      "message": "\u003Cem>Shorts\u003C/em>만"
+   },
+   "summaryVideoTypeVideos": {
+      "message": "\u003Cem>동영상\u003C/em>만"
+   },
+   "summaryViewsAtLeast": {
+      "message": "조회수 \u003Cem>$1\u003C/em> 이상"
+   },
+   "summaryViewsBetween": {
+      "message": "조회수 \u003Cem>$1\u003C/em>에서 \u003Cem>$2\u003C/em>"
+   },
+   "summaryViewsPerDayAtLeast": {
+      "message": "일일 최소 \u003Cem>$1\u003C/em> 조회"
+   },
+   "summaryViewsPerDayBetween": {
+      "message": "일일 조회수 \u003Cem>$1\u003C/em>~\u003Cem>$2\u003C/em>"
+   },
+   "summaryViewsPerDayUpTo": {
+      "message": "일일 조회수 최대 \u003Cem>$1\u003C/em>"
+   },
+   "summaryViewsUpTo": {
+      "message": "조회수 \u003Cem>$1\u003C/em>까지"
+   },
+   "tabAbout": {
+      "message": "정보"
+   },
+   "tabAccount": {
+      "message": "Profile"
+   },
+   "tabChannelFilters": {
+      "message": "채널 필터"
+   },
+   "tabDisplay": {
+      "message": "표시"
+   },
+   "tabUpgrade": {
+      "message": "업그레이드"
+   },
+   "tabVideoFilters": {
+      "message": "동영상 필터"
+   },
+   "thankYouGiftBodyDone": {
+      "message": "끝입니다!"
+   },
+   "thankYouGiftBodyHelp": {
+      "message": "도움이 필요하거나 제안이 있으면 언제든지:"
+   },
+   "thankYouGiftBodyHowever": {
+      "message": "하지만…"
+   },
+   "thankYouGiftBodyServer": {
+      "message": "저는 1인 개발자이며, 이 확장 프로그램을 유지하는 서버 비용이 점점 커져 무료로 계속 제공하기 어렵습니다."
+   },
+   "thankYouGiftBodyToken": {
+      "message": "오랫동안 함께해 주셔서 감사합니다. 감사의 마음을 담아 이 작은 선물을 받아 주세요."
+   },
+   "thankYouGiftHi": {
+      "message": "안녕하세요,"
+   },
+   "thankYouGiftStepCode": {
+      "message": "다음 코드 사용:"
+   },
+   "thankYouGiftStepLogin": {
+      "message": "여기를 클릭해 Google 계정으로 로그인(100% 안전하고 개인정보 보호 준수)"
+   },
+   "thankYouGiftStepProfile": {
+      "message": "왼쪽 \u003Cb>프로필\u003C/b> 탭 클릭"
+   },
+   "thankYouGiftStepsLead": {
+      "message": "1개월 무제한 이용을 활성화하려면:"
+   },
+   "thankYouGiftTitleAccent": {
+      "message": "1개월 프리미엄 무제한"
+   },
+   "thankYouGiftTitleAfter": {
+      "message": " YouTube Filter Pro를 드립니다!"
+   },
+   "thankYouGiftTitleBefore": {
+      "message": ""
+   },
+   "thinking": {
+      "message": "생각 중…"
+   },
+   "titleClearChannelDescExcludes": {
+      "message": "채널 설명 제외 조건 지우기"
+   },
+   "titleClearChannelDescIncludes": {
+      "message": "채널 설명 포함 조건 지우기"
+   },
+   "titleClearChannelTags": {
+      "message": "채널 태그 지우기"
+   },
+   "titleClearChannelVideos": {
+      "message": "채널 동영상 지우기"
+   },
+   "titleClearChannelViews": {
+      "message": "채널 조회수 지우기"
+   },
+   "titleClearComments": {
+      "message": "댓글 지우기"
+   },
+   "titleClearDescExcludes": {
+      "message": "설명 제외 조건 지우기"
+   },
+   "titleClearDescIncludes": {
+      "message": "설명 포함 조건 지우기"
+   },
+   "titleClearDuration": {
+      "message": "재생 시간 지우기"
+   },
+   "titleClearExcludedChannels": {
+      "message": "제외된 채널 지우기"
+   },
+   "titleClearJoined": {
+      "message": "개설일 지우기"
+   },
+   "titleClearLikes": {
+      "message": "좋아요 지우기"
+   },
+   "titleClearPublished": {
+      "message": "게시일 지우기"
+   },
+   "titleClearSubscribers": {
+      "message": "구독자 지우기"
+   },
+   "titleClearTitleExcludes": {
+      "message": "제목 제외 지우기"
+   },
+   "titleClearTitleIncludes": {
+      "message": "제목 포함 지우기"
+   },
+   "titleClearVerified": {
+      "message": "인증 지우기"
+   },
+   "titleClearViews": {
+      "message": "조회수 지우기"
+   },
+   "titleClearViewsPerDay": {
+      "message": "일일 조회수 지우기"
+   },
+   "titleMatchCheckTooltip": {
+      "message": "필터와 일치합니다"
+   },
+   "titleNonMatchTooltip": {
+      "message": "필터와 일치하지 않음"
+   },
+   "toastAutoScrollLabel": {
+      "message": "자동 스크롤"
+   },
+   "toastCheckingProgress": {
+      "message": "동영상 $1개 확인함…"
+   },
+   "toastDismissAria": {
+      "message": "알림 닫기"
+   },
+   "toastDismissBtn": {
+      "message": "다시 표시하지 않음"
+   },
+   "toastExcludeChannelNo": {
+      "message": "No"
+   },
+   "toastExcludeChannelPrompt": {
+      "message": "$1이(가) '채널 제외'에 추가되었습니다. 다시 검색할까요?",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "toastExcludeChannelYes": {
+      "message": "Yes"
+   },
+   "toastExhaustedHint": {
+      "message": "동영상 $1개 찾음 ($2개 확인함)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "toastExhaustedTitle": {
+      "message": "더 이상 결과가 없는 것 같습니다.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "toastFilteringPaused": {
+      "message": "필터 일시 중지됨"
+   },
+   "toastFilteringPausedHint": {
+      "message": "재생을 누르면 이 페이지에서 필터가 다시 켜집니다."
+   },
+   "toastFiltersActivePlural": {
+      "message": "필터 $1개 활성"
+   },
+   "toastFiltersActiveSingular": {
+      "message": "필터 $1개 활성"
+   },
+   "toastFiltersUpdatedTitle": {
+      "message": "필터가 업데이트되었습니다"
+   },
+   "toastFoundWithTotal": {
+      "message": "\u003Cspan class=\"yfp-toast__found-count\">$1\u003C/span> / \u003Cspan class=\"yfp-toast__total-count\">$2\u003C/span>개 발견"
+   },
+   "toastHintChainCap": {
+      "message": "지금까지 동영상 $1개 확인 — 더 많은 결과를 불러오는 중입니다."
+   },
+   "toastHintChaining": {
+      "message": "결과 더 불러오는 중…(지금까지 $1개 확인)"
+   },
+   "toastHintContinuationFailed": {
+      "message": "더 많은 결과를 불러올 수 없습니다 — 페이지를 새로고침하세요."
+   },
+   "toastHintExhausted": {
+      "message": "더 이상 불러올 검색 결과가 없습니다."
+   },
+   "toastHintExhaustedDetail": {
+      "message": "동영상 $1개 검색 — $2개만 일치. 더 이상 확인할 결과가 없습니다."
+   },
+   "toastHintScroll": {
+      "message": "필터링할 결과를 더 불러오는 중입니다. 언제든지 일시정지할 수 있습니다!"
+   },
+   "toastLogoAlt": {
+      "message": "YouTube Filter Pro"
+   },
+   "toastNoResults": {
+      "message": "필터와 일치하는 결과가 없습니다."
+   },
+   "toastOpenFiltersBtn": {
+      "message": "필터 열기"
+   },
+   "toastPauseAria": {
+      "message": "필터 일시 중지"
+   },
+   "toastResultsFoundHint": {
+      "message": "결과는 여기에 자동으로 표시됩니다."
+   },
+   "toastResultsFoundTitle": {
+      "message": "결과를 찾았습니다!"
+   },
+   "toastResumeAria": {
+      "message": "필터 재개"
+   },
+   "toastSearchCompleteLine": {
+      "message": "검색 완료. 동영상 $1개 찾음",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "toastSearchCompleteTitle": {
+      "message": "검색이 완료되었습니다!"
+   },
+   "toastSlowTrickleTitle": {
+      "message": "계속 검색 중 · 약 $1개 영상마다 1개 일치. 이 필터 조합은 드뭅니다."
+   },
+   "toastSummaryCollapseAria": {
+      "message": "필터 숨기기"
+   },
+   "toastSummaryExpandAria": {
+      "message": "모든 필터 표시"
+   },
+   "toastTutorialCompleteBody": {
+      "message": "결과를 필터링하는 중입니다. {{VIEW_RESULTS}}를 클릭하면 필터된 결과를 볼 수 있습니다.\n\n언제든지 {{PAUSE}}할 수도 있습니다. 즐기세요!"
+   },
+   "toastTutorialCompleteHere": {
+      "message": "여기를 클릭"
+   },
+   "toastTutorialDismissBtn": {
+      "message": "닫기"
+   },
+   "toastTutorialResetBtn": {
+      "message": "초기화"
+   },
+   "toastZeroMatchWarnHint": {
+      "message": "괜찮아요. 시간이 좀 더 걸릴 뿐입니다. 계속 검색하거나 필터를 완화해 보세요."
+   },
+   "toastZeroMatchWarnTitle": {
+      "message": "필터에 맞는 결과가 거의 없거나 없을 수 있습니다."
+   },
+   "tooltipReset": {
+      "message": "초기화"
+   },
+   "tryAgain": {
+      "message": "다시 시도"
+   },
+   "unableToSummarize": {
+      "message": "이 동영상에서는 현재 AI를 사용할 수 없습니다. "
+   },
+   "unableToSummarizeAfter": {
+      "message": " 후 다시 시도하세요."
+   },
+   "verifiedHide": {
+      "message": "인증된 채널 숨기기"
+   },
+   "verifiedOnly": {
+      "message": "인증된 채널만"
+   },
+   "verifiedShowAll": {
+      "message": "모두 표시"
+   },
+   "videoStatsLimitReached": {
+      "message": "이번 주 무료 $1회의 동영상 통계를 모두 사용했습니다. 무제한 동영상 통계를 위해 업그레이드하세요.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "videoStatsLimitReachedAnon": {
+      "message": "이번 주 무료 $1회의 동영상 통계를 모두 사용했습니다. 로그인 후 업그레이드하면 무제한 동영상 통계를 이용할 수 있습니다.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "videoStatsQuotaLockedTip": {
+      "description": "Click tip on Stats when free weekly Video Stats are exhausted. {{UPGRADE}} is replaced by a profile link.",
+      "message": "무제한 동영상 통계는 {{UPGRADE}}."
+   },
+   "videoStatsUpgradeLink": {
+      "description": "Clickable Upgrade label in the Video Stats quota tip",
+      "message": "업그레이드"
+   },
+   "videoTypeShorts": {
+      "message": "Shorts"
+   },
+   "videoTypeVideos": {
+      "message": "Videos"
+   },
+   "yfpDataAllLinksClose": {
+      "message": "닫기"
+   },
+   "yfpDataAllLinksTitle": {
+      "message": "모든 링크"
+   },
+   "yfpDataCaptionsAutoGenerated": {
+      "message": "(자동 생성)"
+   },
+   "yfpDataCaptionsAutoOnlyTip": {
+      "message": "자동 생성만"
+   },
+   "yfpDataCaptionsAutoTip": {
+      "message": "자동 생성 포함"
+   },
+   "yfpDataCaptionsNone": {
+      "message": "자막 없음"
+   },
+   "yfpDataChannelViewsLifetimeAvg": {
+      "message": "누적 평균: $1회/일",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "yfpDataDislikesLoadHint": {
+      "message": "클릭하여 싫어요 표시"
+   },
+   "yfpDataEmailCopied": {
+      "message": "복사됨"
+   },
+   "yfpDataEmailCopy": {
+      "message": "복사"
+   },
+   "yfpDataEmailTitle": {
+      "message": "이메일"
+   },
+   "yfpDataEmailsTitle": {
+      "message": "이메일"
+   },
+   "yfpDataExcellentEngagement": {
+      "message": "뛰어난 참여도"
+   },
+   "yfpDataLabelCaptions": {
+      "message": "자막"
+   },
+   "yfpDataLabelChannelViews": {
+      "message": "조회수"
+   },
+   "yfpDataLabelComments": {
+      "message": "댓글"
+   },
+   "yfpDataLabelCountry": {
+      "message": "국가"
+   },
+   "yfpDataLabelDislikes": {
+      "message": "싫어요"
+   },
+   "yfpDataLabelJoined": {
+      "message": "개설"
+   },
+   "yfpDataLabelLikes": {
+      "message": "좋아요"
+   },
+   "yfpDataLabelSubscribers": {
+      "message": "구독자"
+   },
+   "yfpDataLabelVideos": {
+      "message": "동영상"
+   },
+   "yfpDataLabelViewsPerDay": {
+      "message": "조회/일"
+   },
+   "yfpDataNoSocials": {
+      "message": "소셜 미디어/웹사이트를 찾지 못했습니다."
+   },
+   "yfpDataRateTierAverage": {
+      "message": "보통"
+   },
+   "yfpDataRateTierCommentsAverage": {
+      "message": "보통"
+   },
+   "yfpDataRateTierCommentsCritical": {
+      "message": "심각"
+   },
+   "yfpDataRateTierCommentsExcellent": {
+      "message": "우수"
+   },
+   "yfpDataRateTierCommentsGood": {
+      "message": "양호"
+   },
+   "yfpDataRateTierCommentsLow": {
+      "message": "낮음"
+   },
+   "yfpDataRateTierCritical": {
+      "message": "심각"
+   },
+   "yfpDataRateTierDislikesAverage": {
+      "message": "보통"
+   },
+   "yfpDataRateTierDislikesCritical": {
+      "message": "심각"
+   },
+   "yfpDataRateTierDislikesExcellent": {
+      "message": "우수"
+   },
+   "yfpDataRateTierDislikesGood": {
+      "message": "양호"
+   },
+   "yfpDataRateTierDislikesPoor": {
+      "message": "나쁨"
+   },
+   "yfpDataRateTierExcellent": {
+      "message": "우수"
+   },
+   "yfpDataRateTierGood": {
+      "message": "양호"
+   },
+   "yfpDataRateTierLikesAverage": {
+      "message": "보통"
+   },
+   "yfpDataRateTierLikesCritical": {
+      "message": "심각"
+   },
+   "yfpDataRateTierLikesExcellent": {
+      "message": "우수"
+   },
+   "yfpDataRateTierLikesGood": {
+      "message": "양호"
+   },
+   "yfpDataRateTierLikesLow": {
+      "message": "낮음"
+   },
+   "yfpDataRateTierLow": {
+      "message": "낮음"
+   },
+   "yfpDataRateTierPoor": {
+      "message": "나쁨"
+   },
+   "yfpDataRefetch": {
+      "message": "다시 가져오기"
+   },
+   "yfpDataRefetchTitle": {
+      "message": "일부 데이터가 제대로 로드되지 않았을 수 있습니다.\n수동으로 다시 가져올 수 있습니다."
+   },
+   "yfpDataRefetching": {
+      "message": "가져오는 중…"
+   },
+   "yfpDataTierChannelViewsAverage": {
+      "message": "보통"
+   },
+   "yfpDataTierChannelViewsCritical": {
+      "message": "심각"
+   },
+   "yfpDataTierChannelViewsExcellent": {
+      "message": "우수"
+   },
+   "yfpDataTierChannelViewsGood": {
+      "message": "양호"
+   },
+   "yfpDataTierChannelViewsLow": {
+      "message": "낮음"
+   },
+   "yfpDataTierVelocityLongAverage": {
+      "message": "보통"
+   },
+   "yfpDataTierVelocityLongCritical": {
+      "message": "심각"
+   },
+   "yfpDataTierVelocityLongExcellent": {
+      "message": "우수"
+   },
+   "yfpDataTierVelocityLongGood": {
+      "message": "양호"
+   },
+   "yfpDataTierVelocityLongLow": {
+      "message": "낮음"
+   },
+   "yfpDataTierVelocityShortAverage": {
+      "message": "보통"
+   },
+   "yfpDataTierVelocityShortCritical": {
+      "message": "심각"
+   },
+   "yfpDataTierVelocityShortExcellent": {
+      "message": "우수"
+   },
+   "yfpDataTierVelocityShortGood": {
+      "message": "양호"
+   },
+   "yfpDataTierVelocityShortLow": {
+      "message": "낮음"
+   },
+   "yfpDataUnknownTip": {
+      "message": "데이터를 사용할 수 없음"
+   },
+   "yfpDataUpgradeLink": {
+      "message": "업그레이드"
+   },
+   "yfpDataUpgradePromptTail": {
+      "message": "하여 빠른 통계 보기: 좋아요, 댓글, 총 조회수, 소셜 미디어 등"
+   },
+   "yfpDataVelocityColLong": {
+      "message": "긴 형식"
+   },
+   "yfpDataVelocityColScore": {
+      "message": "점수"
+   },
+   "yfpDataVelocityColShort": {
+      "message": "쇼츠"
+   },
+   "yfpDataViewAllLinks": {
+      "message": "모든 링크 보기"
+   },
+   "yfpDataViewMoreLinks": {
+      "description": "Shown after capped social icons on the watch Data bar; $1 is the hidden link count.",
+      "message": "$1개 더 보기"
+   },
+   "yfpDataViewVelocityFormula": {
+      "message": "공식: (조회수 ÷ 게시 일수) ÷ 구독자 × 100"
+   },
+   "yfpDataViewVelocityScore": {
+      "message": "구독 속도: $1%",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "yfpDataViewVelocityShortsContext": {
+      "message": "Shorts 검색"
+   },
+   "yfpDataViewVelocityVideosContext": {
+      "message": "동영상 검색"
+   },
+   "yfpPerformanceMetricsTitle": {
+      "description": "Title above channel performance metrics grid on watch / channel Stats",
+      "message": "성과 지표"
+   }
+}

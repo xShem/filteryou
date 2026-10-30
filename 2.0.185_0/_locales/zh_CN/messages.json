@@ -1,0 +1,3895 @@
+{
+   "aboutCodedCitadelBlurb": {
+      "message": "本扩展由 CodedCitadel.com 开发。我是独立开发者，致力于构建实用的社交媒体和电商工具。使用 Pro 版可帮助分担服务器成本，激励我继续改进。谢谢！"
+   },
+   "accountAccessUntil": {
+      "message": "Access until $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountAffiliateBody": {
+      "message": "使用您自己的促销码，每笔销售可获得 20% 佣金。"
+   },
+   "accountAffiliateCta": {
+      "message": "成为推广伙伴"
+   },
+   "accountAffiliateTitle": {
+      "message": "分享推广，赚取收益"
+   },
+   "accountAuthError": {
+      "message": "登录失败，请重试。"
+   },
+   "accountBillingError": {
+      "message": "无法打开客户门户。请重试。"
+   },
+   "accountBillingTestModeEmail": {
+      "message": "测试模式：Lemon 将收据和账单登录链接发送给商店所有者，而非结账邮箱。"
+   },
+   "accountCancelled": {
+      "message": "已取消登录。"
+   },
+   "accountCheckoutActivateFailed": {
+      "message": "无法激活。请在许可证代码框中尝试兑换。"
+   },
+   "accountCheckoutActivateLicense": {
+      "message": "激活许可证"
+   },
+   "accountCheckoutBody": {
+      "message": "1. Make the payment on the other tab\n2. Copy the license code\n3. Paste it in the 'License Code' box and redeem"
+   },
+   "accountCheckoutClose": {
+      "message": "Got it"
+   },
+   "accountCheckoutCopied": {
+      "message": "Copied to clipboard"
+   },
+   "accountCheckoutCopyKey": {
+      "message": "Copy"
+   },
+   "accountCheckoutError": {
+      "message": "Couldn't open checkout. Please try again."
+   },
+   "accountCheckoutHelp": {
+      "message": "需要帮助？ CodedCitadel@gmail.com"
+   },
+   "accountCheckoutLicenseEnabled": {
+      "message": "许可证已启用"
+   },
+   "accountCheckoutOr": {
+      "message": "or"
+   },
+   "accountCheckoutReadyBody": {
+      "message": "Here is your license key. Copy it, paste it in the License Code box, and redeem."
+   },
+   "accountCheckoutReadyBodyActivate": {
+      "message": "您的许可证已就绪。点击激活许可证以在此设备上解锁 Pro。"
+   },
+   "accountCheckoutReadyBodyEnabled": {
+      "message": "Pro 已在此设备上激活。您可以关闭此页面并继续浏览。"
+   },
+   "accountCheckoutReadyTitle": {
+      "message": "Purchase complete"
+   },
+   "accountCheckoutStep1": {
+      "message": "Complete your payment in the other tab"
+   },
+   "accountCheckoutStep2": {
+      "message": "Copy the license code"
+   },
+   "accountCheckoutStep2Activate": {
+      "message": "付款完成后请返回此处"
+   },
+   "accountCheckoutStep3": {
+      "message": "Paste it in the 'License Code' box and redeem"
+   },
+   "accountCheckoutStep3Activate": {
+      "message": "此页面将在 2 分钟内自动更新"
+   },
+   "accountCheckoutTitle": {
+      "message": "Checkout is opening in a new tab"
+   },
+   "accountConnectGoogleLink": {
+      "description": "Secondary text link under Purchase License Key on the upgrade options dialog",
+      "message": "使用 Google 连接"
+   },
+   "accountContinueGoogle": {
+      "message": "使用 Google 继续"
+   },
+   "accountGiftBody": {
+      "message": "有优惠券？兑换即可获得额外无限时长——部分代码可赠送数月免费。必须登录才能使用。"
+   },
+   "accountGiftCodeLabel": {
+      "message": "在此粘贴您的许可证密钥或礼品码。"
+   },
+   "accountGiftDelete": {
+      "message": "删除"
+   },
+   "accountGiftDeleteError": {
+      "message": "无法移除此礼品码，请重试。"
+   },
+   "accountGiftDeleted": {
+      "message": "已从此设备移除礼品码。"
+   },
+   "accountGiftHintEligibleSignedIn": {
+      "message": "您的 2 个月礼品已就绪——点击兑换即可应用。"
+   },
+   "accountGiftHintEligibleSignedOut": {
+      "message": "使用 Google 登录，然后点击兑换以应用您的 2 个月礼品。"
+   },
+   "accountGiftHintSignedIn": {
+      "message": "粘贴代码并兑换额外无限时长。"
+   },
+   "accountGiftHintSignedOut": {
+      "message": "使用 Google 登录以兑换礼品码。"
+   },
+   "accountGiftPauseTest": {
+      "message": "暂停礼品（测试）"
+   },
+   "accountGiftResumeTest": {
+      "message": "恢复礼品（测试）"
+   },
+   "accountGiftTitle": {
+      "message": "礼品码"
+   },
+   "accountGiftUnlimited": {
+      "message": "您拥有无限访问权限"
+   },
+   "accountGiftUnlimitedUntil": {
+      "message": "您可无限使用至 $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountGoPro": {
+      "message": "Upgrade"
+   },
+   "accountLicenseCancel": {
+      "message": "取消许可证"
+   },
+   "accountLicenseCancelBody": {
+      "message": "这只会在此浏览器中停用 Lemon 许可证。您可以稍后在此设备或其他设备上重新激活。礼品码和 Google 订阅不受影响。"
+   },
+   "accountLicenseCancelConfirm": {
+      "message": "是的，移除许可证"
+   },
+   "accountLicenseCancelDismiss": {
+      "message": "保留许可证"
+   },
+   "accountLicenseCancelError": {
+      "message": "无法移除许可证。请重试。"
+   },
+   "accountLicenseCancelLoading": {
+      "message": "正在从此设备移除许可证…"
+   },
+   "accountLicenseCancelTitle": {
+      "message": "从此设备移除许可证？"
+   },
+   "accountLicenseRemoveTest": {
+      "message": "移除许可证（测试）"
+   },
+   "accountLoggedInAs": {
+      "message": "Logged in as $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountManageBilling": {
+      "message": "Manage billing"
+   },
+   "accountNextPayment": {
+      "message": "Next payment on $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountPerkCancel": {
+      "message": "Cancel anytime"
+   },
+   "accountPerkExports": {
+      "message": "Unlimited exports"
+   },
+   "accountPerkFilters": {
+      "message": "All sorting and advanced filters"
+   },
+   "accountPerkSearches": {
+      "message": "Unlimited searches"
+   },
+   "accountPitchLimitTitle": {
+      "message": "You've used all $1 searches this week",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountPitchSub": {
+      "message": "Unlimited searches, exports, and every filter — cancel anytime."
+   },
+   "accountPitchSupportNote": {
+      "message": "您的订阅用于支付服务器费用，并帮助独立开发者持续改进此扩展。谢谢！"
+   },
+   "accountPitchTitle": {
+      "message": "Upgrade to Pro"
+   },
+   "accountPoweredByLemon": {
+      "message": "Powered by Stripe"
+   },
+   "accountPoweredByStripe": {
+      "message": "Powered by Stripe"
+   },
+   "accountPriceCancel": {
+      "message": "随时可取消"
+   },
+   "accountPriceInstant": {
+      "message": "即时访问"
+   },
+   "accountPriceSecure": {
+      "message": "安全支付"
+   },
+   "accountProBody": {
+      "message": "Congratulations! Unlimited searches, exports, and all filters are unlocked."
+   },
+   "accountProCancelledBody": {
+      "message": "您将保留 Pro 访问权限至 $1。管理账单以重新订阅或下载发票。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountProCancelledBodyEnded": {
+      "message": "您的 Pro 订阅已结束。管理账单以重新订阅或下载发票。"
+   },
+   "accountProCancelledTitle": {
+      "message": "您已取消订阅"
+   },
+   "accountProEmailLoading": {
+      "message": "正在加载账户…"
+   },
+   "accountProPurchasedAs": {
+      "message": "账户：$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountProTitle": {
+      "message": "You're on Pro"
+   },
+   "accountPurchaseLicenseKey": {
+      "message": "Purchase License Key"
+   },
+   "accountPurchaseLicenseNoLogin": {
+      "message": "无需登录。"
+   },
+   "accountQuotaResets": {
+      "message": "搜索将于 $1 重置",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountSignInOptional": {
+      "message": "登录是可选的。无需账户即可使用搜索和筛选。"
+   },
+   "accountSignInToUpgradeBody": {
+      "message": "Sign in with Google first. Then you can upgrade to Pro."
+   },
+   "accountSignInToUpgradeTitle": {
+      "message": "Sign in to upgrade"
+   },
+   "accountSignOut": {
+      "message": "退出登录"
+   },
+   "accountSignedInAs": {
+      "message": "已登录为"
+   },
+   "accountSigningIn": {
+      "message": "正在登录…"
+   },
+   "accountTitle": {
+      "message": "Profile"
+   },
+   "accountUnlockBody": {
+      "message": "获得无限搜索、导出、排序及所有高级筛选器。"
+   },
+   "accountUnlockTitle": {
+      "message": "解锁 Youtube Filter Pro 的全部功能"
+   },
+   "accountUpgradeNeedSignIn": {
+      "message": "Sign in with Google first to upgrade."
+   },
+   "accountUpgradeOpening": {
+      "message": "Opening checkout…"
+   },
+   "accountUpgradeOptionsTitle": {
+      "message": "Sign in with Google or Purchase a License Key (no login required)"
+   },
+   "accountUpgradePro": {
+      "message": "升级到 Pro"
+   },
+   "accountUsageAiChatsUsed": {
+      "message": "$1 / $2 AI 对话",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "accountUsageExportsUsed": {
+      "message": "$1 / $2 exports",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "accountUsagePercent": {
+      "message": "已使用 $1%",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountUsageQuickViewUsed": {
+      "message": "$1 / $2 视频数据",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "accountUsageUsed": {
+      "message": "本周已使用 $1 / $2 次搜索",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "aiChatDisabledForVideo": {
+      "message": "此 YouTube 频道已禁用此视频的 AI 互动。"
+   },
+   "aiChatLimitReached": {
+      "message": "您已用完全部 $1 次免费 AI 对话。升级即可获得无限 AI 对话。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "aiChatLimitReachedAnon": {
+      "message": "您已用完全部 $1 次免费 AI 对话。登录并升级即可获得无限 AI 对话。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "aiChatLimitToastHint": {
+      "message": "请{{UPGRADE}}以获得无限 AI 对话。"
+   },
+   "aiChatLimitToastTitle": {
+      "message": "您已达到免费 AI 对话上限"
+   },
+   "aiChatLimitToastUpgradeLink": {
+      "message": "升级"
+   },
+   "ariaAddChannelDescExclude": {
+      "message": "添加频道简介排除关键词"
+   },
+   "ariaAddChannelDescInclude": {
+      "message": "添加频道简介关键词"
+   },
+   "ariaAddChannelExclude": {
+      "message": "添加要排除的频道关键词"
+   },
+   "ariaAddChannelTag": {
+      "message": "添加频道标签"
+   },
+   "ariaAddDescExclude": {
+      "message": "添加简介排除词"
+   },
+   "ariaAddDescKeyword": {
+      "message": "添加简介关键词"
+   },
+   "ariaAddTitleExclude": {
+      "message": "添加要排除的词"
+   },
+   "ariaAddTitleKeyword": {
+      "message": "添加标题关键词"
+   },
+   "ariaCaptionLanguagesGroup": {
+      "message": "字幕语言"
+   },
+   "ariaChannelCountriesExcludeGroup": {
+      "message": "排除的频道国家/地区"
+   },
+   "ariaChannelCountriesGroup": {
+      "message": "频道国家/地区"
+   },
+   "ariaChannelDescExcludesGroup": {
+      "message": "频道简介排除关键词"
+   },
+   "ariaChannelDescIncludesGroup": {
+      "message": "频道简介包含关键词"
+   },
+   "ariaChannelSocialGroup": {
+      "message": "频道社交平台"
+   },
+   "ariaChannelTagsGroup": {
+      "message": "频道标签"
+   },
+   "ariaClearChannelDescExcludes": {
+      "message": "清除频道简介排除条件"
+   },
+   "ariaClearChannelDescIncludes": {
+      "message": "清除频道简介包含条件"
+   },
+   "ariaClearChannelTags": {
+      "message": "清除频道标签"
+   },
+   "ariaClearChannelVideos": {
+      "message": "清除频道视频数筛选"
+   },
+   "ariaClearChannelViews": {
+      "message": "清除频道观看次数筛选"
+   },
+   "ariaClearCommentRate": {
+      "message": "清除评论百分比筛选"
+   },
+   "ariaClearComments": {
+      "message": "清除评论筛选"
+   },
+   "ariaClearDescExcludes": {
+      "message": "清除简介排除条件"
+   },
+   "ariaClearDescIncludes": {
+      "message": "清除简介包含条件"
+   },
+   "ariaClearDislikeRate": {
+      "message": "清除不喜欢比例筛选"
+   },
+   "ariaClearDislikes": {
+      "message": "清除不喜欢筛选"
+   },
+   "ariaClearDuration": {
+      "message": "清除所有时长值"
+   },
+   "ariaClearExcludedChannels": {
+      "message": "清除已排除频道"
+   },
+   "ariaClearField": {
+      "message": "清除字段"
+   },
+   "ariaClearIncludedChannels": {
+      "message": "清除已包含的频道"
+   },
+   "ariaClearJoined": {
+      "message": "清除注册日期筛选"
+   },
+   "ariaClearLikeRate": {
+      "message": "清除点赞百分比筛选"
+   },
+   "ariaClearLikes": {
+      "message": "清除点赞筛选"
+   },
+   "ariaClearPublished": {
+      "message": "清除发布日期筛选"
+   },
+   "ariaClearSubscribers": {
+      "message": "清除订阅数筛选"
+   },
+   "ariaClearTitleExcludes": {
+      "message": "清除标题排除"
+   },
+   "ariaClearTitleIncludes": {
+      "message": "清除标题包含"
+   },
+   "ariaClearVerified": {
+      "message": "清除验证筛选"
+   },
+   "ariaClearVideoType": {
+      "message": "将视频类型重置为视频"
+   },
+   "ariaClearViews": {
+      "message": "清除播放量筛选"
+   },
+   "ariaClearViewsPerDay": {
+      "message": "清除每日观看量筛选"
+   },
+   "ariaCloseSettings": {
+      "message": "关闭设置"
+   },
+   "ariaDescExcludeGroup": {
+      "message": "简介排除标签"
+   },
+   "ariaDescIncludeGroup": {
+      "message": "简介包含关键词"
+   },
+   "ariaDisableFiltering": {
+      "message": "禁用筛选"
+   },
+   "ariaDurMaxHours": {
+      "message": "最大时（0–59）"
+   },
+   "ariaDurMaxMinutes": {
+      "message": "最大分（0–59）"
+   },
+   "ariaDurMaxSeconds": {
+      "message": "最大秒（0–59）"
+   },
+   "ariaDurMinHours": {
+      "message": "最小时（0–59）"
+   },
+   "ariaDurMinMinutes": {
+      "message": "最小分（0–59）"
+   },
+   "ariaDurMinSeconds": {
+      "message": "最小秒（0–59）"
+   },
+   "ariaEnableFiltering": {
+      "message": "启用筛选"
+   },
+   "ariaExcludeChannelsGroup": {
+      "message": "排除频道"
+   },
+   "ariaFilterHelpChapters": {
+      "message": "Show example of videos with chapters"
+   },
+   "ariaFilterHelpIncludeChannels": {
+      "message": "帮助：包含频道"
+   },
+   "ariaFilterHelpStrictSearch": {
+      "message": "说明严格搜索"
+   },
+   "ariaFilterMetricHelpCommentRate": {
+      "message": "评论率互动等级"
+   },
+   "ariaFilterMetricHelpDislikeRate": {
+      "message": "不喜欢比例帮助"
+   },
+   "ariaFilterMetricHelpLikeRate": {
+      "message": "点赞率互动等级"
+   },
+   "ariaIncludeChannelsGroup": {
+      "message": "包含频道"
+   },
+   "ariaJoinedFrom": {
+      "message": "频道注册起始"
+   },
+   "ariaJoinedPreset": {
+      "message": "频道注册日期预设"
+   },
+   "ariaJoinedUntil": {
+      "message": "频道注册截止"
+   },
+   "ariaMaxChannelVideos": {
+      "message": "最大频道视频数"
+   },
+   "ariaMaxChannelViews": {
+      "message": "频道最大总观看次数"
+   },
+   "ariaMaxCommentRate": {
+      "message": "最高评论百分比"
+   },
+   "ariaMaxComments": {
+      "message": "最多评论数"
+   },
+   "ariaMaxDislikeRate": {
+      "message": "最高不喜欢比例"
+   },
+   "ariaMaxDislikes": {
+      "message": "最多不喜欢数"
+   },
+   "ariaMaxLikeRate": {
+      "message": "最高点赞百分比"
+   },
+   "ariaMaxLikes": {
+      "message": "最大点赞数"
+   },
+   "ariaMaxSubscribers": {
+      "message": "最大订阅数"
+   },
+   "ariaMaxViews": {
+      "message": "最大播放量"
+   },
+   "ariaMaxViewsPerDay": {
+      "message": "每日最大观看次数"
+   },
+   "ariaMinChannelVideos": {
+      "message": "最小频道视频数"
+   },
+   "ariaMinChannelViews": {
+      "message": "频道最小总观看次数"
+   },
+   "ariaMinCommentRate": {
+      "message": "最低评论百分比"
+   },
+   "ariaMinComments": {
+      "message": "最少评论数"
+   },
+   "ariaMinDislikeRate": {
+      "message": "最低不喜欢比例"
+   },
+   "ariaMinDislikes": {
+      "message": "最少不喜欢数"
+   },
+   "ariaMinLikeRate": {
+      "message": "最低点赞百分比"
+   },
+   "ariaMinLikes": {
+      "message": "最低点赞数"
+   },
+   "ariaMinSubscribers": {
+      "message": "最小订阅数"
+   },
+   "ariaMinViews": {
+      "message": "最小播放量"
+   },
+   "ariaMinViewsPerDay": {
+      "message": "最低每日观看量"
+   },
+   "ariaPublishedFrom": {
+      "message": "发布起始日期"
+   },
+   "ariaPublishedPreset": {
+      "message": "发布日期预设"
+   },
+   "ariaPublishedUntil": {
+      "message": "发布截止日期"
+   },
+   "ariaRemoveTag": {
+      "message": "移除 $1"
+   },
+   "ariaResetAllFilters": {
+      "message": "重置所有筛选"
+   },
+   "ariaSearchQuery": {
+      "message": "YouTube 搜索词"
+   },
+   "ariaTitleExcludeGroup": {
+      "message": "标题排除标签"
+   },
+   "ariaTitleIncludeGroup": {
+      "message": "标题包含关键词"
+   },
+   "ariaVerifiedFilter": {
+      "message": "验证筛选"
+   },
+   "ariaVideoTypeFilter": {
+      "message": "视频类型筛选"
+   },
+   "askAboutVideo": {
+      "message": "就此视频提问"
+   },
+   "askAiAnything": {
+      "message": "向 AI 提问任何问题"
+   },
+   "askAriaLabel": {
+      "message": "就此视频提问"
+   },
+   "askPlaceholder": {
+      "message": "输入问题…"
+   },
+   "btnApply": {
+      "message": "应用"
+   },
+   "btnCancel": {
+      "message": "取消"
+   },
+   "btnClose": {
+      "message": "关闭"
+   },
+   "btnEnableAndSearch": {
+      "message": "启用并搜索"
+   },
+   "btnResetAll": {
+      "message": "全部重置"
+   },
+   "btnSearch": {
+      "message": "搜索"
+   },
+   "btnSearchAgain": {
+      "message": "再次搜索"
+   },
+   "btnUpgrade": {
+      "message": "升级"
+   },
+   "channelCountryUndeclared": {
+      "message": "未声明国家/地区"
+   },
+   "channelPickerMoreChannels": {
+      "message": "还有 $count$ 个",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "close": {
+      "message": "关闭"
+   },
+   "closeSearch": {
+      "message": "关闭搜索"
+   },
+   "coffeeBtnLabel": {
+      "message": "Buy me a coffee"
+   },
+   "coffeeFollowPrompt": {
+      "message": "在社交媒体上关注我："
+   },
+   "coffeeReviewBtn": {
+      "message": "在 Chrome 网上应用店评价"
+   },
+   "coffeeTextSupport": {
+      "message": "如果这个扩展对您有帮助，一杯咖啡会是很大的支持。"
+   },
+   "commentsReadLimitReached": {
+      "message": "您已在全部 $1 次免费搜索中使用了查看评论。升级即可无限阅读评论。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "commentsReadProOnly": {
+      "message": "查看评论仅限 Pro。"
+   },
+   "copy": {
+      "message": "复制"
+   },
+   "couldNotFindVideoId": {
+      "message": "无法在此卡片上找到视频 ID。"
+   },
+   "crawlTestDesc": {
+      "message": "仅通过 API 获取此搜索（不滚动），并列出缩略图 + 标题。"
+   },
+   "crawlTestReady": {
+      "message": "就绪 — 仅通过 API 获取（不滚动）。"
+   },
+   "crawlTestStart": {
+      "message": "开始抓取"
+   },
+   "crawlTestStop": {
+      "message": "停止"
+   },
+   "crawlTestTitle": {
+      "message": "显示测试搜索抓取"
+   },
+   "discordJoinLabel": {
+      "message": "加入我们的 Discord 服务器"
+   },
+   "dislikesProOnlyTip": {
+      "message": "仅限 Pro 用户使用。{{UPGRADE}}"
+   },
+   "dislikesProOnlyTipShort": {
+      "message": "仅限 Pro 用户使用。"
+   },
+   "dislikesProOnlyUpgrade": {
+      "message": "在此升级"
+   },
+   "done": {
+      "message": "完成"
+   },
+   "durDisplayBetween": {
+      "message": "\u003Cem>$1\u003C/em> 至 \u003Cem>$2\u003C/em> 之间"
+   },
+   "durDisplayLongerThan": {
+      "message": "长于 \u003Cem>$1\u003C/em>"
+   },
+   "durDisplayUpTo": {
+      "message": "最长 \u003Cem>$1\u003C/em>"
+   },
+   "durationHoursDisabledShorts": {
+      "message": "Shorts 不使用小时（最长 3 分钟）"
+   },
+   "enableBtnTitleOff": {
+      "message": "筛选已关闭 — 点击开启"
+   },
+   "enableBtnTitleOn": {
+      "message": "筛选已开启 — 点击关闭"
+   },
+   "enableBtnTitleOnDraft": {
+      "message": "已启用 — 点击搜索开始筛选"
+   },
+   "enableBtnTitleOnLive": {
+      "message": "筛选已开启 — 点击以关闭"
+   },
+   "errorChannelVideosMinExceedsMax": {
+      "message": "最小视频数不能大于最大视频数。"
+   },
+   "errorChannelViewMinExceedsMax": {
+      "message": "频道最小观看次数不能超过最大观看次数。"
+   },
+   "errorCommentRateMinExceedsMax": {
+      "message": "最低评论百分比不能高于最高值。"
+   },
+   "errorCommentsMinExceedsMax": {
+      "message": "最少评论数不能高于最多评论数。"
+   },
+   "errorDislikeRateMinExceedsMax": {
+      "message": "最低不喜欢 % 不能大于最高。"
+   },
+   "errorDislikesMinExceedsMax": {
+      "message": "最少不喜欢数不能大于最多。"
+   },
+   "errorDurMaxShortsExceeds3Min": {
+      "message": "Shorts 最长时长不能超过 3 分钟（180 秒）。"
+   },
+   "errorDurMinExceedsMax": {
+      "message": "最小时长不能大于最大时长。"
+   },
+   "errorLikeRateMinExceedsMax": {
+      "message": "最低点赞百分比不能高于最高值。"
+   },
+   "errorLikesMinExceedsMax": {
+      "message": "最小点赞数不能超过最大点赞数。"
+   },
+   "errorSubMinExceedsMax": {
+      "message": "最小订阅数不能大于最大订阅数。"
+   },
+   "errorViewsMinExceedsMax": {
+      "message": "最小播放量不能大于最大播放量。"
+   },
+   "errorViewsPerDayMinExceedsMax": {
+      "message": "每日最小观看次数不能超过每日最大观看次数。"
+   },
+   "excludeChannelsConflictInclude": {
+      "message": "该频道已在“包含频道”中。请先从那里移除。"
+   },
+   "export": {
+      "message": "导出"
+   },
+   "exportCsv": {
+      "message": "CSV"
+   },
+   "exportFieldChannel": {
+      "message": "频道"
+   },
+   "exportFieldChannelAvatar": {
+      "message": "频道头像"
+   },
+   "exportFieldChannelDescription": {
+      "message": "频道描述"
+   },
+   "exportFieldChannelId": {
+      "message": "频道 ID"
+   },
+   "exportFieldChannelKeywords": {
+      "message": "频道关键词"
+   },
+   "exportFieldChannelTags": {
+      "message": "频道标签"
+   },
+   "exportFieldChannelUrl": {
+      "message": "频道 URL"
+   },
+   "exportFieldChannelVideos": {
+      "message": "频道视频"
+   },
+   "exportFieldChannelViews": {
+      "message": "频道播放量"
+   },
+   "exportFieldChannelViewsCount": {
+      "message": "频道播放量（数值）"
+   },
+   "exportFieldCommentPct": {
+      "message": "评论 (%)"
+   },
+   "exportFieldComments": {
+      "message": "评论（数量）"
+   },
+   "exportFieldCountry": {
+      "message": "国家/地区"
+   },
+   "exportFieldDescription": {
+      "message": "描述"
+   },
+   "exportFieldDislikePct": {
+      "message": "不喜欢 (%)"
+   },
+   "exportFieldDislikes": {
+      "message": "不喜欢（数量）"
+   },
+   "exportFieldDuration": {
+      "message": "时长"
+   },
+   "exportFieldEmail": {
+      "message": "电子邮件"
+   },
+   "exportFieldExample_channelViews": {
+      "message": "例如 250 万"
+   },
+   "exportFieldExample_commentPct": {
+      "message": "例如 0.12%（一般）"
+   },
+   "exportFieldExample_comments": {
+      "message": "例如 42"
+   },
+   "exportFieldExample_dislikePct": {
+      "message": "例如 0.8%（良好）"
+   },
+   "exportFieldExample_dislikes": {
+      "message": "例如 120"
+   },
+   "exportFieldExample_likePct": {
+      "message": "例如 5%（优秀）"
+   },
+   "exportFieldExample_likes": {
+      "message": "例如 10"
+   },
+   "exportFieldExample_subscribers": {
+      "message": "例如 15 万"
+   },
+   "exportFieldExample_views": {
+      "message": "例如 12500"
+   },
+   "exportFieldExample_viewsPerDay": {
+      "message": "例如 850"
+   },
+   "exportFieldJoined": {
+      "message": "加入日期"
+   },
+   "exportFieldJoinedAtIso": {
+      "message": "加入时间（ISO）"
+   },
+   "exportFieldLikePct": {
+      "message": "点赞 (%)"
+   },
+   "exportFieldLikes": {
+      "message": "点赞（数量）"
+   },
+   "exportFieldOtherWebsites": {
+      "message": "其他网站"
+   },
+   "exportFieldPublished": {
+      "message": "发布日期"
+   },
+   "exportFieldPublishedAtIso": {
+      "message": "发布时间（ISO）"
+   },
+   "exportFieldSubscribers": {
+      "message": "订阅者"
+   },
+   "exportFieldSubscribersCount": {
+      "message": "订阅数"
+   },
+   "exportFieldThumbnail": {
+      "message": "缩略图"
+   },
+   "exportFieldTitle": {
+      "message": "标题"
+   },
+   "exportFieldUrl": {
+      "message": "URL"
+   },
+   "exportFieldVerified": {
+      "message": "已认证"
+   },
+   "exportFieldVideoId": {
+      "message": "视频 ID"
+   },
+   "exportFieldViews": {
+      "message": "播放量"
+   },
+   "exportFieldViewsPerDay": {
+      "message": "播放量/天（数量）"
+   },
+   "exportFieldsCancel": {
+      "message": "取消"
+   },
+   "exportFieldsExport": {
+      "message": "导出"
+   },
+   "exportFieldsGroupChannel": {
+      "message": "频道"
+   },
+   "exportFieldsGroupContact": {
+      "message": "联系 / 社交"
+   },
+   "exportFieldsGroupEngagement": {
+      "message": "互动"
+   },
+   "exportFieldsGroupVideo": {
+      "message": "视频"
+   },
+   "exportFieldsReset": {
+      "message": "重置"
+   },
+   "exportFieldsTitle": {
+      "message": "选择要导出的字段"
+   },
+   "exportFieldsTxtNote": {
+      "message": "TXT 导出仅包含 URL。"
+   },
+   "exportJson": {
+      "message": "JSON"
+   },
+   "exportLimitReached": {
+      "message": "您已用完全部 $1 次免费导出。升级即可获得无限导出。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportLimitToastHint": {
+      "message": "请{{UPGRADE}}以获得无限导出。"
+   },
+   "exportLimitToastTitle": {
+      "message": "您已达到免费导出上限"
+   },
+   "exportLimitToastUpgradeLink": {
+      "message": "升级"
+   },
+   "exportTxt": {
+      "message": "TXT"
+   },
+   "exportXlsx": {
+      "message": "XLSX"
+   },
+   "extensionDescription": {
+      "message": "按时长、播放量、发布日期、频道等实时筛选 YouTube 搜索结果。"
+   },
+   "extensionName": {
+      "message": "Youtube Filter Pro：按播放量、时长、日期等筛选"
+   },
+   "feedbackCloseAria": {
+      "message": "关闭"
+   },
+   "feedbackEmailPlaceholder": {
+      "message": "您的邮箱（可选）"
+   },
+   "feedbackErrorEmail": {
+      "message": "请输入有效的邮箱地址。"
+   },
+   "feedbackErrorEmpty": {
+      "message": "请输入您的反馈。"
+   },
+   "feedbackErrorGeneric": {
+      "message": "出现问题，请重试。"
+   },
+   "feedbackIncludeSearchHint": {
+      "message": "不会发送私人数据。这些数据会在我们处理问题期间最多在服务器上保存 30 天。"
+   },
+   "feedbackIncludeSearchHintResults": {
+      "message": "不会发送私人数据。这些数据将在我们的服务器上最多保存 30 天。"
+   },
+   "feedbackIncludeSearchLabel": {
+      "message": "在报告中包含本次搜索词（“$1”）和当前的 $2 条结果，以便诊断和修复问题。"
+   },
+   "feedbackIncludeSearchLabelNoQuery": {
+      "message": "在报告中包含本次搜索词和当前的 $1 条结果，以便诊断和修复问题。"
+   },
+   "feedbackIncludeSearchLabelResults": {
+      "message": "包含搜索词和结果，以便我们调查。"
+   },
+   "feedbackLinkText": {
+      "message": "错误或反馈？"
+   },
+   "feedbackModalTitle": {
+      "message": "我们会阅读所有建议。有什么可以改进？"
+   },
+   "feedbackModalTitleBug": {
+      "message": "报告错误或建议功能"
+   },
+   "feedbackModalTitleResults": {
+      "message": "抱歉这些结果没有帮助——出了什么问题？"
+   },
+   "feedbackRateLabel": {
+      "message": "请为我们评分"
+   },
+   "feedbackReviewLinkLabel": {
+      "message": "留下评价"
+   },
+   "feedbackSubmitLabel": {
+      "message": "发送反馈"
+   },
+   "feedbackSubmittingLabel": {
+      "message": "发送中..."
+   },
+   "feedbackSuggestionPlaceholder": {
+      "message": "写下您的建议"
+   },
+   "feedbackThankyouText": {
+      "message": "非常感谢您花时间反馈。"
+   },
+   "feedbackThankyouTitle": {
+      "message": "感谢反馈！"
+   },
+   "filterBtnAriaActiveCount": {
+      "message": "打开视频筛选，$1 个筛选类别已启用"
+   },
+   "filterBtnAriaFilteringOff": {
+      "message": "打开视频筛选。筛选已关闭 — 请在筛选选项中开启“启用筛选”。"
+   },
+   "filterBtnAriaOpen": {
+      "message": "打开视频筛选"
+   },
+   "filterBtnBadgeDisabled": {
+      "message": "（已禁用）"
+   },
+   "filterBtnLabel": {
+      "message": "筛选"
+   },
+   "filterBtnTooltipFilteringOff": {
+      "message": "筛选已关闭。请在筛选选项中开启“启用筛选”（Alt+Shift+F 打开，然后点击齿轮图标）。"
+   },
+   "filterHelpIncludeChannels": {
+      "message": "仅在你在此添加的频道内搜索你的查询。\n粘贴频道 URL（例如 youtube.com/@handle 或 youtube.com/channel/UC…）、@handle 或 UC 频道 ID，然后按 Enter。\n使用各频道内置搜索（非 YouTube 全局结果）。"
+   },
+   "filterHelpStrictSearch": {
+      "message": "仅显示标题包含您搜索的每个词的视频。"
+   },
+   "filterMetricHelpCommentRate": {
+      "message": "评论 ÷ 播放量\n≥0.5%：优秀\n0.1–0.2%：一般\n\u003C0.05%：偏低"
+   },
+   "filterMetricHelpDislikeRate": {
+      "message": "不喜欢 ÷ 播放量"
+   },
+   "filterMetricHelpLikeRate": {
+      "message": "点赞 ÷ 播放量\n≥4%：优秀\n2–3%：一般\n\u003C1%：偏低"
+   },
+   "filterQuotaLockedTip": {
+      "message": "升级以获取更多搜索次数，从而使用预设和排序。"
+   },
+   "filterTagEdit": {
+      "message": "编辑此筛选"
+   },
+   "filterTagRemove": {
+      "message": "移除此筛选"
+   },
+   "filterTagViewCaptionLanguages": {
+      "message": "查看语言"
+   },
+   "filterTagViewChannels": {
+      "message": "查看频道"
+   },
+   "filterTagViewCountries": {
+      "message": "查看国家/地区"
+   },
+   "footerAccountHint": {
+      "message": "管理您的搜索配额和礼品码。"
+   },
+   "footerFiltersCountPlural": {
+      "message": "$1 个筛选"
+   },
+   "footerFiltersCountSingular": {
+      "message": "$1 个筛选"
+   },
+   "footerFiltersLabel": {
+      "message": "筛选"
+   },
+   "footerReviewLabel": {
+      "message": "评价"
+   },
+   "geminiCouldNotSummarize": {
+      "message": "Gemini 无法摘要此视频。"
+   },
+   "geminiNoReply": {
+      "message": "Gemini 未返回回复。"
+   },
+   "giftCodeError": {
+      "message": "无法兑换该代码。"
+   },
+   "giftCodeErrorAlreadyRedeemed": {
+      "message": "您已兑换过此码。"
+   },
+   "giftCodeErrorExpired": {
+      "message": "此礼品码已过期。"
+   },
+   "giftCodeErrorInvalid": {
+      "message": "请输入有效的礼品码。"
+   },
+   "giftCodeErrorMissingDevice": {
+      "message": "无法验证此设备。请刷新页面后重试。"
+   },
+   "giftCodeErrorUnknown": {
+      "message": "该礼品码不存在。请检查拼写后重试。"
+   },
+   "giftCodeErrorUsedUp": {
+      "message": "此码已达到最大使用次数。"
+   },
+   "giftCodeLabel": {
+      "message": "礼品码"
+   },
+   "giftCodePlaceholder": {
+      "message": "YFP-XXXX-XXXX"
+   },
+   "giftCodeRedeem": {
+      "message": "兑换"
+   },
+   "giftCodeRedeeming": {
+      "message": "正在兑换…"
+   },
+   "giftCodeSuccess": {
+      "message": "礼品已应用。"
+   },
+   "giftGrantAddsLabel": {
+      "message": "增加"
+   },
+   "giftGrantDays": {
+      "message": "$1 天",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "giftGrantExpiresLabel": {
+      "message": "到期"
+   },
+   "giftGrantLifetime": {
+      "message": "终身"
+   },
+   "giftGrantMonths": {
+      "message": "$1 个月",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "giftGrantNeverExpires": {
+      "message": "永不过期"
+   },
+   "giftGrantOneDay": {
+      "message": "1 天"
+   },
+   "giftGrantOneMonth": {
+      "message": "1 个月"
+   },
+   "giftGrantRedeemedLabel": {
+      "message": "兑换于"
+   },
+   "giftSignInBody": {
+      "message": "请先使用 Google 登录以使用您的礼品码。"
+   },
+   "giftSignInTitle": {
+      "message": "登录以兑换礼品码"
+   },
+   "helperChannelCountry": {
+      "message": "仅显示位于这些国家/地区的频道（来自关于标签）。"
+   },
+   "helperChannelCountryExclude": {
+      "message": "隐藏位于这些国家/地区的频道（来自关于标签）。"
+   },
+   "helperChannelDescExcludes": {
+      "message": "隐藏关于文本包含任一这些关键词的频道。"
+   },
+   "helperChannelDescIncludes": {
+      "message": "频道关于文本必须包含所有这些关键词。"
+   },
+   "helperChannelJoined": {
+      "message": "按频道创建时间筛选。"
+   },
+   "helperChannelSocial": {
+      "message": "仅显示至少链接了其中一个平台的频道。"
+   },
+   "helperChannelTags": {
+      "message": "将显示标签包含这些关键词之一的频道的视频。"
+   },
+   "helperChannelVideos": {
+      "message": "按频道上传视频数筛选。留空表示无限制。"
+   },
+   "helperChannelViews": {
+      "message": "按频道总观看次数筛选（从关于解析，与语言无关）。"
+   },
+   "helperCommentRate": {
+      "message": "评论数占播放量的百分比"
+   },
+   "helperComments": {
+      "message": "显示所选评论数范围内的视频。"
+   },
+   "helperDescExcludes": {
+      "message": "隐藏简介包含以下任一关键词的视频。"
+   },
+   "helperDescIncludes": {
+      "message": "仅显示简介包含全部这些关键词的视频。"
+   },
+   "helperDislikeRate": {
+      "message": "基于播放量的不喜欢总 %（Pro）。"
+   },
+   "helperDislikes": {
+      "message": "按不喜欢数筛选（Pro）。"
+   },
+   "helperDuration": {
+      "message": "显示指定时长范围内的视频。"
+   },
+   "helperExcludeChannels": {
+      "message": "这些频道的视频将被隐藏。"
+   },
+   "helperIncludeChannels": {
+      "message": "仅搜索这些频道的视频。可通过完整频道 URL（youtube.com/@handle 或 /channel/UC…）、@handle 或 UC 频道 ID 添加。"
+   },
+   "helperLeaveBlankNoLimit": {
+      "message": "留空表示无限制。"
+   },
+   "helperLikeRate": {
+      "message": "点赞数占播放量的百分比。2-5% = 高。"
+   },
+   "helperLikes": {
+      "message": "隐藏点赞数低于此数量的视频。"
+   },
+   "helperPublished": {
+      "message": "仅显示在特定日期范围内发布的视频。"
+   },
+   "helperRequireCaptions": {
+      "message": "仅显示有字幕的视频。可选择一种或多种语言。"
+   },
+   "helperRequireChapters": {
+      "message": "只显示描述中带时间戳章节的视频"
+   },
+   "helperRequireEmail": {
+      "message": "匹配在视频简介中显示邮箱的视频。"
+   },
+   "helperSearchQuery": {
+      "message": "编辑 YouTube 搜索词。"
+   },
+   "helperSubscribers": {
+      "message": "按频道订阅数筛选。留空表示无限制。"
+   },
+   "helperTitleExcludes": {
+      "message": "包含这些词的视频将被隐藏。"
+   },
+   "helperTitleIncludes": {
+      "message": "仅显示标题包含所有这些关键词的视频"
+   },
+   "helperVerified": {
+      "message": "按验证徽章筛选。"
+   },
+   "helperVideoType": {
+      "message": "只搜索 YouTube 视频或 Shorts。"
+   },
+   "helperViews": {
+      "message": "显示指定观看次数范围内的视频。"
+   },
+   "helperViewsPerDay": {
+      "message": "隐藏每日观看量低于此阈值的视频。"
+   },
+   "hintAfter": {
+      "message": "更改摘要长度及其他设置。"
+   },
+   "hintAiConversationsLeft": {
+      "message": "您还剩 $1 次 AI 对话。{{UPGRADE}}即可获得无限次。",
+      "placeholders": {
+         "1": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "hintAiConversationsUpgrade": {
+      "message": "升级"
+   },
+   "hintBefore": {
+      "message": "您可以在"
+   },
+   "hintHere": {
+      "message": "此处"
+   },
+   "includeChannelsConflictExclude": {
+      "message": "该频道已在“排除频道”中。请先从那里移除。"
+   },
+   "includeChannelsFetchSubscriptions": {
+      "message": "从订阅中获取频道"
+   },
+   "includeChannelsFetchSubscriptionsDone": {
+      "message": "已从订阅中保存 $1 个频道。"
+   },
+   "includeChannelsFetchSubscriptionsFailed": {
+      "message": "无法加载订阅。请在 youtube.com 登录后重试。"
+   },
+   "includeChannelsFetchingSubscriptions": {
+      "message": "正在获取您的订阅…"
+   },
+   "includeChannelsFetchingSubscriptionsProgress": {
+      "message": "正在获取您的订阅… 目前已加载 $1 个频道。"
+   },
+   "includeChannelsListNoMatches": {
+      "message": "没有与搜索匹配的频道。"
+   },
+   "includeChannelsLookingUp": {
+      "message": "正在查找频道…"
+   },
+   "includeChannelsNoCached": {
+      "message": "尚无已保存的频道——请在上方添加。"
+   },
+   "includeChannelsNotFound": {
+      "message": "未找到频道。请使用完整的 YouTube URL、@handle 或频道 ID。"
+   },
+   "includeInitialSummary": {
+      "message": "包含初始摘要？"
+   },
+   "includeInitialSummaryHelp": {
+      "message": "点击 AI 按钮时自动摘要视频（可能包含剧透）。关闭后将以建议操作打开对话。"
+   },
+   "labelChannelCountry": {
+      "message": "国家/地区"
+   },
+   "labelChannelCountryExclude": {
+      "message": "排除国家/地区"
+   },
+   "labelChannelDescExcludes": {
+      "message": "频道简介排除"
+   },
+   "labelChannelDescIncludes": {
+      "message": "频道简介包含"
+   },
+   "labelChannelJoined": {
+      "message": "注册日期"
+   },
+   "labelChannelSocial": {
+      "message": "社交链接"
+   },
+   "labelChannelTags": {
+      "message": "频道标签"
+   },
+   "labelChannelVideos": {
+      "message": "频道视频数"
+   },
+   "labelChannelViews": {
+      "message": "频道观看次数"
+   },
+   "labelCommentRate": {
+      "message": "评论（%）"
+   },
+   "labelComments": {
+      "message": "评论"
+   },
+   "labelDescExcludes": {
+      "message": "简介排除"
+   },
+   "labelDescIncludes": {
+      "message": "简介包含"
+   },
+   "labelDislikeRate": {
+      "message": "不喜欢 (%)"
+   },
+   "labelDislikes": {
+      "message": "不喜欢"
+   },
+   "labelDuration": {
+      "message": "时长"
+   },
+   "labelExcludeChannels": {
+      "message": "排除频道"
+   },
+   "labelIncludeChannels": {
+      "message": "包含频道"
+   },
+   "labelLikeRate": {
+      "message": "点赞（%）"
+   },
+   "labelLikes": {
+      "message": "点赞"
+   },
+   "labelMax": {
+      "message": "最大"
+   },
+   "labelMaxPercent": {
+      "message": "最大 %"
+   },
+   "labelMin": {
+      "message": "最小"
+   },
+   "labelMinPercent": {
+      "message": "最小 %"
+   },
+   "labelPublished": {
+      "message": "发布日期"
+   },
+   "labelRequireCaptions": {
+      "message": "有字幕"
+   },
+   "labelRequireChapters": {
+      "message": "有章节"
+   },
+   "labelRequireEmail": {
+      "message": "视频简介中有邮箱"
+   },
+   "labelSearchQuery": {
+      "message": "搜索"
+   },
+   "labelStrictSearch": {
+      "message": "启用严格搜索"
+   },
+   "labelSubscribers": {
+      "message": "订阅数"
+   },
+   "labelTitleExcludes": {
+      "message": "标题排除"
+   },
+   "labelTitleIncludes": {
+      "message": "标题包含"
+   },
+   "labelVerified": {
+      "message": "已验证"
+   },
+   "labelVideoType": {
+      "message": "视频类型"
+   },
+   "labelViews": {
+      "message": "播放量"
+   },
+   "labelViewsPerDay": {
+      "message": "每日观看量"
+   },
+   "loading": {
+      "message": "加载中"
+   },
+   "mfrAiDisclosureTip": {
+      "message": "YouTube 已识别并标记此视频中的 AI 生成内容，可能包括音频、翻译或视觉元素。"
+   },
+   "mfrAskAiNewTip": {
+      "message": "新功能！向 AI 询问与视频相关的任何问题。"
+   },
+   "mfrAskAiNewTipDismissAria": {
+      "message": "关闭 AI 提问提示"
+   },
+   "mfrAskAiSummaryLabel": {
+      "message": "摘要"
+   },
+   "mfrAskAiSummaryTip": {
+      "message": "向 AI 询问有关此视频的任何问题。"
+   },
+   "mfrCommentsReadTipDismissAria": {
+      "message": "关闭评论提示"
+   },
+   "mfrCommentsReadTipTitle": {
+      "message": "现在可以快速阅读评论了。"
+   },
+   "mfrDashboardUpgrade": {
+      "message": "升级"
+   },
+   "mfrDashboardUpgradeTip": {
+      "message": "升级即可获得无限搜索、排序和 AI 使用。"
+   },
+   "modalAriaCloseFilters": {
+      "message": "关闭筛选"
+   },
+   "modalAriaEnableToggle": {
+      "message": "启用/禁用筛选"
+   },
+   "modalAriaFilterSettings": {
+      "message": "筛选设置"
+   },
+   "modalFilterChipEnabledSubtitle": {
+      "message": "正在查找符合你{{FILTERS}}条件的视频。请勿关闭此标签页。"
+   },
+   "modalFilterChipEnabledTitle": {
+      "message": "筛选已启用"
+   },
+   "modalFilterChipFiltersLink": {
+      "message": "筛选"
+   },
+   "modalFilterChipMetricChecked": {
+      "message": "已检查：$1"
+   },
+   "modalFilterChipMetricElapsed": {
+      "message": "已用时：$1"
+   },
+   "modalFilterChipMetricFiltered": {
+      "message": "已找到：$1"
+   },
+   "modalFilterChipMetricPage": {
+      "message": "页码：$1"
+   },
+   "modalFilterChipProgress": {
+      "message": "正在筛选视频 · 找到 \u003Cspan class=\"yfp-toast__found-count\">$1\u003C/span> / \u003Cspan class=\"yfp-toast__total-count\">$2\u003C/span> · 第 $3 页"
+   },
+   "modalFilterChipScrollingHint": {
+      "message": "正在\u003Cb>加载更多结果\u003C/b>以检查所有视频。请稍候！"
+   },
+   "modalFilterCompleted": {
+      "message": "完成！点击此处查看结果。"
+   },
+   "modalFilterCopiedUrlsSuccess": {
+      "message": "已成功复制 $1 个网址",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterDescEmpty": {
+      "message": "暂无简介"
+   },
+   "modalFilterDescLoading": {
+      "message": "正在加载简介…"
+   },
+   "modalFilterEditFilters": {
+      "message": "编辑筛选"
+   },
+   "modalFilterExcludeChannelTip": {
+      "message": "从此搜索中排除此频道"
+   },
+   "modalFilterExcludeCountryTip": {
+      "message": "从搜索中排除此国家/地区"
+   },
+   "modalFilterExhaustedNoMatches": {
+      "message": "已到达搜索页末尾且没有匹配视频。请尝试放宽筛选条件。"
+   },
+   "modalFilterExhaustedNoMatchesChannels": {
+      "message": "已搜索完所有已包含频道，但没有匹配的视频。请尝试放宽筛选条件。"
+   },
+   "modalFilterExport": {
+      "message": "导出"
+   },
+   "modalFilterExportCompletingSearch": {
+      "message": "正在完成搜索… 找到 $1 个（已检查 $2 个）",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "modalFilterExportCopyUrls": {
+      "message": "复制网址"
+   },
+   "modalFilterExportCsv": {
+      "message": "CSV"
+   },
+   "modalFilterExportFormatCsv": {
+      "message": "CSV"
+   },
+   "modalFilterExportFormatJson": {
+      "message": "JSON"
+   },
+   "modalFilterExportFormatTxt": {
+      "message": "TXT"
+   },
+   "modalFilterExportFormatXlsx": {
+      "message": "Excel (.xlsx)"
+   },
+   "modalFilterExportJson": {
+      "message": "JSON"
+   },
+   "modalFilterExportPausing": {
+      "message": "正在暂停筛选以导出…"
+   },
+   "modalFilterExportSuccess": {
+      "message": "已成功导出到 $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterExportTxt": {
+      "message": "TXT"
+   },
+   "modalFilterExportXlsx": {
+      "message": "XLSX"
+   },
+   "modalFilterFilterTagsMore": {
+      "message": "+ 另外 $1 个"
+   },
+   "modalFilterFiltering": {
+      "message": "正在筛选视频…"
+   },
+   "modalFilterFiltersSummaryTitle": {
+      "message": "筛选摘要"
+   },
+   "modalFilterGoToPage": {
+      "message": "跳转到页面"
+   },
+   "modalFilterGoToPagePlaceholder": {
+      "message": "#"
+   },
+   "modalFilterKeepSearching": {
+      "message": "继续搜索"
+   },
+   "modalFilterLoading": {
+      "message": "加载中…"
+   },
+   "modalFilterMetricCheckedLabel": {
+      "message": "已扫描视频"
+   },
+   "modalFilterMetricElapsedLabel": {
+      "message": "已用时间"
+   },
+   "modalFilterMetricFoundLabel": {
+      "message": "匹配视频"
+   },
+   "modalFilterMetricPageLabel": {
+      "message": "已到达页数"
+   },
+   "modalFilterMoreVideosProcessing": {
+      "message": "正在处理另外 $1 个视频",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterNextPage": {
+      "message": "下一页"
+   },
+   "modalFilterNextPageBtn": {
+      "message": "下一页"
+   },
+   "modalFilterNoMatches": {
+      "message": "未找到匹配的视频。"
+   },
+   "modalFilterNoMoreResults": {
+      "message": "此搜索页没有更多结果"
+   },
+   "modalFilterPageSuffix": {
+      "message": "（第 $1 页）"
+   },
+   "modalFilterPaginationAria": {
+      "message": "结果分页"
+   },
+   "modalFilterPanelCompletedStatus": {
+      "message": "筛选已完成。找到 $1 个视频。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "modalFilterPanelEnabledStatus": {
+      "message": "筛选已启用。找到 $1 个视频。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "modalFilterPanelFound": {
+      "message": "找到 \u003Cspan class=\"yfp-toast__found-count\">$1\u003C/span> 个视频 \u003Csmall class=\"yfp-mfr-checked\">（已检查 $2 个视频）\u003C/small>"
+   },
+   "modalFilterPanelPausedStatus": {
+      "message": "筛选已暂停。找到 $1 个视频。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "modalFilterPause": {
+      "message": "暂停"
+   },
+   "modalFilterPausing": {
+      "message": "正在暂停…"
+   },
+   "modalFilterPreparingDownload": {
+      "message": "正在准备下载…"
+   },
+   "modalFilterPrevPage": {
+      "message": "上一页"
+   },
+   "modalFilterProgressFoundPlural": {
+      "message": "找到 $1 个结果"
+   },
+   "modalFilterProgressFoundSingular": {
+      "message": "找到 $1 个结果"
+   },
+   "modalFilterRateFiveStars": {
+      "message": "评分"
+   },
+   "modalFilterReportBug": {
+      "message": "报告错误"
+   },
+   "modalFilterResultsCompleteSubtitle": {
+      "message": "搜索完成。"
+   },
+   "modalFilterResultsForQuery": {
+      "message": "搜索结果：\"$1\"",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterResultsTitle": {
+      "message": "筛选结果"
+   },
+   "modalFilterResume": {
+      "message": "继续"
+   },
+   "modalFilterSearchingBannerSubtitle": {
+      "message": "正在自动滚动页面并搜索符合筛选条件的视频。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterSearchingBannerSubtitleFallback": {
+      "message": "请保持此标签页打开。"
+   },
+   "modalFilterSearchingChannelsSubtitle": {
+      "message": "正在已包含的频道中搜索\"$1\"。请保持此标签页打开。"
+   },
+   "modalFilterSearchingChannelsSubtitleFallback": {
+      "message": "正在搜索您已包含的频道。请保持此标签页打开。"
+   },
+   "modalFilterSearchingChannelsTitle": {
+      "message": "正在搜索 $1 个频道"
+   },
+   "modalFilterSearchingCriteriaTitle": {
+      "message": "正在筛选符合你全部条件的视频"
+   },
+   "modalFilterSearchingEmptyHint": {
+      "message": "找到的结果会显示在这里。\n这可能需要几分钟。你可以随时关闭此页面。"
+   },
+   "modalFilterSearchingNoResultsYet": {
+      "message": "正在搜索… 暂无结果。"
+   },
+   "modalFilterSearchingPausedSubtitle": {
+      "message": "页面自动滚动已暂停。"
+   },
+   "modalFilterSearchingPausedTitle": {
+      "message": "搜索已暂停。"
+   },
+   "modalFilterSearchingProgress": {
+      "message": "正在搜索（在 $2 个视频中找到 $1 个）"
+   },
+   "modalFilterSearchingProgressShort": {
+      "message": "在 $2 个视频中找到 $1 个"
+   },
+   "modalFilterSearchingStatus": {
+      "message": "正在搜索..."
+   },
+   "modalFilterSearchingStatusFilters": {
+      "message": "正在应用筛选"
+   },
+   "modalFilterSearchingStatusMatches": {
+      "message": "正在查找匹配项"
+   },
+   "modalFilterSearchingStatusScroll": {
+      "message": "自动滚动中"
+   },
+   "modalFilterSearchingStatusTime": {
+      "message": "这可能需要几分钟"
+   },
+   "modalFilterSearchingSubtitle": {
+      "message": "正在扫描符合你 $1 个筛选条件的视频"
+   },
+   "modalFilterSearchingSubtitlePlural": {
+      "message": "正在扫描符合你 $1 个筛选条件的视频"
+   },
+   "modalFilterSearchingSubtitleSingular": {
+      "message": "正在扫描符合你 $1 个筛选条件的视频"
+   },
+   "modalFilterSearchingTipBody": {
+      "message": "太慢了？如果筛选条件过严，结果可能很少——甚至没有。"
+   },
+   "modalFilterSearchingTipLabel": {
+      "message": "提示："
+   },
+   "modalFilterSearchingTitle": {
+      "message": "正在搜索 YouTube..."
+   },
+   "modalFilterShowFeedback": {
+      "message": "显示反馈"
+   },
+   "modalFilterShowLess": {
+      "message": "收起"
+   },
+   "modalFilterShowMore": {
+      "message": "显示更多"
+   },
+   "modalFilterSortAvailableWhenSettled": {
+      "message": "出现结果后即可排序"
+   },
+   "modalFilterSortReorderHint": {
+      "message": "视频会实时排序。加载并排序全部结果可能需要 30–60 秒。"
+   },
+   "modalFilterSortReorderTitle": {
+      "message": "加载时视频顺序可能会变化。"
+   },
+   "modalFilterSortTip": {
+      "message": "点击此处排序结果"
+   },
+   "modalFilterSortTipDismissAria": {
+      "message": "关闭排序提示"
+   },
+   "modalFilterSortVisibleResultsAria": {
+      "message": "排序当前可见结果"
+   },
+   "modalFilterSortingBy": {
+      "message": "正在按 $1 排序…",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterStart": {
+      "message": "开始"
+   },
+   "modalFilterStartedHint": {
+      "message": "找到的结果会显示在这里。请保持此标签页打开。"
+   },
+   "modalFilterStartedTitle": {
+      "message": "已开始筛选"
+   },
+   "modalFilterStop": {
+      "message": "停止"
+   },
+   "modalFilterStopped": {
+      "message": "筛选已停止"
+   },
+   "modalFilterSupportPromo": {
+      "message": "如果这个扩展对你有帮助，非常感谢你的支持！"
+   },
+   "modalFilterVideosChecked": {
+      "message": "已检查 $1 个视频…"
+   },
+   "modalFilterVideosSorted": {
+      "message": "已排序 $1/$2 个视频"
+   },
+   "modalFilterViewResults": {
+      "message": "查看 $1 个结果"
+   },
+   "modalFilterViewResultsPlural": {
+      "message": "查看 $1 个结果"
+   },
+   "modalFilterViewResultsSingular": {
+      "message": "查看 $1 个结果"
+   },
+   "modalFilteringDisabled": {
+      "message": "已禁用"
+   },
+   "modalFilteringEnabled": {
+      "message": "已启用"
+   },
+   "modalSubtitle": {
+      "message": "为此搜索添加筛选条件："
+   },
+   "modalSubtitleFiltering": {
+      "message": "正在筛选搜索："
+   },
+   "modalSubtitleLogin": {
+      "message": "升级"
+   },
+   "modalSubtitleLoginMore": {
+      "message": "即可获得无限次搜索。"
+   },
+   "modalSubtitleQuotaLeft": {
+      "message": "您还剩 $1 次搜索。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalSubtitleQuotaUnlimited": {
+      "message": "您拥有无限次搜索。"
+   },
+   "modalTitle": {
+      "message": "筛选"
+   },
+   "multiSelectNoResults": {
+      "message": "无匹配"
+   },
+   "nextMatch": {
+      "message": "下一处匹配"
+   },
+   "noteChannelCountryDisplay": {
+      "message": "启用 $1，以便更好了解各频道的国家/地区。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "noteChannelCountryLanguage": {
+      "message": "尝试用相应频道的语言搜索以改善结果。"
+   },
+   "noteChannelCountryUndeclared": {
+      "message": "结果可能非常有限。并非所有频道都会明确声明所在国家/地区。"
+   },
+   "notesChannelCountryTitle": {
+      "message": "说明："
+   },
+   "onboardingDone": {
+      "message": "完成"
+   },
+   "onboardingNext": {
+      "message": "下一步"
+   },
+   "onboardingSkip": {
+      "message": "跳过教程"
+   },
+   "onboardingStep1Desc": {
+      "message": "让我们为搜索添加筛选条件。\n\n请点击上方的筛选按钮。"
+   },
+   "onboardingStep2Desc": {
+      "message": "有很多实用的筛选条件——本教程我们只用 2 个。\n\n让我们查找 5 到 10 分钟的视频。\n\n时长已为您设置好 — 点击 {{NEXT}} 继续。"
+   },
+   "onboardingStep3Desc": {
+      "message": "已为您添加另一个过滤器：\n\n仅显示 \u003Cb>1 万+ 订阅者\u003C/b> 频道的视频。\n\n点击 {{NEXT}} 继续。"
+   },
+   "onboardingStep4Desc": {
+      "message": "点击搜索开始过滤。"
+   },
+   "onboardingStep5Desc": {
+      "message": "你可以在这里看到符合筛选条件的结果。\n\n复杂筛选可能需要较长时间——请留意。"
+   },
+   "onboardingStep6Desc": {
+      "message": "你可以随时暂停。\n\n为获得更流畅的体验，建议在浏览结果前先暂停。\n\n祝你使用愉快！"
+   },
+   "onboardingStepProgress": {
+      "message": "步骤 $1/$2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "onboardingWelcomeBody": {
+      "message": "我们\u003Cb>强烈\u003C/b>建议完成本 30 秒教程。"
+   },
+   "onboardingWelcomeClose": {
+      "message": "关闭"
+   },
+   "onboardingWelcomeLegal": {
+      "message": "继续并使用我们的扩展，即表示你同意\u003Ca href=\"https://codedcitadel.com/privacy-policy/youtube-filter-pro\" target=\"_blank\" rel=\"noopener noreferrer\">隐私政策\u003C/a>和\u003Ca href=\"https://codedcitadel.com/terms-of-service/youtube-filter-pro\" target=\"_blank\" rel=\"noopener noreferrer\">服务条款\u003C/a>。"
+   },
+   "onboardingWelcomeOk": {
+      "message": "给我看看"
+   },
+   "onboardingWelcomeTitle": {
+      "message": "感谢安装 YouTube Filter Pro！"
+   },
+   "placeholderAddIncludeChannel": {
+      "message": "粘贴 URL 或 @handle，然后按 Enter"
+   },
+   "placeholderChannelDescExcludes": {
+      "message": "若关于包含则排除…（逗号或 Enter）"
+   },
+   "placeholderChannelDescIncludes": {
+      "message": "关于简介中的关键词（逗号或 Enter）"
+   },
+   "placeholderChannelTags": {
+      "message": "Channel tags (comma or Enter)"
+   },
+   "placeholderDescExclude": {
+      "message": "Words to exclude (comma or Enter)"
+   },
+   "placeholderDescKeywords": {
+      "message": "Keywords in description (comma or Enter)"
+   },
+   "placeholderExcludeChannels": {
+      "message": "选择要排除的频道…"
+   },
+   "placeholderIncludeChannels": {
+      "message": "选择要包含的频道…"
+   },
+   "placeholderMaxChannelViews": {
+      "message": "最大观看次数"
+   },
+   "placeholderMaxCommentRate": {
+      "message": "3%"
+   },
+   "placeholderMaxComments": {
+      "message": "1000"
+   },
+   "placeholderMaxDislikeRate": {
+      "message": "2%"
+   },
+   "placeholderMaxDislikes": {
+      "message": "最大"
+   },
+   "placeholderMaxLikeRate": {
+      "message": "3%"
+   },
+   "placeholderMaxLikes": {
+      "message": "10000"
+   },
+   "placeholderMaxSubscribers": {
+      "message": "Max subscribers"
+   },
+   "placeholderMaxVideos": {
+      "message": "Max videos"
+   },
+   "placeholderMaxViews": {
+      "message": "50000"
+   },
+   "placeholderMaxViewsPerDay": {
+      "message": "1000"
+   },
+   "placeholderMinChannelViews": {
+      "message": "最小观看次数"
+   },
+   "placeholderMinCommentRate": {
+      "message": "0.5%"
+   },
+   "placeholderMinComments": {
+      "message": "100"
+   },
+   "placeholderMinDislikeRate": {
+      "message": "0.1%"
+   },
+   "placeholderMinDislikes": {
+      "message": "最小"
+   },
+   "placeholderMinLikeRate": {
+      "message": "0.5%"
+   },
+   "placeholderMinLikes": {
+      "message": "100"
+   },
+   "placeholderMinSubscribers": {
+      "message": "Min subscribers"
+   },
+   "placeholderMinVideos": {
+      "message": "Min videos"
+   },
+   "placeholderMinViews": {
+      "message": "1000"
+   },
+   "placeholderSearchCaptionLanguages": {
+      "message": "搜索语言…"
+   },
+   "placeholderSearchCountries": {
+      "message": "搜索国家/地区"
+   },
+   "placeholderSearchSocial": {
+      "message": "搜索平台"
+   },
+   "placeholderSelectCaptionLanguages": {
+      "message": "任意语言"
+   },
+   "placeholderSelectCountries": {
+      "message": "选择国家/地区…"
+   },
+   "placeholderSelectCountriesExclude": {
+      "message": "排除国家/地区…"
+   },
+   "placeholderSelectSocial": {
+      "message": "选择平台…"
+   },
+   "placeholderTitleExclude": {
+      "message": "Words to exclude (comma or Enter)"
+   },
+   "placeholderTitleKeywords": {
+      "message": "Keywords in title (comma or Enter)"
+   },
+   "placeholderViewsPerDay": {
+      "message": "100"
+   },
+   "planAiChats": {
+      "message": "AI 对话"
+   },
+   "planAiChatsHelp": {
+      "message": "就筛选结果中的视频提问——摘要、要点等。"
+   },
+   "planBestValue": {
+      "message": "最超值"
+   },
+   "planChannelData": {
+      "message": "频道数据"
+   },
+   "planChannelDataHelp": {
+      "message": "搜索结果中的频道统计：订阅数、视频数、国家/地区、频道播放量、加入日期和社交媒体链接。"
+   },
+   "planChannelFilters": {
+      "message": "频道筛选"
+   },
+   "planChannelFiltersHelp": {
+      "message": "按订阅者、国家/地区、特定频道等筛选。可用 $1 个筛选器。",
+      "placeholders": {
+         "1": {
+            "content": "$1",
+            "example": "14"
+         }
+      }
+   },
+   "planDescription": {
+      "message": "简介"
+   },
+   "planDescriptionHelp": {
+      "message": "无需打开视频即可查看视频简介。"
+   },
+   "planDetectAiContent": {
+      "message": "检测 AI 内容"
+   },
+   "planDetectAiContentHelp": {
+      "message": "YouTube 会自动标记部分 AI 生成内容，并在筛选结果中显示。"
+   },
+   "planDislikeCount": {
+      "message": "不喜欢数"
+   },
+   "planDislikeCountHelp": {
+      "message": "查看任意视频的不喜欢数。"
+   },
+   "planExports": {
+      "message": "导出"
+   },
+   "planExportsHelp": {
+      "message": "将筛选结果下载为 CSV、Excel、JSON 或纯文本，或从结果面板复制视频 URL。"
+   },
+   "planFeatures": {
+      "message": "Features"
+   },
+   "planFree": {
+      "message": "免费"
+   },
+   "planIncluded": {
+      "message": "已包含"
+   },
+   "planLimited": {
+      "description": "Free column label for add-ons that are available but capped on the free plan",
+      "message": "有限"
+   },
+   "planPerformance": {
+      "message": "表现"
+   },
+   "planPerformanceHelp": {
+      "message": "查看每个视频的表现指标。"
+   },
+   "planPresets": {
+      "message": "预设"
+   },
+   "planPresetsHelp": {
+      "message": "用于快速搜索的实用预定义筛选组合。"
+   },
+   "planPro": {
+      "message": "Pro"
+   },
+   "planQuickView": {
+      "message": "视频数据"
+   },
+   "planQuickViewHelp": {
+      "message": "搜索结果中每个视频的统计：点赞、播放、评论和每日播放量。"
+   },
+   "planReadComments": {
+      "message": "查看评论"
+   },
+   "planReadCommentsHelp": {
+      "message": "悬停即可阅读点赞最多的评论。"
+   },
+   "planSearches": {
+      "message": "搜索 / 周"
+   },
+   "planSocialMedia": {
+      "message": "社交媒体"
+   },
+   "planSocialMediaHelp": {
+      "message": "查看由 AI 提取的频道全部链接。"
+   },
+   "planSorting": {
+      "message": "排序"
+   },
+   "planSortingHelp": {
+      "message": "在结果面板标题栏按播放量、上传日期、订阅者等排序筛选结果。"
+   },
+   "planUnlimited": {
+      "message": "无限"
+   },
+   "planVideoFilters": {
+      "message": "视频筛选"
+   },
+   "planVideoFiltersHelp": {
+      "message": "按播放量、上传日期、时长、点赞等 $1 个实用筛选器筛选。",
+      "placeholders": {
+         "1": {
+            "content": "$1",
+            "example": "10"
+         }
+      }
+   },
+   "planVideoStats": {
+      "description": "Profile compare row for watch-page Data / Video Stats",
+      "message": "视频统计 / 周"
+   },
+   "planVideoStatsHelp": {
+      "description": "Help tooltip for the Video Stats row in the account compare table",
+      "message": "在观看页查看此视频的表现统计。"
+   },
+   "presetComplete": {
+      "message": "完整"
+   },
+   "presetShort": {
+      "message": "短"
+   },
+   "presetSuperShort": {
+      "message": "超短"
+   },
+   "presetsApplied": {
+      "message": "已应用预设"
+   },
+   "presetsButton": {
+      "message": "预设"
+   },
+   "presetsButtonAria": {
+      "message": "筛选预设"
+   },
+   "presetsClearAria": {
+      "message": "清除预设"
+   },
+   "presetsDeleteAria": {
+      "message": "删除预设 $1"
+   },
+   "presetsEmpty": {
+      "message": "还没有已保存的预设"
+   },
+   "presetsModalHint": {
+      "message": "这些是搜索筛选的预定义组合。将鼠标悬停可查看简要说明。"
+   },
+   "presetsModalTitle": {
+      "message": "筛选预设"
+   },
+   "presetsNewTip": {
+      "message": "新功能！点这里添加实用的预定义筛选。"
+   },
+   "presetsNewTipDismissAria": {
+      "message": "关闭预设提示"
+   },
+   "presetsNone": {
+      "message": "无"
+   },
+   "presetsNoneDesc": {
+      "message": "无预设"
+   },
+   "presetsSaveCancel": {
+      "message": "取消"
+   },
+   "presetsSaveConfirm": {
+      "message": "保存"
+   },
+   "presetsSaveCurrent": {
+      "message": "将当前设置保存为预设"
+   },
+   "presetsSaveDefaultName": {
+      "message": "我的预设"
+   },
+   "presetsSaveNamePlaceholder": {
+      "message": "预设名称"
+   },
+   "presetsSuggested": {
+      "message": "推荐"
+   },
+   "presetsYours": {
+      "message": "你的预设"
+   },
+   "previousMatch": {
+      "message": "上一处匹配"
+   },
+   "privacyNoticeBody": {
+      "message": "我们收集关于使用了哪些筛选类型的匿名数据，以帮助 YouTube Filter Pro 更准确、更实用。我们从不收集搜索词、视频内容或任何个人数据。你的隐私始终得到完整保护。"
+   },
+   "privacyNoticeContinue": {
+      "message": "继续"
+   },
+   "privacyNoticeLearnMore": {
+      "message": "了解更多"
+   },
+   "privacyNoticeOptInLabel": {
+      "message": "分享匿名筛选使用数据"
+   },
+   "privacyNoticeTitle": {
+      "message": "我们重视你的隐私"
+   },
+   "pubPreset_10y": {
+      "message": "过去 10 年"
+   },
+   "pubPreset_12h": {
+      "message": "过去 12 小时"
+   },
+   "pubPreset_15d": {
+      "message": "过去 15 天"
+   },
+   "pubPreset_18m": {
+      "message": "过去 18 个月"
+   },
+   "pubPreset_1h": {
+      "message": "过去 1 小时"
+   },
+   "pubPreset_1m": {
+      "message": "过去 1 个月"
+   },
+   "pubPreset_1w": {
+      "message": "过去 1 周"
+   },
+   "pubPreset_1y": {
+      "message": "过去 1 年"
+   },
+   "pubPreset_24h": {
+      "message": "过去 24 小时"
+   },
+   "pubPreset_2d": {
+      "message": "过去 2 天"
+   },
+   "pubPreset_2m": {
+      "message": "过去 2 个月"
+   },
+   "pubPreset_2w": {
+      "message": "过去 2 周"
+   },
+   "pubPreset_2y": {
+      "message": "过去 2 年"
+   },
+   "pubPreset_3d": {
+      "message": "过去 3 天"
+   },
+   "pubPreset_3h": {
+      "message": "过去 3 小时"
+   },
+   "pubPreset_3m": {
+      "message": "过去 3 个月"
+   },
+   "pubPreset_3w": {
+      "message": "过去 3 周"
+   },
+   "pubPreset_3y": {
+      "message": "过去 3 年"
+   },
+   "pubPreset_5d": {
+      "message": "过去 5 天"
+   },
+   "pubPreset_5y": {
+      "message": "过去 5 年"
+   },
+   "pubPreset_6h": {
+      "message": "过去 6 小时"
+   },
+   "pubPreset_6m": {
+      "message": "过去 6 个月"
+   },
+   "pubPreset_9m": {
+      "message": "过去 9 个月"
+   },
+   "pubPreset_any": {
+      "message": "任意日期"
+   },
+   "pubPreset_specific": {
+      "message": "特定范围…"
+   },
+   "quickViewLimitReached": {
+      "message": "您已在全部 $1 次免费搜索中使用了快速查看。升级即可无限使用。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quickViewLimitReachedAnon": {
+      "message": "您已在全部 $1 次免费搜索中使用了快速查看。登录并升级即可无限使用。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quotaLimitReached": {
+      "message": "您已用完本周全部 $1 次搜索。升级或兑换礼品码以获取更多。"
+   },
+   "quotaLimitReachedAnon": {
+      "message": "您已用完本周全部 $1 次搜索。登录并升级到 Pro 即可获得无限搜索。"
+   },
+   "quotaUnlimited": {
+      "message": "无限搜索"
+   },
+   "quotaUsage": {
+      "message": "本周 $1 / $2 次搜索"
+   },
+   "rangeDisplayMax": {
+      "message": "最大：\u003Cem>$1\u003C/em>"
+   },
+   "rangeDisplayMin": {
+      "message": "最小：\u003Cem>$1\u003C/em>"
+   },
+   "refreshThePage": {
+      "message": "刷新页面"
+   },
+   "resultsHelpfulDislikeAria": {
+      "message": "没有帮助"
+   },
+   "resultsHelpfulLikeAria": {
+      "message": "有帮助"
+   },
+   "resultsHelpfulPrompt": {
+      "message": "这些结果有帮助吗？"
+   },
+   "resultsHelpfulThankYou": {
+      "message": "谢谢！"
+   },
+   "search": {
+      "message": "搜索"
+   },
+   "searchChat": {
+      "message": "搜索对话"
+   },
+   "searchQueryIncludeAlready": {
+      "message": "已在标题包含中"
+   },
+   "searchQueryIncludeTip": {
+      "message": "只包含标题含有此词的视频"
+   },
+   "searchSortApply": {
+      "message": "排序"
+   },
+   "searchSortAria": {
+      "message": "排序搜索结果"
+   },
+   "searchSortAscendent": {
+      "message": "升序"
+   },
+   "searchSortAuto": {
+      "message": "自动"
+   },
+   "searchSortAutoAria": {
+      "message": "出现新的匹配视频时自动排序"
+   },
+   "searchSortChannelVideos": {
+      "message": "频道视频数"
+   },
+   "searchSortComments": {
+      "message": "Comments (qty)"
+   },
+   "searchSortCommentsGroup": {
+      "message": "Comments"
+   },
+   "searchSortCommentsPct": {
+      "message": "Comments (%)"
+   },
+   "searchSortDate": {
+      "message": "上传日期"
+   },
+   "searchSortDefault": {
+      "message": "YouTube 顺序"
+   },
+   "searchSortDescendent": {
+      "message": "降序"
+   },
+   "searchSortDirAria": {
+      "message": "切换排序方向"
+   },
+   "searchSortDislikes": {
+      "message": "不喜欢（数量）"
+   },
+   "searchSortDislikesGroup": {
+      "message": "不喜欢"
+   },
+   "searchSortDislikesPct": {
+      "message": "不喜欢 (%)"
+   },
+   "searchSortDuration": {
+      "message": "时长"
+   },
+   "searchSortExpandAria": {
+      "message": "展开排序控件"
+   },
+   "searchSortHeading": {
+      "message": "排序结果"
+   },
+   "searchSortLabel": {
+      "message": "排序"
+   },
+   "searchSortLikes": {
+      "message": "点赞"
+   },
+   "searchSortLikesGroup": {
+      "message": "Likes"
+   },
+   "searchSortLikesPct": {
+      "message": "Likes (%)"
+   },
+   "searchSortPercentage": {
+      "message": "Percentage"
+   },
+   "searchSortQuantity": {
+      "message": "Quantity"
+   },
+   "searchSortSubscribers": {
+      "message": "订阅者"
+   },
+   "searchSortTeaser": {
+      "message": "排序结果…"
+   },
+   "searchSortTeaserActive": {
+      "message": "排序：$1 $2"
+   },
+   "searchSortViews": {
+      "message": "观看次数"
+   },
+   "searchSortViewsPerDay": {
+      "message": "观看 / 天"
+   },
+   "searchViewsPerDayLabel": {
+      "message": "$1 次观看/天"
+   },
+   "sectionChannelSettings": {
+      "message": "频道设置"
+   },
+   "sectionVideoSettings": {
+      "message": "视频设置"
+   },
+   "send": {
+      "message": "发送"
+   },
+   "settings": {
+      "message": "设置"
+   },
+   "settingsAboutLabel": {
+      "message": "关于 YouTube Filter Pro"
+   },
+   "settingsAccountTitle": {
+      "message": "Profile"
+   },
+   "settingsAllowUsageAnalyticsDesc": {
+      "message": "发送匿名筛选使用数据以改进 Youtube Filter Pro。不包含搜索词或关键词文本。"
+   },
+   "settingsAllowUsageAnalyticsLabel": {
+      "message": "分享匿名使用数据"
+   },
+   "settingsAutoApplyDesc": {
+      "message": "任何值更改时自动应用筛选。"
+   },
+   "settingsAutoApplyLabel": {
+      "message": "自动应用"
+   },
+   "settingsBackToChat": {
+      "message": "返回对话"
+   },
+   "settingsBatchFilterUpdatesDesc": {
+      "message": "将快速连续的筛选过程合并为每帧一次更新，而不是立即逐次执行。"
+   },
+   "settingsBatchFilterUpdatesLabel": {
+      "message": "批量筛选更新"
+   },
+   "settingsDebugDisableYfpDataDesc": {
+      "message": "在点击重新获取前保持 yfp-data 为空。用于比较筛选性能。"
+   },
+   "settingsDebugDisableYfpDataLabel": {
+      "message": "不加载 yfp-data [开发调试]"
+   },
+   "settingsDebugDomDesc": {
+      "message": "将所有视频行和可见结果记录到控制台（yfpDebugDomVideos、yfpDebugVisibleVideos）。"
+   },
+   "settingsDebugDomLabel": {
+      "message": "调试 DOM"
+   },
+   "settingsFetchModeAll": {
+      "message": "全部加载"
+   },
+   "settingsFetchModeDefault": {
+      "message": "慢速"
+   },
+   "settingsFetchModeDesc": {
+      "message": "慢速会在后台继续加载结果。快速会填满本页和下一页，然后等待。"
+   },
+   "settingsFetchModeFast": {
+      "message": "快速"
+   },
+   "settingsFetchModeLabel": {
+      "message": "加载模式"
+   },
+   "settingsFetchModeSlow": {
+      "message": "慢速"
+   },
+   "settingsFilterActivatedDesc": {
+      "message": "实时启用或禁用筛选。"
+   },
+   "settingsFilterActivatedLabel": {
+      "message": "启用筛选"
+   },
+   "settingsFilterToastsDesc": {
+      "message": "隐藏视频时显示通知。"
+   },
+   "settingsFilterToastsLabel": {
+      "message": "筛选通知"
+   },
+   "settingsFilteredSearchesDesc": {
+      "message": "启用筛选时执行的 YouTube 搜索。"
+   },
+   "settingsFilteredSearchesLabel": {
+      "message": "已筛选搜索"
+   },
+   "settingsFilteringModeDesc": {
+      "message": "模态框保留 YouTube 结果，并在面板中显示匹配项。页面模式会在结果列表中隐藏不匹配项。"
+   },
+   "settingsFilteringModeLabel": {
+      "message": "筛选模式"
+   },
+   "settingsFilteringModeModal": {
+      "message": "模态框（推荐）"
+   },
+   "settingsFilteringModePage": {
+      "message": "页面"
+   },
+   "settingsHardToFindTipsDesc": {
+      "message": "当筛选条件在大量结果中仍无匹配，或匹配很少见时显示提示。"
+   },
+   "settingsHardToFindTipsLabel": {
+      "message": "筛选结果很少或没有时通知"
+   },
+   "settingsHideAdsFromDesc": {
+      "message": "隐藏 YouTube 搜索结果中的赞助信息流广告行。"
+   },
+   "settingsHideAdsFromLabel": {
+      "message": "从搜索中隐藏广告"
+   },
+   "settingsImprovementFiltersDesc": {
+      "message": "实验性性能开关。可组合试用，找出对本机最流畅的设置。"
+   },
+   "settingsImprovementFiltersTitle": {
+      "message": "更多设置"
+   },
+   "settingsIncludeOnlyVideosDesc": {
+      "message": "向搜索结果 URL 添加 YouTube 的视频筛选。"
+   },
+   "settingsIncludeOnlyVideosLabel": {
+      "message": "搜索中仅包含视频"
+   },
+   "settingsLoadAdditionalDataImmediatelyDesc": {
+      "message": "开启后，结果一出现就会加载额外的频道和视频统计。关闭则稍后加载。"
+   },
+   "settingsLoadAdditionalDataImmediatelyLabel": {
+      "message": "立即加载额外数据"
+   },
+   "settingsProcessModeDesc": {
+      "message": "外部（默认）通过 Cloudflare 批量获取点赞、评论和频道统计。本地在浏览器中处理。若 Worker 失败，外部会回退到本地。"
+   },
+   "settingsProcessModeExternal": {
+      "message": "外部（Cloudflare）"
+   },
+   "settingsProcessModeLabel": {
+      "message": "处理模式"
+   },
+   "settingsProcessModeLocal": {
+      "message": "本地"
+   },
+   "settingsResetCacheDesc": {
+      "message": "清除已存储的频道和视频额外信息，以便重新获取。"
+   },
+   "settingsResetCacheDone": {
+      "message": "缓存已清除"
+   },
+   "settingsResetCacheLabel": {
+      "message": "重置缓存"
+   },
+   "settingsResetFiltersDesc": {
+      "message": "清除所有筛选并恢复默认值。"
+   },
+   "settingsResetFiltersLabel": {
+      "message": "重置所有筛选"
+   },
+   "settingsResultsFetchMethodApi": {
+      "message": "通过 API 获取"
+   },
+   "settingsResultsFetchMethodDesc": {
+      "message": "仅用于测试 — 选择扩展在筛选时如何加载更多视频。"
+   },
+   "settingsResultsFetchMethodLabel": {
+      "message": "加载更多结果"
+   },
+   "settingsResultsFetchMethodScroll": {
+      "message": "通过滚动获取"
+   },
+   "settingsSavePreferencesDesc": {
+      "message": "下次记住我的筛选。"
+   },
+   "settingsSavePreferencesLabel": {
+      "message": "保存偏好"
+   },
+   "settingsShowChannelVideosDesc": {
+      "message": "在搜索结果和探索中显示每个频道的视频总数。"
+   },
+   "settingsShowChannelVideosLabel": {
+      "message": "显示频道视频数量"
+   },
+   "settingsShowCountryDesc": {
+      "message": "在搜索结果的频道名称旁显示国家/地区旗帜。"
+   },
+   "settingsShowCountryLabel": {
+      "message": "显示国家/地区"
+   },
+   "settingsShowExtraInfoDesc": {
+      "message": "在视频结果上直接显示附加统计（点赞、观看/天、订阅者、视频数、国家/地区、总观看次数）和频道链接。\u003Cb>可能会导致变慢。\u003C/b>"
+   },
+   "settingsShowExtraInfoExperimental": {
+      "message": "实验性。"
+   },
+   "settingsShowExtraInfoLabel": {
+      "message": "显示额外信息？"
+   },
+   "settingsShowExtraInfoOnFilteredResultsLabel": {
+      "message": "在筛选结果页显示附加信息"
+   },
+   "settingsShowExtraInfoOnSearchPageLabel": {
+      "message": "在搜索页显示附加信息"
+   },
+   "settingsShowExtraInfoSlowDown": {
+      "message": "可能会变慢。"
+   },
+   "settingsShowLikesDesc": {
+      "message": "在搜索结果中于频道信息旁显示每个视频的点赞数。"
+   },
+   "settingsShowLikesLabel": {
+      "message": "在搜索页显示总点赞数"
+   },
+   "settingsShowMatchCheckmarkDesc": {
+      "message": "在通过当前筛选条件的标题旁显示绿色勾选。"
+   },
+   "settingsShowMatchCheckmarkLabel": {
+      "message": "在匹配筛选条件的视频上显示勾选标记"
+   },
+   "settingsShowNonMatchMarkDesc": {
+      "message": "在未通过当前筛选的标题旁添加红色 ×。"
+   },
+   "settingsShowNonMatchMarkLabel": {
+      "message": "在不匹配的视频上显示 ×"
+   },
+   "settingsShowSocialIconsDesc": {
+      "message": "在搜索结果中以图标显示已链接的社交平台。"
+   },
+   "settingsShowSocialIconsLabel": {
+      "message": "显示频道社交媒体图标"
+   },
+   "settingsShowSubscribersDesc": {
+      "message": "在搜索结果和探索中显示频道订阅数。"
+   },
+   "settingsShowSubscribersLabel": {
+      "message": "显示订阅者数量"
+   },
+   "settingsShowSummaryDesc": {
+      "message": "在下方显示活动筛选说明。"
+   },
+   "settingsShowSummaryLabel": {
+      "message": "显示筛选摘要"
+   },
+   "settingsShowTutorialDesc": {
+      "message": "重新播放过滤器面板的快速入门指南。"
+   },
+   "settingsShowTutorialLabel": {
+      "message": "显示教程"
+   },
+   "settingsShowViewsPerDayDesc": {
+      "message": "在搜索结果中于频道信息旁显示每个视频的每日播放量。"
+   },
+   "settingsShowViewsPerDayLabel": {
+      "message": "显示每日播放量"
+   },
+   "settingsSignInSync": {
+      "message": "Sign in to sync your plan across devices"
+   },
+   "settingsSmartChannelFetchDesc": {
+      "message": "仅在筛选或视觉附加功能实际需要时，才获取频道关于数据（国家/地区、总观看次数、注册日期、社交链接）。"
+   },
+   "settingsSmartChannelFetchLabel": {
+      "message": "智能频道获取"
+   },
+   "settingsTabDisplay": {
+      "message": "显示"
+   },
+   "settingsTabFiltering": {
+      "message": "筛选"
+   },
+   "settingsTitle": {
+      "message": "筛选选项"
+   },
+   "settingsTransparentModeDesc": {
+      "message": "淡化已筛选视频而非完全隐藏。"
+   },
+   "settingsTransparentModeLabel": {
+      "message": "透明模式"
+   },
+   "settingsVersion": {
+      "message": "版本"
+   },
+   "settingsVersionNumber": {
+      "message": "版本 $1"
+   },
+   "settingsViewThankYouModal": {
+      "message": "查看感谢弹窗"
+   },
+   "settingsViewThankYouModalDesc": {
+      "message": "预览长期用户礼品信（临时）。"
+   },
+   "settingsVisualAddons": {
+      "message": "视觉附加项"
+   },
+   "socialAmazon": {
+      "message": "Amazon"
+   },
+   "socialBluesky": {
+      "message": "Bluesky"
+   },
+   "socialDiscord": {
+      "message": "Discord"
+   },
+   "socialEmail": {
+      "message": "邮箱"
+   },
+   "socialFacebook": {
+      "message": "Facebook"
+   },
+   "socialInstagram": {
+      "message": "Instagram"
+   },
+   "socialKick": {
+      "message": "Kick"
+   },
+   "socialLinkedin": {
+      "message": "LinkedIn"
+   },
+   "socialLinktree": {
+      "message": "Linktree"
+   },
+   "socialOthers": {
+      "message": "其他"
+   },
+   "socialPatreon": {
+      "message": "Patreon"
+   },
+   "socialPinterest": {
+      "message": "Pinterest"
+   },
+   "socialReddit": {
+      "message": "Reddit"
+   },
+   "socialSnapchat": {
+      "message": "Snapchat"
+   },
+   "socialSpotify": {
+      "message": "Spotify"
+   },
+   "socialTelegram": {
+      "message": "Telegram"
+   },
+   "socialThreads": {
+      "message": "Threads"
+   },
+   "socialTiktok": {
+      "message": "TikTok"
+   },
+   "socialTwitch": {
+      "message": "Twitch"
+   },
+   "socialWebsite": {
+      "message": "个人网站"
+   },
+   "socialWhatsapp": {
+      "message": "WhatsApp"
+   },
+   "socialX": {
+      "message": "X / Twitter"
+   },
+   "socialYoutube": {
+      "message": "YouTube"
+   },
+   "starterRecommend": {
+      "message": "推荐相关内容"
+   },
+   "starterSummarize": {
+      "message": "摘要视频"
+   },
+   "starterTimestamps": {
+      "message": "查看时间戳"
+   },
+   "starterWelcome": {
+      "message": "你好！对此筛选视频有任何问题吗？我可以帮忙。"
+   },
+   "subscriptionFetchConsentBody": {
+      "message": "我们只会获取您的订阅频道，不会获取其他数据。是否同意？"
+   },
+   "subscriptionFetchConsentCancel": {
+      "message": "取消"
+   },
+   "subscriptionFetchConsentConfirm": {
+      "message": "是，获取频道"
+   },
+   "subscriptionFetchConsentTitle": {
+      "message": "获取订阅频道"
+   },
+   "suffixPercent": {
+      "message": "%"
+   },
+   "suffixViewsPerDay": {
+      "message": "次观看/天"
+   },
+   "summarizeWithAi": {
+      "message": "使用 AI 摘要"
+   },
+   "summarizing": {
+      "message": "正在摘要…"
+   },
+   "summaryCaptionLanguagesListAria": {
+      "message": "字幕语言"
+   },
+   "summaryChannelCountries": {
+      "message": "来自 \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelCountriesExclude": {
+      "message": "不来自 \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelDescExcludes": {
+      "message": "关于排除 \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelDescIncludesAll": {
+      "message": "关于包含全部 \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelJoinedAfter": {
+      "message": "注册于 \u003Cem>$1\u003C/em> 之后"
+   },
+   "summaryChannelJoinedBefore": {
+      "message": "注册于 \u003Cem>$1\u003C/em> 之前"
+   },
+   "summaryChannelJoinedBetween": {
+      "message": "注册于 \u003Cem>$1\u003C/em> 至 \u003Cem>$2\u003C/em>"
+   },
+   "summaryChannelJoinedInClause": {
+      "message": "注册于 \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelJoinedPickClause": {
+      "message": "注册于特定日期范围（在上方选择日期）"
+   },
+   "summaryChannelSocial": {
+      "message": "已关联 \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelTagsInclude": {
+      "message": "频道标签包含以下任一：\u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelVideosAtLeast": {
+      "message": "频道至少有 \u003Cem>$1\u003C/em> 个视频"
+   },
+   "summaryChannelVideosBetween": {
+      "message": "频道有 \u003Cem>$1\u003C/em>–\u003Cem>$2\u003C/em> 个视频"
+   },
+   "summaryChannelVideosUpTo": {
+      "message": "频道最多 \u003Cem>$1\u003C/em> 个视频"
+   },
+   "summaryChannelViewsAtLeast": {
+      "message": "总观看次数至少 \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelViewsBetween": {
+      "message": "总观看次数介于 \u003Cem>$1\u003C/em> 和 \u003Cem>$2\u003C/em>"
+   },
+   "summaryChannelViewsUpTo": {
+      "message": "总观看次数最多 \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelWith": {
+      "message": "频道 $1。"
+   },
+   "summaryCommentRateAtLeast": {
+      "message": "评论（%）至少 \u003Cem>$1\u003C/em>"
+   },
+   "summaryCommentRateBetween": {
+      "message": "评论（%）介于 \u003Cem>$1\u003C/em> 和 \u003Cem>$2\u003C/em>"
+   },
+   "summaryCommentRateUpTo": {
+      "message": "评论（%）最多 \u003Cem>$1\u003C/em>"
+   },
+   "summaryCommentsAtLeast": {
+      "message": "至少 \u003Cem>$1\u003C/em> 条评论"
+   },
+   "summaryCommentsBetween": {
+      "message": "评论数介于 \u003Cem>$1\u003C/em> 和 \u003Cem>$2\u003C/em>"
+   },
+   "summaryCommentsUpTo": {
+      "message": "最多 \u003Cem>$1\u003C/em> 条评论"
+   },
+   "summaryDescExcludes": {
+      "message": "简介排除：\u003Cem>$1\u003C/em>"
+   },
+   "summaryDescIncludesAll": {
+      "message": "简介包含全部：\u003Cem>$1\u003C/em>"
+   },
+   "summaryDislikeRateAtLeast": {
+      "message": "不喜欢比例至少 \u003Cem>$1\u003C/em> (%)"
+   },
+   "summaryDislikeRateBetween": {
+      "message": "不喜欢比例在 \u003Cem>$1\u003C/em> 至 \u003Cem>$2\u003C/em> (%) 之间"
+   },
+   "summaryDislikeRateUpTo": {
+      "message": "不喜欢比例最多 \u003Cem>$1\u003C/em> (%)"
+   },
+   "summaryDislikesAtLeast": {
+      "message": "至少 \u003Cem>$1\u003C/em> 个不喜欢"
+   },
+   "summaryDislikesBetween": {
+      "message": "不喜欢数在 \u003Cem>$1\u003C/em> 至 \u003Cem>$2\u003C/em> 之间"
+   },
+   "summaryDislikesUpTo": {
+      "message": "最多 \u003Cem>$1\u003C/em> 个不喜欢"
+   },
+   "summaryDurBetween": {
+      "message": "时长 \u003Cem>$1\u003C/em> 至 \u003Cem>$2\u003C/em>"
+   },
+   "summaryDurLongerThan": {
+      "message": "长于 \u003Cem>$1\u003C/em>"
+   },
+   "summaryDurUpTo": {
+      "message": "最长 \u003Cem>$1\u003C/em>"
+   },
+   "summaryExcludeChannelsListAria": {
+      "message": "已排除的频道"
+   },
+   "summaryExcludeCountriesListAria": {
+      "message": "已排除的国家/地区"
+   },
+   "summaryExcludingChannels": {
+      "message": "排除频道：\u003Cem>$1\u003C/em>"
+   },
+   "summaryExcludingChannelsCount": {
+      "message": "排除 $1 个频道"
+   },
+   "summaryExcludingCountriesCount": {
+      "message": "排除 $1 个国家/地区"
+   },
+   "summaryIncludeChannels": {
+      "message": "仅在 \u003Cem>$1\u003C/em> 个已包含频道内搜索"
+   },
+   "summaryLanguage": {
+      "message": "摘要语言"
+   },
+   "summaryLikeRateAtLeast": {
+      "message": "点赞（%）至少 \u003Cem>$1\u003C/em>"
+   },
+   "summaryLikeRateBetween": {
+      "message": "点赞（%）介于 \u003Cem>$1\u003C/em> 和 \u003Cem>$2\u003C/em>"
+   },
+   "summaryLikeRateUpTo": {
+      "message": "点赞（%）最多 \u003Cem>$1\u003C/em>"
+   },
+   "summaryLikesAtLeast": {
+      "message": "至少 \u003Cem>$1\u003C/em> 个点赞"
+   },
+   "summaryLikesBetween": {
+      "message": "点赞介于 \u003Cem>$1\u003C/em> 和 \u003Cem>$2\u003C/em>"
+   },
+   "summaryLikesUpTo": {
+      "message": "点赞最多 \u003Cem>$1\u003C/em>"
+   },
+   "summaryNoFilters": {
+      "message": "无活动筛选。显示所有视频。"
+   },
+   "summaryPub_10y": {
+      "message": "过去 10 年"
+   },
+   "summaryPub_12h": {
+      "message": "过去 12 小时"
+   },
+   "summaryPub_15d": {
+      "message": "过去 15 天"
+   },
+   "summaryPub_18m": {
+      "message": "过去 18 个月"
+   },
+   "summaryPub_1h": {
+      "message": "过去 1 小时"
+   },
+   "summaryPub_1m": {
+      "message": "过去 1 个月"
+   },
+   "summaryPub_1w": {
+      "message": "过去 1 周"
+   },
+   "summaryPub_1y": {
+      "message": "过去 1 年"
+   },
+   "summaryPub_24h": {
+      "message": "过去 24 小时"
+   },
+   "summaryPub_2d": {
+      "message": "过去 2 天"
+   },
+   "summaryPub_2m": {
+      "message": "过去 2 个月"
+   },
+   "summaryPub_2w": {
+      "message": "过去 2 周"
+   },
+   "summaryPub_2y": {
+      "message": "过去 2 年"
+   },
+   "summaryPub_3d": {
+      "message": "过去 3 天"
+   },
+   "summaryPub_3h": {
+      "message": "过去 3 小时"
+   },
+   "summaryPub_3m": {
+      "message": "过去 3 个月"
+   },
+   "summaryPub_3w": {
+      "message": "过去 3 周"
+   },
+   "summaryPub_3y": {
+      "message": "过去 3 年"
+   },
+   "summaryPub_5d": {
+      "message": "过去 5 天"
+   },
+   "summaryPub_5y": {
+      "message": "过去 5 年"
+   },
+   "summaryPub_6h": {
+      "message": "过去 6 小时"
+   },
+   "summaryPub_6m": {
+      "message": "过去 6 个月"
+   },
+   "summaryPub_9m": {
+      "message": "过去 9 个月"
+   },
+   "summaryRequireCaptions": {
+      "message": "有字幕"
+   },
+   "summaryRequireCaptionsLang": {
+      "message": "字幕：$1"
+   },
+   "summaryRequireCaptionsLangCount": {
+      "message": "字幕：$1 种语言"
+   },
+   "summaryRequireChapters": {
+      "message": "描述中有章节"
+   },
+   "summaryRequireEmail": {
+      "message": "视频简介中有邮箱"
+   },
+   "summaryResponse": {
+      "message": "摘要回复"
+   },
+   "summaryResponseHelp": {
+      "message": "AI 第一条消息应有多详细。仅适用于首次回复。"
+   },
+   "summaryShowingUploaded": {
+      "message": "正在筛选上传于 $1 的视频。"
+   },
+   "summaryShowingUploadedWithAlso": {
+      "message": "正在筛选上传于 $1 且符合 $2 的视频。"
+   },
+   "summaryShowingWith": {
+      "message": "显示符合 $1 的视频。"
+   },
+   "summarySubsAtLeast": {
+      "message": "至少 \u003Cem>$1\u003C/em> 订阅"
+   },
+   "summarySubsBetween": {
+      "message": "订阅数 \u003Cem>$1\u003C/em> 至 \u003Cem>$2\u003C/em>"
+   },
+   "summarySubsUpTo": {
+      "message": "最多 \u003Cem>$1\u003C/em> 订阅"
+   },
+   "summaryTitleExcludes": {
+      "message": "标题排除：\u003Cem>$1\u003C/em>"
+   },
+   "summaryTitleIncludesAll": {
+      "message": "仅显示标题包含全部：\u003Cem>$1\u003C/em>"
+   },
+   "summaryUnverifiedOnly": {
+      "message": "\u003Cem>仅未验证频道\u003C/em>"
+   },
+   "summaryUploadedAfterClause": {
+      "message": "\u003Cem>$1\u003C/em> 之后"
+   },
+   "summaryUploadedBeforeClause": {
+      "message": "\u003Cem>$1\u003C/em> 之前"
+   },
+   "summaryUploadedBetweenClause": {
+      "message": "\u003Cem>$1\u003C/em> 至 \u003Cem>$2\u003C/em>"
+   },
+   "summaryUploadedInClause": {
+      "message": "\u003Cem>$1\u003C/em>"
+   },
+   "summaryUploadedPickClause": {
+      "message": "特定日期范围（在上方选择日期）"
+   },
+   "summaryVerifiedOnly": {
+      "message": "\u003Cem>仅已验证频道\u003C/em>"
+   },
+   "summaryVideoTypeShorts": {
+      "message": "仅 \u003Cem>Shorts\u003C/em>"
+   },
+   "summaryVideoTypeVideos": {
+      "message": "仅 \u003Cem>视频\u003C/em>"
+   },
+   "summaryViewsAtLeast": {
+      "message": "至少 \u003Cem>$1\u003C/em> 播放量"
+   },
+   "summaryViewsBetween": {
+      "message": "播放量 \u003Cem>$1\u003C/em> 至 \u003Cem>$2\u003C/em>"
+   },
+   "summaryViewsPerDayAtLeast": {
+      "message": "每日至少 \u003Cem>$1\u003C/em> 次观看"
+   },
+   "summaryViewsPerDayBetween": {
+      "message": "每日观看介于 \u003Cem>$1\u003C/em> 和 \u003Cem>$2\u003C/em>"
+   },
+   "summaryViewsPerDayUpTo": {
+      "message": "每日观看最多 \u003Cem>$1\u003C/em>"
+   },
+   "summaryViewsUpTo": {
+      "message": "最多 \u003Cem>$1\u003C/em> 播放量"
+   },
+   "tabAbout": {
+      "message": "关于"
+   },
+   "tabAccount": {
+      "message": "Profile"
+   },
+   "tabChannelFilters": {
+      "message": "频道筛选"
+   },
+   "tabDisplay": {
+      "message": "显示"
+   },
+   "tabUpgrade": {
+      "message": "升级"
+   },
+   "tabVideoFilters": {
+      "message": "视频筛选"
+   },
+   "thankYouGiftBodyDone": {
+      "message": "完成！"
+   },
+   "thankYouGiftBodyHelp": {
+      "message": "如需帮助或有建议，欢迎联系："
+   },
+   "thankYouGiftBodyHowever": {
+      "message": "不过……"
+   },
+   "thankYouGiftBodyServer": {
+      "message": "我是独立开发者，维持此扩展的服务器成本越来越高，已无法继续免费运营。"
+   },
+   "thankYouGiftBodyToken": {
+      "message": "您已使用一段时间，希望您接受这份小礼物，以表感谢。"
+   },
+   "thankYouGiftHi": {
+      "message": "您好，"
+   },
+   "thankYouGiftStepCode": {
+      "message": "使用以下代码："
+   },
+   "thankYouGiftStepLogin": {
+      "message": "点击此处使用 Google 账号登录（100% 安全且符合隐私规范）"
+   },
+   "thankYouGiftStepProfile": {
+      "message": "点击左侧\u003Cb>个人资料\u003C/b>标签"
+   },
+   "thankYouGiftStepsLead": {
+      "message": "要启用 1 个月无限使用，请："
+   },
+   "thankYouGiftTitleAccent": {
+      "message": "1 个月高级版无限"
+   },
+   "thankYouGiftTitleAfter": {
+      "message": " YouTube Filter Pro！"
+   },
+   "thankYouGiftTitleBefore": {
+      "message": "您获得 "
+   },
+   "thinking": {
+      "message": "思考中…"
+   },
+   "titleClearChannelDescExcludes": {
+      "message": "清除频道简介排除条件"
+   },
+   "titleClearChannelDescIncludes": {
+      "message": "清除频道简介包含条件"
+   },
+   "titleClearChannelTags": {
+      "message": "清除频道标签"
+   },
+   "titleClearChannelVideos": {
+      "message": "清除频道视频数"
+   },
+   "titleClearChannelViews": {
+      "message": "清除频道观看次数"
+   },
+   "titleClearComments": {
+      "message": "清除评论"
+   },
+   "titleClearDescExcludes": {
+      "message": "清除简介排除条件"
+   },
+   "titleClearDescIncludes": {
+      "message": "清除简介包含条件"
+   },
+   "titleClearDuration": {
+      "message": "清除时长"
+   },
+   "titleClearExcludedChannels": {
+      "message": "清除已排除频道"
+   },
+   "titleClearJoined": {
+      "message": "清除注册日期"
+   },
+   "titleClearLikes": {
+      "message": "清除点赞"
+   },
+   "titleClearPublished": {
+      "message": "清除发布日期"
+   },
+   "titleClearSubscribers": {
+      "message": "清除订阅数"
+   },
+   "titleClearTitleExcludes": {
+      "message": "清除标题排除"
+   },
+   "titleClearTitleIncludes": {
+      "message": "清除标题包含"
+   },
+   "titleClearVerified": {
+      "message": "清除验证"
+   },
+   "titleClearViews": {
+      "message": "清除播放量"
+   },
+   "titleClearViewsPerDay": {
+      "message": "清除每日观看量"
+   },
+   "titleMatchCheckTooltip": {
+      "message": "符合你的筛选条件"
+   },
+   "titleNonMatchTooltip": {
+      "message": "不符合筛选条件"
+   },
+   "toastAutoScrollLabel": {
+      "message": "自动滚动"
+   },
+   "toastCheckingProgress": {
+      "message": "已检查 $1 个视频…"
+   },
+   "toastDismissAria": {
+      "message": "关闭通知"
+   },
+   "toastDismissBtn": {
+      "message": "不再显示"
+   },
+   "toastExcludeChannelNo": {
+      "message": "No"
+   },
+   "toastExcludeChannelPrompt": {
+      "message": "已将 $1 加入“排除频道”。要再次搜索吗？",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "toastExcludeChannelYes": {
+      "message": "Yes"
+   },
+   "toastExhaustedHint": {
+      "message": "找到 $1 个视频（已检查 $2 个视频）",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "toastExhaustedTitle": {
+      "message": "似乎没有更多结果了。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "toastFilteringPaused": {
+      "message": "筛选已暂停"
+   },
+   "toastFilteringPausedHint": {
+      "message": "按下播放即可在此页面重新启用筛选。"
+   },
+   "toastFiltersActivePlural": {
+      "message": "已启用 $1 个筛选"
+   },
+   "toastFiltersActiveSingular": {
+      "message": "已启用 $1 个筛选"
+   },
+   "toastFiltersUpdatedTitle": {
+      "message": "筛选条件已更新"
+   },
+   "toastFoundWithTotal": {
+      "message": "\u003Cspan class=\"yfp-toast__found-count\">$1\u003C/span> / \u003Cspan class=\"yfp-toast__total-count\">$2\u003C/span> 个匹配"
+   },
+   "toastHintChainCap": {
+      "message": "目前已检查 $1 个视频 — 仍在加载更多结果。"
+   },
+   "toastHintChaining": {
+      "message": "正在加载更多结果…（目前已检查 $1 个）"
+   },
+   "toastHintContinuationFailed": {
+      "message": "无法加载更多结果 — 请重新加载页面。"
+   },
+   "toastHintExhausted": {
+      "message": "没有更多搜索结果可加载。"
+   },
+   "toastHintExhaustedDetail": {
+      "message": "已搜索 $1 个视频 — 仅 $2 个匹配。没有更多结果可检查。"
+   },
+   "toastHintScroll": {
+      "message": "正在加载更多结果以筛选。你可以随时暂停！"
+   },
+   "toastLogoAlt": {
+      "message": "YouTube Filter Pro"
+   },
+   "toastNoResults": {
+      "message": "没有符合筛选条件的结果。"
+   },
+   "toastOpenFiltersBtn": {
+      "message": "打开筛选"
+   },
+   "toastPauseAria": {
+      "message": "暂停筛选"
+   },
+   "toastResultsFoundHint": {
+      "message": "结果会自动显示在这里。"
+   },
+   "toastResultsFoundTitle": {
+      "message": "已找到结果！"
+   },
+   "toastResumeAria": {
+      "message": "恢复筛选"
+   },
+   "toastSearchCompleteLine": {
+      "message": "搜索完成。找到 $1 个视频",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "toastSearchCompleteTitle": {
+      "message": "搜索已完成！"
+   },
+   "toastSlowTrickleTitle": {
+      "message": "仍在搜索 · 约每 $1 个视频匹配 1 个。此筛选组合较少见。"
+   },
+   "toastSummaryCollapseAria": {
+      "message": "隐藏筛选"
+   },
+   "toastSummaryExpandAria": {
+      "message": "显示全部筛选"
+   },
+   "toastTutorialCompleteBody": {
+      "message": "正在筛选结果。点击 {{VIEW_RESULTS}} 查看已筛选的结果。\n\n你也可以随时 {{PAUSE}}。享受吧！"
+   },
+   "toastTutorialCompleteHere": {
+      "message": "点击此处"
+   },
+   "toastTutorialDismissBtn": {
+      "message": "关闭"
+   },
+   "toastTutorialResetBtn": {
+      "message": "重置"
+   },
+   "toastZeroMatchWarnHint": {
+      "message": "没关系，只是可能需要更长时间。继续搜索，或放宽筛选条件。"
+   },
+   "toastZeroMatchWarnTitle": {
+      "message": "可能几乎没有或没有符合筛选条件的结果。"
+   },
+   "tooltipReset": {
+      "message": "重置"
+   },
+   "tryAgain": {
+      "message": "重试"
+   },
+   "unableToSummarize": {
+      "message": "此视频目前无法使用 AI。"
+   },
+   "unableToSummarizeAfter": {
+      "message": "后重试。"
+   },
+   "verifiedHide": {
+      "message": "隐藏已验证"
+   },
+   "verifiedOnly": {
+      "message": "仅已验证"
+   },
+   "verifiedShowAll": {
+      "message": "显示全部"
+   },
+   "videoStatsLimitReached": {
+      "message": "您本周已用完全部 $1 次免费视频统计打开次数。升级即可获得无限视频统计。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "videoStatsLimitReachedAnon": {
+      "message": "您本周已用完全部 $1 次免费视频统计打开次数。登录并升级即可获得无限视频统计。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "videoStatsQuotaLockedTip": {
+      "description": "Click tip on Stats when free weekly Video Stats are exhausted. {{UPGRADE}} is replaced by a profile link.",
+      "message": "{{UPGRADE}}即可获得无限视频统计。"
+   },
+   "videoStatsUpgradeLink": {
+      "description": "Clickable Upgrade label in the Video Stats quota tip",
+      "message": "升级"
+   },
+   "videoTypeShorts": {
+      "message": "Shorts"
+   },
+   "videoTypeVideos": {
+      "message": "Videos"
+   },
+   "yfpDataAllLinksClose": {
+      "message": "关闭"
+   },
+   "yfpDataAllLinksTitle": {
+      "message": "全部链接"
+   },
+   "yfpDataCaptionsAutoGenerated": {
+      "message": "（自动生成）"
+   },
+   "yfpDataCaptionsAutoOnlyTip": {
+      "message": "仅自动生成"
+   },
+   "yfpDataCaptionsAutoTip": {
+      "message": "也包含自动生成"
+   },
+   "yfpDataCaptionsNone": {
+      "message": "无字幕"
+   },
+   "yfpDataChannelViewsLifetimeAvg": {
+      "message": "历史平均：$1 次/天",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "yfpDataDislikesLoadHint": {
+      "message": "点击显示不喜欢数"
+   },
+   "yfpDataEmailCopied": {
+      "message": "已复制"
+   },
+   "yfpDataEmailCopy": {
+      "message": "复制"
+   },
+   "yfpDataEmailTitle": {
+      "message": "邮箱"
+   },
+   "yfpDataEmailsTitle": {
+      "message": "邮箱"
+   },
+   "yfpDataExcellentEngagement": {
+      "message": "出色的互动"
+   },
+   "yfpDataLabelCaptions": {
+      "message": "字幕"
+   },
+   "yfpDataLabelChannelViews": {
+      "message": "观看次数"
+   },
+   "yfpDataLabelComments": {
+      "message": "评论"
+   },
+   "yfpDataLabelCountry": {
+      "message": "国家/地区"
+   },
+   "yfpDataLabelDislikes": {
+      "message": "不喜欢"
+   },
+   "yfpDataLabelJoined": {
+      "message": "注册"
+   },
+   "yfpDataLabelLikes": {
+      "message": "点赞"
+   },
+   "yfpDataLabelSubscribers": {
+      "message": "订阅者"
+   },
+   "yfpDataLabelVideos": {
+      "message": "视频"
+   },
+   "yfpDataLabelViewsPerDay": {
+      "message": "观看/天"
+   },
+   "yfpDataNoSocials": {
+      "message": "未找到社交媒体/网站。"
+   },
+   "yfpDataRateTierAverage": {
+      "message": "一般"
+   },
+   "yfpDataRateTierCommentsAverage": {
+      "message": "一般"
+   },
+   "yfpDataRateTierCommentsCritical": {
+      "message": "严重"
+   },
+   "yfpDataRateTierCommentsExcellent": {
+      "message": "优秀"
+   },
+   "yfpDataRateTierCommentsGood": {
+      "message": "良好"
+   },
+   "yfpDataRateTierCommentsLow": {
+      "message": "偏低"
+   },
+   "yfpDataRateTierCritical": {
+      "message": "严重"
+   },
+   "yfpDataRateTierDislikesAverage": {
+      "message": "一般"
+   },
+   "yfpDataRateTierDislikesCritical": {
+      "message": "严重"
+   },
+   "yfpDataRateTierDislikesExcellent": {
+      "message": "优秀"
+   },
+   "yfpDataRateTierDislikesGood": {
+      "message": "良好"
+   },
+   "yfpDataRateTierDislikesPoor": {
+      "message": "较差"
+   },
+   "yfpDataRateTierExcellent": {
+      "message": "优秀"
+   },
+   "yfpDataRateTierGood": {
+      "message": "良好"
+   },
+   "yfpDataRateTierLikesAverage": {
+      "message": "一般"
+   },
+   "yfpDataRateTierLikesCritical": {
+      "message": "严重"
+   },
+   "yfpDataRateTierLikesExcellent": {
+      "message": "优秀"
+   },
+   "yfpDataRateTierLikesGood": {
+      "message": "良好"
+   },
+   "yfpDataRateTierLikesLow": {
+      "message": "偏低"
+   },
+   "yfpDataRateTierLow": {
+      "message": "偏低"
+   },
+   "yfpDataRateTierPoor": {
+      "message": "较差"
+   },
+   "yfpDataRefetch": {
+      "message": "重新获取"
+   },
+   "yfpDataRefetchTitle": {
+      "message": "部分数据可能未正确加载。\n你可以手动重新获取。"
+   },
+   "yfpDataRefetching": {
+      "message": "获取中…"
+   },
+   "yfpDataTierChannelViewsAverage": {
+      "message": "一般"
+   },
+   "yfpDataTierChannelViewsCritical": {
+      "message": "严重"
+   },
+   "yfpDataTierChannelViewsExcellent": {
+      "message": "优秀"
+   },
+   "yfpDataTierChannelViewsGood": {
+      "message": "良好"
+   },
+   "yfpDataTierChannelViewsLow": {
+      "message": "偏低"
+   },
+   "yfpDataTierVelocityLongAverage": {
+      "message": "一般"
+   },
+   "yfpDataTierVelocityLongCritical": {
+      "message": "严重"
+   },
+   "yfpDataTierVelocityLongExcellent": {
+      "message": "优秀"
+   },
+   "yfpDataTierVelocityLongGood": {
+      "message": "良好"
+   },
+   "yfpDataTierVelocityLongLow": {
+      "message": "偏低"
+   },
+   "yfpDataTierVelocityShortAverage": {
+      "message": "一般"
+   },
+   "yfpDataTierVelocityShortCritical": {
+      "message": "严重"
+   },
+   "yfpDataTierVelocityShortExcellent": {
+      "message": "优秀"
+   },
+   "yfpDataTierVelocityShortGood": {
+      "message": "良好"
+   },
+   "yfpDataTierVelocityShortLow": {
+      "message": "偏低"
+   },
+   "yfpDataUnknownTip": {
+      "message": "数据不可用"
+   },
+   "yfpDataUpgradeLink": {
+      "message": "升级"
+   },
+   "yfpDataUpgradePromptTail": {
+      "message": "以查看快速统计：点赞、评论、总播放量、社交媒体等"
+   },
+   "yfpDataVelocityColLong": {
+      "message": "长视频"
+   },
+   "yfpDataVelocityColScore": {
+      "message": "得分"
+   },
+   "yfpDataVelocityColShort": {
+      "message": "Shorts"
+   },
+   "yfpDataViewAllLinks": {
+      "message": "查看全部链接"
+   },
+   "yfpDataViewMoreLinks": {
+      "description": "Shown after capped social icons on the watch Data bar; $1 is the hidden link count.",
+      "message": "再显示 $1 个"
+   },
+   "yfpDataViewVelocityFormula": {
+      "message": "公式：(播放量 ÷ 上线天数) ÷ 订阅数 × 100"
+   },
+   "yfpDataViewVelocityScore": {
+      "message": "订阅速度：$1%",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "yfpDataViewVelocityShortsContext": {
+      "message": "Shorts 搜索"
+   },
+   "yfpDataViewVelocityVideosContext": {
+      "message": "视频搜索"
+   },
+   "yfpPerformanceMetricsTitle": {
+      "description": "Title above channel performance metrics grid on watch / channel Stats",
+      "message": "表现指标"
+   }
+}

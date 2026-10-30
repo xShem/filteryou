@@ -1,0 +1,3895 @@
+{
+   "aboutCodedCitadelBlurb": {
+      "message": "この拡張機能は CodedCitadel.com が開発しました。個人開発者として、SNS や EC 向けの便利なツールを作っています。Pro 版をご利用いただくと、サーバー費用の負担軽減と開発の継続の励みになります。ありがとうございます！"
+   },
+   "accountAccessUntil": {
+      "message": "Access until $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountAffiliateBody": {
+      "message": "独自のプロモコードでの売上ごとに20%のコミッションを獲得できます。"
+   },
+   "accountAffiliateCta": {
+      "message": "アフィリエイトになる"
+   },
+   "accountAffiliateTitle": {
+      "message": "広めて収益を得る"
+   },
+   "accountAuthError": {
+      "message": "ログインに失敗しました。もう一度お試しください。"
+   },
+   "accountBillingError": {
+      "message": "カスタマーポータルを開けませんでした。もう一度お試しください。"
+   },
+   "accountBillingTestModeEmail": {
+      "message": "テストモード: Lemon は領収書と請求ログインリンクをチェックアウトのメールではなく、ストアオーナーに送信します。"
+   },
+   "accountCancelled": {
+      "message": "ログインがキャンセルされました。"
+   },
+   "accountCheckoutActivateFailed": {
+      "message": "有効化できませんでした。ライセンスコード欄で「引き換え」をお試しください。"
+   },
+   "accountCheckoutActivateLicense": {
+      "message": "ライセンスを有効化"
+   },
+   "accountCheckoutBody": {
+      "message": "1. Make the payment on the other tab\n2. Copy the license code\n3. Paste it in the 'License Code' box and redeem"
+   },
+   "accountCheckoutClose": {
+      "message": "Got it"
+   },
+   "accountCheckoutCopied": {
+      "message": "Copied to clipboard"
+   },
+   "accountCheckoutCopyKey": {
+      "message": "Copy"
+   },
+   "accountCheckoutError": {
+      "message": "Couldn't open checkout. Please try again."
+   },
+   "accountCheckoutHelp": {
+      "message": "お困りですか？ CodedCitadel@gmail.com"
+   },
+   "accountCheckoutLicenseEnabled": {
+      "message": "ライセンスが有効になりました"
+   },
+   "accountCheckoutOr": {
+      "message": "or"
+   },
+   "accountCheckoutReadyBody": {
+      "message": "Here is your license key. Copy it, paste it in the License Code box, and redeem."
+   },
+   "accountCheckoutReadyBodyActivate": {
+      "message": "ライセンスの準備ができました。「ライセンスを有効化」をクリックして、このデバイスで Pro を解除してください。"
+   },
+   "accountCheckoutReadyBodyEnabled": {
+      "message": "このデバイスで Pro が有効です。閉じてそのまま閲覧を続けられます。"
+   },
+   "accountCheckoutReadyTitle": {
+      "message": "Purchase complete"
+   },
+   "accountCheckoutStep1": {
+      "message": "Complete your payment in the other tab"
+   },
+   "accountCheckoutStep2": {
+      "message": "Copy the license code"
+   },
+   "accountCheckoutStep2Activate": {
+      "message": "お支払いが完了したらこちらに戻ってください"
+   },
+   "accountCheckoutStep3": {
+      "message": "Paste it in the 'License Code' box and redeem"
+   },
+   "accountCheckoutStep3Activate": {
+      "message": "このページは2分以内に自動的に更新されます"
+   },
+   "accountCheckoutTitle": {
+      "message": "Checkout is opening in a new tab"
+   },
+   "accountConnectGoogleLink": {
+      "description": "Secondary text link under Purchase License Key on the upgrade options dialog",
+      "message": "Googleで接続"
+   },
+   "accountContinueGoogle": {
+      "message": "Googleで続行"
+   },
+   "accountGiftBody": {
+      "message": "クーポンをお持ちですか？追加の無制限時間と交換できます — 数か月分が無料になるコードもあります。適用するにはサインインが必要です。"
+   },
+   "accountGiftCodeLabel": {
+      "message": "ライセンスキーまたはギフトコードをここに貼り付けてください。"
+   },
+   "accountGiftDelete": {
+      "message": "削除"
+   },
+   "accountGiftDeleteError": {
+      "message": "このギフトコードを削除できませんでした。もう一度お試しください。"
+   },
+   "accountGiftDeleted": {
+      "message": "このデバイスからギフトコードを削除しました。"
+   },
+   "accountGiftHintEligibleSignedIn": {
+      "message": "2 か月分のギフトの準備ができました —「利用する」をクリックして適用してください。"
+   },
+   "accountGiftHintEligibleSignedOut": {
+      "message": "Google でサインインし、「利用する」をクリックして 2 か月分のギフトを適用してください。"
+   },
+   "accountGiftHintSignedIn": {
+      "message": "コードを貼り付けて、追加の無制限時間と交換してください。"
+   },
+   "accountGiftHintSignedOut": {
+      "message": "ギフトコードを利用するには Google でサインインしてください。"
+   },
+   "accountGiftPauseTest": {
+      "message": "ギフトを一時停止（テスト）"
+   },
+   "accountGiftResumeTest": {
+      "message": "ギフトを再開（テスト）"
+   },
+   "accountGiftTitle": {
+      "message": "ギフトコード"
+   },
+   "accountGiftUnlimited": {
+      "message": "無制限アクセス中です"
+   },
+   "accountGiftUnlimitedUntil": {
+      "message": "$1 まで無制限アクセスできます",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountGoPro": {
+      "message": "Upgrade"
+   },
+   "accountLicenseCancel": {
+      "message": "ライセンスをキャンセル"
+   },
+   "accountLicenseCancelBody": {
+      "message": "このブラウザでのみ Lemon ライセンスが無効になります。後でこのデバイスまたは別のデバイスで再度有効化できます。ギフトコードと Google サブスクリプションには影響しません。"
+   },
+   "accountLicenseCancelConfirm": {
+      "message": "はい、ライセンスを削除"
+   },
+   "accountLicenseCancelDismiss": {
+      "message": "ライセンスを保持"
+   },
+   "accountLicenseCancelError": {
+      "message": "ライセンスを削除できませんでした。もう一度お試しください。"
+   },
+   "accountLicenseCancelLoading": {
+      "message": "このデバイスからライセンスを削除しています…"
+   },
+   "accountLicenseCancelTitle": {
+      "message": "このデバイスからライセンスを削除しますか？"
+   },
+   "accountLicenseRemoveTest": {
+      "message": "ライセンスを削除（テスト）"
+   },
+   "accountLoggedInAs": {
+      "message": "Logged in as $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountManageBilling": {
+      "message": "Manage billing"
+   },
+   "accountNextPayment": {
+      "message": "Next payment on $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountPerkCancel": {
+      "message": "Cancel anytime"
+   },
+   "accountPerkExports": {
+      "message": "Unlimited exports"
+   },
+   "accountPerkFilters": {
+      "message": "All sorting and advanced filters"
+   },
+   "accountPerkSearches": {
+      "message": "Unlimited searches"
+   },
+   "accountPitchLimitTitle": {
+      "message": "You've used all $1 searches this week",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountPitchSub": {
+      "message": "Unlimited searches, exports, and every filter — cancel anytime."
+   },
+   "accountPitchSupportNote": {
+      "message": "サブスクリプションはサーバー費用を賄い、個人開発者がこの拡張機能の改善を続ける助けになります。ありがとうございます！"
+   },
+   "accountPitchTitle": {
+      "message": "Upgrade to Pro"
+   },
+   "accountPoweredByLemon": {
+      "message": "Powered by Stripe"
+   },
+   "accountPoweredByStripe": {
+      "message": "Powered by Stripe"
+   },
+   "accountPriceCancel": {
+      "message": "いつでもキャンセル可能"
+   },
+   "accountPriceInstant": {
+      "message": "即時アクセス"
+   },
+   "accountPriceSecure": {
+      "message": "安全な支払い"
+   },
+   "accountProBody": {
+      "message": "Congratulations! Unlimited searches, exports, and all filters are unlocked."
+   },
+   "accountProCancelledBody": {
+      "message": "$1 まで Pro アクセスを維持できます。請求管理から再登録または請求書をダウンロードできます。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountProCancelledBodyEnded": {
+      "message": "Pro サブスクリプションは終了しました。請求管理から再登録または請求書をダウンロードできます。"
+   },
+   "accountProCancelledTitle": {
+      "message": "サブスクリプションをキャンセルしました"
+   },
+   "accountProEmailLoading": {
+      "message": "アカウントを読み込み中…"
+   },
+   "accountProPurchasedAs": {
+      "message": "アカウント: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountProTitle": {
+      "message": "You're on Pro"
+   },
+   "accountPurchaseLicenseKey": {
+      "message": "Purchase License Key"
+   },
+   "accountPurchaseLicenseNoLogin": {
+      "message": "ログイン不要です。"
+   },
+   "accountQuotaResets": {
+      "message": "検索は $1 にリセットされます",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountSignInOptional": {
+      "message": "ログインは任意です。アカウントなしでも検索とフィルターを利用できます。"
+   },
+   "accountSignInToUpgradeBody": {
+      "message": "Sign in with Google first. Then you can upgrade to Pro."
+   },
+   "accountSignInToUpgradeTitle": {
+      "message": "Sign in to upgrade"
+   },
+   "accountSignOut": {
+      "message": "ログアウト"
+   },
+   "accountSignedInAs": {
+      "message": "ログイン中"
+   },
+   "accountSigningIn": {
+      "message": "ログインしています…"
+   },
+   "accountTitle": {
+      "message": "Profile"
+   },
+   "accountUnlockBody": {
+      "message": "無制限の検索、エクスポート、並べ替え、すべての高度なフィルターを利用できます。"
+   },
+   "accountUnlockTitle": {
+      "message": "Youtube Filter Pro の全機能を解放"
+   },
+   "accountUpgradeNeedSignIn": {
+      "message": "Sign in with Google first to upgrade."
+   },
+   "accountUpgradeOpening": {
+      "message": "Opening checkout…"
+   },
+   "accountUpgradeOptionsTitle": {
+      "message": "Sign in with Google or Purchase a License Key (no login required)"
+   },
+   "accountUpgradePro": {
+      "message": "Pro にアップグレード"
+   },
+   "accountUsageAiChatsUsed": {
+      "message": "$1 / $2 AI チャット",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "accountUsageExportsUsed": {
+      "message": "$1 / $2 exports",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "accountUsagePercent": {
+      "message": "$1 % 使用済み",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountUsageQuickViewUsed": {
+      "message": "$1 / $2 動画データ",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "accountUsageUsed": {
+      "message": "今週 $1 / $2 回の検索を使用",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "aiChatDisabledForVideo": {
+      "message": "この YouTube チャンネルは、この動画での AI 操作を無効にしています。"
+   },
+   "aiChatLimitReached": {
+      "message": "無料の AI チャット $1 回をすべて使用しました。無制限の AI チャットにはアップグレードしてください。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "aiChatLimitReachedAnon": {
+      "message": "無料の AI チャット $1 回をすべて使用しました。サインインしてアップグレードすると無制限の AI チャットが利用できます。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "aiChatLimitToastHint": {
+      "message": "無制限の AI チャットには {{UPGRADE}} してください。"
+   },
+   "aiChatLimitToastTitle": {
+      "message": "無料の AI チャット上限に達しました"
+   },
+   "aiChatLimitToastUpgradeLink": {
+      "message": "アップグレード"
+   },
+   "ariaAddChannelDescExclude": {
+      "message": "チャンネル説明の除外キーワードを追加"
+   },
+   "ariaAddChannelDescInclude": {
+      "message": "チャンネル説明キーワードを追加"
+   },
+   "ariaAddChannelExclude": {
+      "message": "除外するチャンネルキーワードを追加"
+   },
+   "ariaAddChannelTag": {
+      "message": "チャンネルタグを追加"
+   },
+   "ariaAddDescExclude": {
+      "message": "説明文の除外語を追加"
+   },
+   "ariaAddDescKeyword": {
+      "message": "説明文キーワードを追加"
+   },
+   "ariaAddTitleExclude": {
+      "message": "除外する語句を追加"
+   },
+   "ariaAddTitleKeyword": {
+      "message": "タイトルキーワードを追加"
+   },
+   "ariaCaptionLanguagesGroup": {
+      "message": "字幕の言語"
+   },
+   "ariaChannelCountriesExcludeGroup": {
+      "message": "除外するチャンネルの国"
+   },
+   "ariaChannelCountriesGroup": {
+      "message": "チャンネルの国"
+   },
+   "ariaChannelDescExcludesGroup": {
+      "message": "チャンネル説明の除外キーワード"
+   },
+   "ariaChannelDescIncludesGroup": {
+      "message": "チャンネル説明の含めるキーワード"
+   },
+   "ariaChannelSocialGroup": {
+      "message": "チャンネルのSNSプラットフォーム"
+   },
+   "ariaChannelTagsGroup": {
+      "message": "チャンネルタグ"
+   },
+   "ariaClearChannelDescExcludes": {
+      "message": "チャンネル説明の除外条件をクリア"
+   },
+   "ariaClearChannelDescIncludes": {
+      "message": "チャンネル説明の含める条件をクリア"
+   },
+   "ariaClearChannelTags": {
+      "message": "チャンネルタグをクリア"
+   },
+   "ariaClearChannelVideos": {
+      "message": "チャンネル動画数フィルターをクリア"
+   },
+   "ariaClearChannelViews": {
+      "message": "チャンネル再生回数フィルターをクリア"
+   },
+   "ariaClearCommentRate": {
+      "message": "コメント率フィルターをクリア"
+   },
+   "ariaClearComments": {
+      "message": "コメントフィルターをクリア"
+   },
+   "ariaClearDescExcludes": {
+      "message": "説明文の除外条件をクリア"
+   },
+   "ariaClearDescIncludes": {
+      "message": "説明文の含める条件をクリア"
+   },
+   "ariaClearDislikeRate": {
+      "message": "低評価率フィルターをクリア"
+   },
+   "ariaClearDislikes": {
+      "message": "低評価フィルターをクリア"
+   },
+   "ariaClearDuration": {
+      "message": "再生時間の値をすべてクリア"
+   },
+   "ariaClearExcludedChannels": {
+      "message": "除外チャンネルをクリア"
+   },
+   "ariaClearField": {
+      "message": "フィールドをクリア"
+   },
+   "ariaClearIncludedChannels": {
+      "message": "含めるチャンネルをクリア"
+   },
+   "ariaClearJoined": {
+      "message": "開設日フィルターをクリア"
+   },
+   "ariaClearLikeRate": {
+      "message": "高評価率フィルターをクリア"
+   },
+   "ariaClearLikes": {
+      "message": "高評価フィルターをクリア"
+   },
+   "ariaClearPublished": {
+      "message": "公開日フィルターをクリア"
+   },
+   "ariaClearSubscribers": {
+      "message": "登録者数フィルターをクリア"
+   },
+   "ariaClearTitleExcludes": {
+      "message": "タイトル除外をクリア"
+   },
+   "ariaClearTitleIncludes": {
+      "message": "タイトル包含をクリア"
+   },
+   "ariaClearVerified": {
+      "message": "認証フィルターをクリア"
+   },
+   "ariaClearVideoType": {
+      "message": "動画タイプを動画に戻す"
+   },
+   "ariaClearViews": {
+      "message": "再生回数フィルターをクリア"
+   },
+   "ariaClearViewsPerDay": {
+      "message": "1日あたり視聴回数フィルターをクリア"
+   },
+   "ariaCloseSettings": {
+      "message": "設定を閉じる"
+   },
+   "ariaDescExcludeGroup": {
+      "message": "説明文の除外タグ"
+   },
+   "ariaDescIncludeGroup": {
+      "message": "説明文に含めるキーワード"
+   },
+   "ariaDisableFiltering": {
+      "message": "フィルターを無効化"
+   },
+   "ariaDurMaxHours": {
+      "message": "最大時間（0–59）"
+   },
+   "ariaDurMaxMinutes": {
+      "message": "最大分（0–59）"
+   },
+   "ariaDurMaxSeconds": {
+      "message": "最大秒（0–59）"
+   },
+   "ariaDurMinHours": {
+      "message": "最小時間（0–59）"
+   },
+   "ariaDurMinMinutes": {
+      "message": "最小分（0–59）"
+   },
+   "ariaDurMinSeconds": {
+      "message": "最小秒（0–59）"
+   },
+   "ariaEnableFiltering": {
+      "message": "フィルターを有効化"
+   },
+   "ariaExcludeChannelsGroup": {
+      "message": "チャンネルを除外"
+   },
+   "ariaFilterHelpChapters": {
+      "message": "Show example of videos with chapters"
+   },
+   "ariaFilterHelpIncludeChannels": {
+      "message": "ヘルプ：チャンネルを含める"
+   },
+   "ariaFilterHelpStrictSearch": {
+      "message": "厳密検索の説明"
+   },
+   "ariaFilterMetricHelpCommentRate": {
+      "message": "コメント率のエンゲージメント段階"
+   },
+   "ariaFilterMetricHelpDislikeRate": {
+      "message": "低評価率のヘルプ"
+   },
+   "ariaFilterMetricHelpLikeRate": {
+      "message": "高評価率のエンゲージメント段階"
+   },
+   "ariaIncludeChannelsGroup": {
+      "message": "チャンネルを含める"
+   },
+   "ariaJoinedFrom": {
+      "message": "チャンネル開設日（開始）"
+   },
+   "ariaJoinedPreset": {
+      "message": "チャンネル開設日のプリセット"
+   },
+   "ariaJoinedUntil": {
+      "message": "チャンネル開設日（終了）"
+   },
+   "ariaMaxChannelVideos": {
+      "message": "最大チャンネル動画数"
+   },
+   "ariaMaxChannelViews": {
+      "message": "チャンネルの最大総再生回数"
+   },
+   "ariaMaxCommentRate": {
+      "message": "コメント率の上限"
+   },
+   "ariaMaxComments": {
+      "message": "コメント数の上限"
+   },
+   "ariaMaxDislikeRate": {
+      "message": "低評価率の最大値"
+   },
+   "ariaMaxDislikes": {
+      "message": "低評価の最大値"
+   },
+   "ariaMaxLikeRate": {
+      "message": "高評価率の上限"
+   },
+   "ariaMaxLikes": {
+      "message": "最大高評価数"
+   },
+   "ariaMaxSubscribers": {
+      "message": "最大登録者数"
+   },
+   "ariaMaxViews": {
+      "message": "最大再生回数"
+   },
+   "ariaMaxViewsPerDay": {
+      "message": "1日あたりの最大再生回数"
+   },
+   "ariaMinChannelVideos": {
+      "message": "最小チャンネル動画数"
+   },
+   "ariaMinChannelViews": {
+      "message": "チャンネルの最小総再生回数"
+   },
+   "ariaMinCommentRate": {
+      "message": "コメント率の下限"
+   },
+   "ariaMinComments": {
+      "message": "コメント数の下限"
+   },
+   "ariaMinDislikeRate": {
+      "message": "低評価率の最小値"
+   },
+   "ariaMinDislikes": {
+      "message": "低評価の最小値"
+   },
+   "ariaMinLikeRate": {
+      "message": "高評価率の下限"
+   },
+   "ariaMinLikes": {
+      "message": "最小高評価数"
+   },
+   "ariaMinSubscribers": {
+      "message": "最小登録者数"
+   },
+   "ariaMinViews": {
+      "message": "最小再生回数"
+   },
+   "ariaMinViewsPerDay": {
+      "message": "1日あたりの最小視聴回数"
+   },
+   "ariaPublishedFrom": {
+      "message": "公開日（開始）"
+   },
+   "ariaPublishedPreset": {
+      "message": "公開日プリセット"
+   },
+   "ariaPublishedUntil": {
+      "message": "公開日（終了）"
+   },
+   "ariaRemoveTag": {
+      "message": "$1 を削除"
+   },
+   "ariaResetAllFilters": {
+      "message": "すべてのフィルターをリセット"
+   },
+   "ariaSearchQuery": {
+      "message": "YouTubeの検索キーワード"
+   },
+   "ariaTitleExcludeGroup": {
+      "message": "タイトル除外タグ"
+   },
+   "ariaTitleIncludeGroup": {
+      "message": "タイトルに含めるキーワード"
+   },
+   "ariaVerifiedFilter": {
+      "message": "認証フィルター"
+   },
+   "ariaVideoTypeFilter": {
+      "message": "動画タイプフィルター"
+   },
+   "askAboutVideo": {
+      "message": "この動画について質問する"
+   },
+   "askAiAnything": {
+      "message": "AI に何でも質問"
+   },
+   "askAriaLabel": {
+      "message": "この動画について質問する"
+   },
+   "askPlaceholder": {
+      "message": "質問を入力…"
+   },
+   "btnApply": {
+      "message": "適用"
+   },
+   "btnCancel": {
+      "message": "キャンセル"
+   },
+   "btnClose": {
+      "message": "閉じる"
+   },
+   "btnEnableAndSearch": {
+      "message": "有効にして検索"
+   },
+   "btnResetAll": {
+      "message": "すべてリセット"
+   },
+   "btnSearch": {
+      "message": "検索"
+   },
+   "btnSearchAgain": {
+      "message": "もう一度検索"
+   },
+   "btnUpgrade": {
+      "message": "アップグレード"
+   },
+   "channelCountryUndeclared": {
+      "message": "国未申告"
+   },
+   "channelPickerMoreChannels": {
+      "message": "他 $count$ 件",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "closeSearch": {
+      "message": "検索を閉じる"
+   },
+   "coffeeBtnLabel": {
+      "message": "Buy me a coffee"
+   },
+   "coffeeFollowPrompt": {
+      "message": "SNSでフォローしてください:"
+   },
+   "coffeeReviewBtn": {
+      "message": "Chrome ウェブストアでレビュー"
+   },
+   "coffeeTextSupport": {
+      "message": "役に立ったら、コーヒー一杯の支援が大きな助けになります。"
+   },
+   "commentsReadLimitReached": {
+      "message": "無料の検索 $1 回すべてでコメント表示を使いました。無制限に読むにはアップグレードしてください。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "commentsReadProOnly": {
+      "message": "コメントの表示はPro限定です。"
+   },
+   "copy": {
+      "message": "コピー"
+   },
+   "couldNotFindVideoId": {
+      "message": "このカードで動画 ID が見つかりませんでした。"
+   },
+   "crawlTestDesc": {
+      "message": "この検索を API のみで取得（スクロールなし）し、サムネイルとタイトルを一覧表示します。"
+   },
+   "crawlTestReady": {
+      "message": "準備完了 — API のみで取得（スクロールなし）。"
+   },
+   "crawlTestStart": {
+      "message": "クロール開始"
+   },
+   "crawlTestStop": {
+      "message": "停止"
+   },
+   "crawlTestTitle": {
+      "message": "テスト検索クロールを表示"
+   },
+   "discordJoinLabel": {
+      "message": "Discordサーバーに参加"
+   },
+   "dislikesProOnlyTip": {
+      "message": "Pro ユーザー限定です。{{UPGRADE}}"
+   },
+   "dislikesProOnlyTipShort": {
+      "message": "Pro ユーザー限定です。"
+   },
+   "dislikesProOnlyUpgrade": {
+      "message": "こちらでアップグレード"
+   },
+   "done": {
+      "message": "完了"
+   },
+   "durDisplayBetween": {
+      "message": "\u003Cem>$1\u003C/em> から \u003Cem>$2\u003C/em> の間"
+   },
+   "durDisplayLongerThan": {
+      "message": "\u003Cem>$1\u003C/em> より長い"
+   },
+   "durDisplayUpTo": {
+      "message": "\u003Cem>$1\u003C/em> まで"
+   },
+   "durationHoursDisabledShorts": {
+      "message": "Shortsでは時間は使いません（最大3分）"
+   },
+   "enableBtnTitleOff": {
+      "message": "フィルター OFF — クリックで有効化"
+   },
+   "enableBtnTitleOn": {
+      "message": "フィルター ON — クリックで無効化"
+   },
+   "enableBtnTitleOnDraft": {
+      "message": "有効 — 検索をクリックしてフィルターを開始"
+   },
+   "enableBtnTitleOnLive": {
+      "message": "フィルター ON — クリックで無効化"
+   },
+   "errorChannelVideosMinExceedsMax": {
+      "message": "最小動画数は最大を超えられません。"
+   },
+   "errorChannelViewMinExceedsMax": {
+      "message": "チャンネルの最小再生回数は最大を超えられません。"
+   },
+   "errorCommentRateMinExceedsMax": {
+      "message": "コメント率の最小値は最大値を超えられません。"
+   },
+   "errorCommentsMinExceedsMax": {
+      "message": "コメント数の最小値は最大値を超えられません。"
+   },
+   "errorDislikeRateMinExceedsMax": {
+      "message": "低評価率の最小値は最大値を超えられません。"
+   },
+   "errorDislikesMinExceedsMax": {
+      "message": "低評価の最小値は最大値を超えられません。"
+   },
+   "errorDurMaxShortsExceeds3Min": {
+      "message": "Shortsの最大長さは3分（180秒）を超えられません。"
+   },
+   "errorDurMinExceedsMax": {
+      "message": "最小再生時間は最大を超えられません。"
+   },
+   "errorLikeRateMinExceedsMax": {
+      "message": "高評価率の最小値は最大値を超えられません。"
+   },
+   "errorLikesMinExceedsMax": {
+      "message": "最小高評価数は最大を超えられません。"
+   },
+   "errorSubMinExceedsMax": {
+      "message": "最小登録者数は最大を超えられません。"
+   },
+   "errorViewsMinExceedsMax": {
+      "message": "最小再生回数は最大を超えられません。"
+   },
+   "errorViewsPerDayMinExceedsMax": {
+      "message": "1日あたりの最小再生回数は最大を超えられません。"
+   },
+   "excludeChannelsConflictInclude": {
+      "message": "このチャンネルは「含めるチャンネル」にあります。先にそちらから削除してください。"
+   },
+   "export": {
+      "message": "エクスポート"
+   },
+   "exportCsv": {
+      "message": "CSV"
+   },
+   "exportFieldChannel": {
+      "message": "チャンネル"
+   },
+   "exportFieldChannelAvatar": {
+      "message": "チャンネルアイコン"
+   },
+   "exportFieldChannelDescription": {
+      "message": "チャンネル説明"
+   },
+   "exportFieldChannelId": {
+      "message": "チャンネル ID"
+   },
+   "exportFieldChannelKeywords": {
+      "message": "チャンネルキーワード"
+   },
+   "exportFieldChannelTags": {
+      "message": "チャンネルタグ"
+   },
+   "exportFieldChannelUrl": {
+      "message": "チャンネル URL"
+   },
+   "exportFieldChannelVideos": {
+      "message": "チャンネル動画"
+   },
+   "exportFieldChannelViews": {
+      "message": "チャンネル再生回数"
+   },
+   "exportFieldChannelViewsCount": {
+      "message": "チャンネル再生回数（数値）"
+   },
+   "exportFieldCommentPct": {
+      "message": "コメント (%)"
+   },
+   "exportFieldComments": {
+      "message": "コメント（数量）"
+   },
+   "exportFieldCountry": {
+      "message": "国"
+   },
+   "exportFieldDescription": {
+      "message": "説明"
+   },
+   "exportFieldDislikePct": {
+      "message": "低評価 (%)"
+   },
+   "exportFieldDislikes": {
+      "message": "低評価（数量）"
+   },
+   "exportFieldDuration": {
+      "message": "再生時間"
+   },
+   "exportFieldEmail": {
+      "message": "メール"
+   },
+   "exportFieldExample_channelViews": {
+      "message": "例：250万"
+   },
+   "exportFieldExample_commentPct": {
+      "message": "例：0.12%（平均）"
+   },
+   "exportFieldExample_comments": {
+      "message": "例：42"
+   },
+   "exportFieldExample_dislikePct": {
+      "message": "例：0.8%（良好）"
+   },
+   "exportFieldExample_dislikes": {
+      "message": "例：120"
+   },
+   "exportFieldExample_likePct": {
+      "message": "例：5%（優秀）"
+   },
+   "exportFieldExample_likes": {
+      "message": "例：10"
+   },
+   "exportFieldExample_subscribers": {
+      "message": "例：15万"
+   },
+   "exportFieldExample_views": {
+      "message": "例：12500"
+   },
+   "exportFieldExample_viewsPerDay": {
+      "message": "例：850"
+   },
+   "exportFieldJoined": {
+      "message": "登録日"
+   },
+   "exportFieldJoinedAtIso": {
+      "message": "登録日時（ISO）"
+   },
+   "exportFieldLikePct": {
+      "message": "いいね (%)"
+   },
+   "exportFieldLikes": {
+      "message": "いいね（数量）"
+   },
+   "exportFieldOtherWebsites": {
+      "message": "その他のウェブサイト"
+   },
+   "exportFieldPublished": {
+      "message": "公開日"
+   },
+   "exportFieldPublishedAtIso": {
+      "message": "公開日時（ISO）"
+   },
+   "exportFieldSubscribers": {
+      "message": "登録者"
+   },
+   "exportFieldSubscribersCount": {
+      "message": "登録者数"
+   },
+   "exportFieldThumbnail": {
+      "message": "サムネイル"
+   },
+   "exportFieldTitle": {
+      "message": "タイトル"
+   },
+   "exportFieldUrl": {
+      "message": "URL"
+   },
+   "exportFieldVerified": {
+      "message": "認証済み"
+   },
+   "exportFieldVideoId": {
+      "message": "動画 ID"
+   },
+   "exportFieldViews": {
+      "message": "再生回数"
+   },
+   "exportFieldViewsPerDay": {
+      "message": "再生回数/日（数量）"
+   },
+   "exportFieldsCancel": {
+      "message": "キャンセル"
+   },
+   "exportFieldsExport": {
+      "message": "エクスポート"
+   },
+   "exportFieldsGroupChannel": {
+      "message": "チャンネル"
+   },
+   "exportFieldsGroupContact": {
+      "message": "連絡先 / SNS"
+   },
+   "exportFieldsGroupEngagement": {
+      "message": "エンゲージメント"
+   },
+   "exportFieldsGroupVideo": {
+      "message": "動画"
+   },
+   "exportFieldsReset": {
+      "message": "リセット"
+   },
+   "exportFieldsTitle": {
+      "message": "エクスポートする項目を選択"
+   },
+   "exportFieldsTxtNote": {
+      "message": "TXT エクスポートは URL のみです。"
+   },
+   "exportJson": {
+      "message": "JSON"
+   },
+   "exportLimitReached": {
+      "message": "無料のエクスポート $1 回をすべて使用しました。無制限のエクスポートにはアップグレードしてください。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportLimitToastHint": {
+      "message": "無制限のエクスポートには {{UPGRADE}} してください。"
+   },
+   "exportLimitToastTitle": {
+      "message": "無料のエクスポート上限に達しました"
+   },
+   "exportLimitToastUpgradeLink": {
+      "message": "アップグレード"
+   },
+   "exportTxt": {
+      "message": "TXT"
+   },
+   "exportXlsx": {
+      "message": "XLSX"
+   },
+   "extensionDescription": {
+      "message": "YouTubeの検索結果を再生時間、再生回数、公開日、チャンネルなどでリアルタイムにフィルターします。"
+   },
+   "extensionName": {
+      "message": "Youtube Filter Pro: 再生回数・時間・日付などでフィルター"
+   },
+   "feedbackCloseAria": {
+      "message": "閉じる"
+   },
+   "feedbackEmailPlaceholder": {
+      "message": "メールアドレス（任意）"
+   },
+   "feedbackErrorEmail": {
+      "message": "有効なメールアドレスを入力してください。"
+   },
+   "feedbackErrorEmpty": {
+      "message": "フィードバックを入力してください。"
+   },
+   "feedbackErrorGeneric": {
+      "message": "問題が発生しました。もう一度お試しください。"
+   },
+   "feedbackIncludeSearchHint": {
+      "message": "非公開データは送信されません。このデータは不具合の対応中、最大30日間サーバーに保存されます。"
+   },
+   "feedbackIncludeSearchHintResults": {
+      "message": "個人データは送信されません。このデータは最大30日間サーバーに保存されます。"
+   },
+   "feedbackIncludeSearchLabel": {
+      "message": "この検索のクエリ（「$1」）と現在の$2件の結果をレポートに含め、不具合の調査と修正に役立てます。"
+   },
+   "feedbackIncludeSearchLabelNoQuery": {
+      "message": "この検索のクエリと現在の$1件の結果をレポートに含め、不具合の調査と修正に役立てます。"
+   },
+   "feedbackIncludeSearchLabelResults": {
+      "message": "調査のため、検索クエリと結果を含める。"
+   },
+   "feedbackLinkText": {
+      "message": "バグやフィードバック？"
+   },
+   "feedbackModalTitle": {
+      "message": "すべての提案を読んでいます。改善点は？"
+   },
+   "feedbackModalTitleBug": {
+      "message": "バグを報告または機能を提案"
+   },
+   "feedbackModalTitleResults": {
+      "message": "結果が役に立たず申し訳ありません — 何が問題でしたか？"
+   },
+   "feedbackRateLabel": {
+      "message": "評価をお願いします"
+   },
+   "feedbackReviewLinkLabel": {
+      "message": "レビューを残す"
+   },
+   "feedbackSubmitLabel": {
+      "message": "フィードバックを送信"
+   },
+   "feedbackSubmittingLabel": {
+      "message": "送信中..."
+   },
+   "feedbackSuggestionPlaceholder": {
+      "message": "ご提案を入力"
+   },
+   "feedbackThankyouText": {
+      "message": "お時間をいただきありがとうございます。"
+   },
+   "feedbackThankyouTitle": {
+      "message": "フィードバックありがとうございます！"
+   },
+   "filterBtnAriaActiveCount": {
+      "message": "動画フィルターを開く、$1 件のフィルターカテゴリが有効"
+   },
+   "filterBtnAriaFilteringOff": {
+      "message": "動画フィルターを開く。フィルターはオフです — フィルターオプションで「フィルター有効」をオンにしてください。"
+   },
+   "filterBtnAriaOpen": {
+      "message": "動画フィルターを開く"
+   },
+   "filterBtnBadgeDisabled": {
+      "message": "(無効)"
+   },
+   "filterBtnLabel": {
+      "message": "フィルター"
+   },
+   "filterBtnTooltipFilteringOff": {
+      "message": "フィルターはオフです。フィルターオプションで「フィルター有効」をオンにしてください（Alt+Shift+F で開き、歯車アイコンをクリック）。"
+   },
+   "filterHelpIncludeChannels": {
+      "message": "ここに追加したチャンネル内でのみクエリを検索します。\nチャンネル URL（例：youtube.com/@handle または youtube.com/channel/UC…）、@handle、または UC チャンネル ID を貼り付けて Enter を押してください。\n各チャンネルの組み込み検索を使用します（YouTube 全体の結果ではありません）。"
+   },
+   "filterHelpStrictSearch": {
+      "message": "タイトルに検索したすべての単語が含まれる動画のみを表示します。"
+   },
+   "filterMetricHelpCommentRate": {
+      "message": "コメント ÷ 再生回数\n≥0.5 %：優秀\n0.1–0.2 %：平均\n\u003C0.05 %：低い"
+   },
+   "filterMetricHelpDislikeRate": {
+      "message": "低評価 ÷ 再生回数"
+   },
+   "filterMetricHelpLikeRate": {
+      "message": "高評価 ÷ 再生回数\n≥4 %：優秀\n2–3 %：平均\n\u003C1 %：低い"
+   },
+   "filterQuotaLockedTip": {
+      "message": "プリセットと並べ替えを使うには、より多くの検索のためにアップグレードしてください。"
+   },
+   "filterTagEdit": {
+      "message": "このフィルターを編集"
+   },
+   "filterTagRemove": {
+      "message": "このフィルターを削除"
+   },
+   "filterTagViewCaptionLanguages": {
+      "message": "言語を表示"
+   },
+   "filterTagViewChannels": {
+      "message": "チャンネルを表示"
+   },
+   "filterTagViewCountries": {
+      "message": "国を表示"
+   },
+   "footerAccountHint": {
+      "message": "検索クォータとギフトコードを管理します。"
+   },
+   "footerFiltersCountPlural": {
+      "message": "フィルター $1 件"
+   },
+   "footerFiltersCountSingular": {
+      "message": "フィルター $1 件"
+   },
+   "footerFiltersLabel": {
+      "message": "フィルター"
+   },
+   "footerReviewLabel": {
+      "message": "レビュー"
+   },
+   "geminiCouldNotSummarize": {
+      "message": "Gemini はこの動画を要約できませんでした。"
+   },
+   "geminiNoReply": {
+      "message": "Gemini から応答がありませんでした。"
+   },
+   "giftCodeError": {
+      "message": "そのコードは利用できませんでした。"
+   },
+   "giftCodeErrorAlreadyRedeemed": {
+      "message": "このコードはすでに使用済みです。"
+   },
+   "giftCodeErrorExpired": {
+      "message": "このギフトコードは期限切れです。"
+   },
+   "giftCodeErrorInvalid": {
+      "message": "有効なギフトコードを入力してください。"
+   },
+   "giftCodeErrorMissingDevice": {
+      "message": "このデバイスを確認できませんでした。ページを更新してもう一度お試しください。"
+   },
+   "giftCodeErrorUnknown": {
+      "message": "そのギフトコードは存在しません。入力を確認してもう一度お試しください。"
+   },
+   "giftCodeErrorUsedUp": {
+      "message": "このコードは使用回数の上限に達しました。"
+   },
+   "giftCodeLabel": {
+      "message": "ギフトコード"
+   },
+   "giftCodePlaceholder": {
+      "message": "YFP-XXXX-XXXX"
+   },
+   "giftCodeRedeem": {
+      "message": "利用する"
+   },
+   "giftCodeRedeeming": {
+      "message": "利用中…"
+   },
+   "giftCodeSuccess": {
+      "message": "ギフトを適用しました。"
+   },
+   "giftGrantAddsLabel": {
+      "message": "付与"
+   },
+   "giftGrantDays": {
+      "message": "$1日",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "giftGrantExpiresLabel": {
+      "message": "有効期限"
+   },
+   "giftGrantLifetime": {
+      "message": "永久"
+   },
+   "giftGrantMonths": {
+      "message": "$1か月",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "giftGrantNeverExpires": {
+      "message": "期限なし"
+   },
+   "giftGrantOneDay": {
+      "message": "1日"
+   },
+   "giftGrantOneMonth": {
+      "message": "1か月"
+   },
+   "giftGrantRedeemedLabel": {
+      "message": "使用日"
+   },
+   "giftSignInBody": {
+      "message": "ギフトコードを使用するには、まず Google でサインインしてください。"
+   },
+   "giftSignInTitle": {
+      "message": "ギフトコードを利用するにはサインインしてください"
+   },
+   "helperChannelCountry": {
+      "message": "これらの国に拠点があるチャンネルだけを表示します（概要タブから）。"
+   },
+   "helperChannelCountryExclude": {
+      "message": "これらの国に拠点があるチャンネルを非表示にします（概要タブから）。"
+   },
+   "helperChannelDescExcludes": {
+      "message": "概要テキストにこれらのキーワードのいずれかが含まれるチャンネルを非表示にします。"
+   },
+   "helperChannelDescIncludes": {
+      "message": "チャンネルの概要テキストに、これらすべてのキーワードが含まれている必要があります。"
+   },
+   "helperChannelJoined": {
+      "message": "チャンネルが作成された時期でフィルターします。"
+   },
+   "helperChannelSocial": {
+      "message": "これらのプラットフォームのうち少なくとも1つをリンクしているチャンネルだけを表示します。"
+   },
+   "helperChannelTags": {
+      "message": "タグにこれらのキーワードのいずれかを含むチャンネルの動画を表示します。"
+   },
+   "helperChannelVideos": {
+      "message": "チャンネルの投稿動画数でフィルター。制限なしの場合は空欄にしてください。"
+   },
+   "helperChannelViews": {
+      "message": "チャンネルの総再生回数でフィルターします（概要から解析、言語に依存しません）。"
+   },
+   "helperCommentRate": {
+      "message": "再生数に対するコメントの割合"
+   },
+   "helperComments": {
+      "message": "指定したコメント数の範囲の動画を表示します。"
+   },
+   "helperDescExcludes": {
+      "message": "説明文にこれらのキーワードのいずれかを含む動画を非表示にします。"
+   },
+   "helperDescIncludes": {
+      "message": "説明文にこれらすべてのキーワードを含む動画のみ表示します。"
+   },
+   "helperDislikeRate": {
+      "message": "再生回数に対する低評価の合計 %（Pro）。"
+   },
+   "helperDislikes": {
+      "message": "低評価数でフィルター（Pro）。"
+   },
+   "helperDuration": {
+      "message": "指定した長さの範囲内の動画を表示します。"
+   },
+   "helperExcludeChannels": {
+      "message": "これらのチャンネルの動画は非表示になります。"
+   },
+   "helperIncludeChannels": {
+      "message": "これらのチャンネルの動画のみが検索されます。完全なチャンネル URL（youtube.com/@handle または /channel/UC…）、@handle、または UC チャンネル ID で追加できます。"
+   },
+   "helperLeaveBlankNoLimit": {
+      "message": "制限なしの場合は空欄にしてください。"
+   },
+   "helperLikeRate": {
+      "message": "再生数に対する高評価の割合。2〜5% = 高い。"
+   },
+   "helperLikes": {
+      "message": "この数より少ない高評価の動画を非表示にします。"
+   },
+   "helperPublished": {
+      "message": "特定の日付範囲に公開された動画のみ表示します。"
+   },
+   "helperRequireCaptions": {
+      "message": "字幕付きの動画のみ表示します。必要に応じて言語を1つ以上選べます。"
+   },
+   "helperRequireChapters": {
+      "message": "説明にタイムスタンプ付きチャプターがある動画のみ表示"
+   },
+   "helperRequireEmail": {
+      "message": "動画説明にメールアドレスが表示されている動画に一致します。"
+   },
+   "helperSearchQuery": {
+      "message": "YouTubeの検索クエリを編集します。"
+   },
+   "helperSubscribers": {
+      "message": "チャンネル登録者数でフィルター。制限なしの場合は空欄にしてください。"
+   },
+   "helperTitleExcludes": {
+      "message": "これらの語句を含む動画は非表示になります。"
+   },
+   "helperTitleIncludes": {
+      "message": "これらのキーワードをすべて含む動画のみ表示"
+   },
+   "helperVerified": {
+      "message": "認証バッジでフィルターします。"
+   },
+   "helperVideoType": {
+      "message": "YouTubeの動画またはShortsだけを検索します。"
+   },
+   "helperViews": {
+      "message": "指定した再生回数の範囲内の動画を表示します。"
+   },
+   "helperViewsPerDay": {
+      "message": "このしきい値未満の1日あたり視聴回数の動画を非表示にします。"
+   },
+   "hintAfter": {
+      "message": "で変更できます。"
+   },
+   "hintAiConversationsLeft": {
+      "message": "残り $1 回の AI 会話があります。無制限には {{UPGRADE}}。",
+      "placeholders": {
+         "1": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "hintAiConversationsUpgrade": {
+      "message": "アップグレード"
+   },
+   "hintBefore": {
+      "message": "要約の長さやその他の設定は"
+   },
+   "hintHere": {
+      "message": "こちら"
+   },
+   "includeChannelsConflictExclude": {
+      "message": "このチャンネルは「除外チャンネル」にあります。先にそちらから削除してください。"
+   },
+   "includeChannelsFetchSubscriptions": {
+      "message": "登録チャンネルを取得"
+   },
+   "includeChannelsFetchSubscriptionsDone": {
+      "message": "登録から $1 件のチャンネルを保存しました。"
+   },
+   "includeChannelsFetchSubscriptionsFailed": {
+      "message": "登録を読み込めませんでした。youtube.com にサインインして再試行してください。"
+   },
+   "includeChannelsFetchingSubscriptions": {
+      "message": "登録チャンネルを取得しています…"
+   },
+   "includeChannelsFetchingSubscriptionsProgress": {
+      "message": "登録チャンネルを取得しています… 現在 $1 件読み込み済み。"
+   },
+   "includeChannelsListNoMatches": {
+      "message": "検索に一致するチャンネルはありません。"
+   },
+   "includeChannelsLookingUp": {
+      "message": "チャンネルを検索中…"
+   },
+   "includeChannelsNoCached": {
+      "message": "保存されたチャンネルはまだありません — 上に追加してください。"
+   },
+   "includeChannelsNotFound": {
+      "message": "チャンネルが見つかりません。完全な YouTube URL、@handle、またはチャンネル ID を使用してください。"
+   },
+   "includeInitialSummary": {
+      "message": "初期要約を含めますか？"
+   },
+   "includeInitialSummaryHelp": {
+      "message": "AI ボタンをクリックすると、動画が自動的に要約されます（ネタバレを含む場合があります）。オフにすると、提案されたアクション付きでチャットが開きます。"
+   },
+   "labelChannelCountry": {
+      "message": "国"
+   },
+   "labelChannelCountryExclude": {
+      "message": "国を除外"
+   },
+   "labelChannelDescExcludes": {
+      "message": "チャンネル説明から除外"
+   },
+   "labelChannelDescIncludes": {
+      "message": "チャンネル説明に含む"
+   },
+   "labelChannelJoined": {
+      "message": "開設日"
+   },
+   "labelChannelSocial": {
+      "message": "SNSリンク"
+   },
+   "labelChannelTags": {
+      "message": "チャンネルタグ"
+   },
+   "labelChannelVideos": {
+      "message": "チャンネル動画数"
+   },
+   "labelChannelViews": {
+      "message": "チャンネル再生回数"
+   },
+   "labelCommentRate": {
+      "message": "コメント（%）"
+   },
+   "labelComments": {
+      "message": "コメント"
+   },
+   "labelDescExcludes": {
+      "message": "説明文から除外"
+   },
+   "labelDescIncludes": {
+      "message": "説明文に含む"
+   },
+   "labelDislikeRate": {
+      "message": "低評価 (%)"
+   },
+   "labelDislikes": {
+      "message": "低評価"
+   },
+   "labelDuration": {
+      "message": "再生時間"
+   },
+   "labelExcludeChannels": {
+      "message": "チャンネルを除外"
+   },
+   "labelIncludeChannels": {
+      "message": "チャンネルを含める"
+   },
+   "labelLikeRate": {
+      "message": "高評価（%）"
+   },
+   "labelLikes": {
+      "message": "高評価"
+   },
+   "labelMax": {
+      "message": "最大"
+   },
+   "labelMaxPercent": {
+      "message": "最大 %"
+   },
+   "labelMin": {
+      "message": "最小"
+   },
+   "labelMinPercent": {
+      "message": "最小 %"
+   },
+   "labelPublished": {
+      "message": "公開日"
+   },
+   "labelRequireCaptions": {
+      "message": "字幕あり"
+   },
+   "labelRequireChapters": {
+      "message": "チャプターあり"
+   },
+   "labelRequireEmail": {
+      "message": "動画説明にメールあり"
+   },
+   "labelSearchQuery": {
+      "message": "検索"
+   },
+   "labelStrictSearch": {
+      "message": "厳密検索を有効にする"
+   },
+   "labelSubscribers": {
+      "message": "登録者数"
+   },
+   "labelTitleExcludes": {
+      "message": "タイトルから除外"
+   },
+   "labelTitleIncludes": {
+      "message": "タイトルに含む"
+   },
+   "labelVerified": {
+      "message": "認証済み"
+   },
+   "labelVideoType": {
+      "message": "動画タイプ"
+   },
+   "labelViews": {
+      "message": "再生回数"
+   },
+   "labelViewsPerDay": {
+      "message": "1日あたりの視聴回数"
+   },
+   "loading": {
+      "message": "読み込み中"
+   },
+   "mfrAiDisclosureTip": {
+      "message": "YouTube はこの動画の AI 生成コンテンツ（音声、翻訳、視覚要素を含む場合があります）を特定し、フラグを付けました。"
+   },
+   "mfrAskAiNewTip": {
+      "message": "新機能！動画に関することを AI に何でも質問できます。"
+   },
+   "mfrAskAiNewTipDismissAria": {
+      "message": "AI 質問のヒントを閉じる"
+   },
+   "mfrAskAiSummaryLabel": {
+      "message": "概要"
+   },
+   "mfrAskAiSummaryTip": {
+      "message": "この動画について AI に何でも質問できます。"
+   },
+   "mfrCommentsReadTipDismissAria": {
+      "message": "コメントのヒントを閉じる"
+   },
+   "mfrCommentsReadTipTitle": {
+      "message": "コメントをすばやく読めるようになりました。"
+   },
+   "mfrDashboardUpgrade": {
+      "message": "アップグレード"
+   },
+   "mfrDashboardUpgradeTip": {
+      "message": "無制限の検索、並べ替え、AI 利用にはアップグレードしてください。"
+   },
+   "modalAriaCloseFilters": {
+      "message": "フィルターを閉じる"
+   },
+   "modalAriaEnableToggle": {
+      "message": "フィルターのオン/オフ"
+   },
+   "modalAriaFilterSettings": {
+      "message": "フィルター設定"
+   },
+   "modalFilterChipEnabledSubtitle": {
+      "message": "{{FILTERS}}に一致する動画を探しています。このタブを閉じないでください。"
+   },
+   "modalFilterChipEnabledTitle": {
+      "message": "フィルター有効"
+   },
+   "modalFilterChipFiltersLink": {
+      "message": "フィルター"
+   },
+   "modalFilterChipMetricChecked": {
+      "message": "確認済み: $1"
+   },
+   "modalFilterChipMetricElapsed": {
+      "message": "経過: $1"
+   },
+   "modalFilterChipMetricFiltered": {
+      "message": "見つかった件数: $1"
+   },
+   "modalFilterChipMetricPage": {
+      "message": "ページ: $1"
+   },
+   "modalFilterChipProgress": {
+      "message": "動画をフィルター中 · \u003Cspan class=\"yfp-toast__found-count\">$1\u003C/span> / \u003Cspan class=\"yfp-toast__total-count\">$2\u003C/span> 件 · ページ $3"
+   },
+   "modalFilterChipScrollingHint": {
+      "message": "すべての動画を確認するため\u003Cb>さらに結果を読み込んでいます\u003C/b>。しばらくお待ちください。"
+   },
+   "modalFilterCompleted": {
+      "message": "完了！ここをクリックして結果を表示。"
+   },
+   "modalFilterCopiedUrlsSuccess": {
+      "message": "$1件のURLをコピーしました",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterDescEmpty": {
+      "message": "説明なし"
+   },
+   "modalFilterDescLoading": {
+      "message": "説明を読み込み中…"
+   },
+   "modalFilterEditFilters": {
+      "message": "フィルターを編集"
+   },
+   "modalFilterExcludeChannelTip": {
+      "message": "このチャンネルを検索から除外"
+   },
+   "modalFilterExcludeCountryTip": {
+      "message": "この国を検索から除外"
+   },
+   "modalFilterExhaustedNoMatches": {
+      "message": "一致する動画がないまま検索ページの末尾に到達しました。フィルターを緩めてみてください。"
+   },
+   "modalFilterExhaustedNoMatchesChannels": {
+      "message": "含まれるすべてのチャンネルの末尾に到達しましたが、一致する動画はありませんでした。フィルターを緩めてみてください。"
+   },
+   "modalFilterExport": {
+      "message": "エクスポート"
+   },
+   "modalFilterExportCompletingSearch": {
+      "message": "検索を完了中… $1 件見つかりました（$2 件確認済み）",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "modalFilterExportCopyUrls": {
+      "message": "URLをコピー"
+   },
+   "modalFilterExportCsv": {
+      "message": "CSV"
+   },
+   "modalFilterExportFormatCsv": {
+      "message": "CSV"
+   },
+   "modalFilterExportFormatJson": {
+      "message": "JSON"
+   },
+   "modalFilterExportFormatTxt": {
+      "message": "TXT"
+   },
+   "modalFilterExportFormatXlsx": {
+      "message": "Excel (.xlsx)"
+   },
+   "modalFilterExportJson": {
+      "message": "JSON"
+   },
+   "modalFilterExportPausing": {
+      "message": "エクスポートのためフィルターを一時停止中…"
+   },
+   "modalFilterExportSuccess": {
+      "message": "$1 に書き出しました",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterExportTxt": {
+      "message": "TXT"
+   },
+   "modalFilterExportXlsx": {
+      "message": "XLSX"
+   },
+   "modalFilterFilterTagsMore": {
+      "message": "+ さらに $1"
+   },
+   "modalFilterFiltering": {
+      "message": "動画をフィルター中…"
+   },
+   "modalFilterFiltersSummaryTitle": {
+      "message": "フィルターの概要"
+   },
+   "modalFilterGoToPage": {
+      "message": "ページへ移動"
+   },
+   "modalFilterGoToPagePlaceholder": {
+      "message": "#"
+   },
+   "modalFilterKeepSearching": {
+      "message": "検索を続ける"
+   },
+   "modalFilterLoading": {
+      "message": "読み込み中…"
+   },
+   "modalFilterMetricCheckedLabel": {
+      "message": "スキャンした動画"
+   },
+   "modalFilterMetricElapsedLabel": {
+      "message": "経過時間"
+   },
+   "modalFilterMetricFoundLabel": {
+      "message": "一致した動画"
+   },
+   "modalFilterMetricPageLabel": {
+      "message": "到達したページ"
+   },
+   "modalFilterMoreVideosProcessing": {
+      "message": "さらに$1本の動画を処理中",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterNextPage": {
+      "message": "次のページ"
+   },
+   "modalFilterNextPageBtn": {
+      "message": "次のページ"
+   },
+   "modalFilterNoMatches": {
+      "message": "一致する動画は見つかりませんでした。"
+   },
+   "modalFilterNoMoreResults": {
+      "message": "この検索ページにこれ以上結果はありません"
+   },
+   "modalFilterPageSuffix": {
+      "message": "（$1 ページ）"
+   },
+   "modalFilterPaginationAria": {
+      "message": "結果ページ"
+   },
+   "modalFilterPanelCompletedStatus": {
+      "message": "フィルター完了。$1 件の動画が見つかりました。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "modalFilterPanelEnabledStatus": {
+      "message": "フィルター有効。$1 件の動画が見つかりました。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "modalFilterPanelFound": {
+      "message": "\u003Cspan class=\"yfp-toast__found-count\">$1\u003C/span> 件の動画が見つかりました \u003Csmall class=\"yfp-mfr-checked\">（$2 件を確認）\u003C/small>"
+   },
+   "modalFilterPanelPausedStatus": {
+      "message": "フィルター一時停止中。$1 件の動画が見つかりました。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "modalFilterPause": {
+      "message": "一時停止"
+   },
+   "modalFilterPausing": {
+      "message": "一時停止中…"
+   },
+   "modalFilterPreparingDownload": {
+      "message": "ダウンロードを準備中…"
+   },
+   "modalFilterPrevPage": {
+      "message": "前のページ"
+   },
+   "modalFilterProgressFoundPlural": {
+      "message": "$1 件見つかりました"
+   },
+   "modalFilterProgressFoundSingular": {
+      "message": "$1 件見つかりました"
+   },
+   "modalFilterRateFiveStars": {
+      "message": "評価"
+   },
+   "modalFilterReportBug": {
+      "message": "バグを報告"
+   },
+   "modalFilterResultsCompleteSubtitle": {
+      "message": "検索が完了しました。"
+   },
+   "modalFilterResultsForQuery": {
+      "message": "検索結果：「$1」",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterResultsTitle": {
+      "message": "フィルター結果"
+   },
+   "modalFilterResume": {
+      "message": "再開"
+   },
+   "modalFilterSearchingBannerSubtitle": {
+      "message": "ページを自動スクロールし、フィルターに一致する動画を検索しています。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterSearchingBannerSubtitleFallback": {
+      "message": "このタブは開いたままにしてください。"
+   },
+   "modalFilterSearchingChannelsSubtitle": {
+      "message": "含まれるチャンネルで「$1」を検索中です。このタブを開いたままにしてください。"
+   },
+   "modalFilterSearchingChannelsSubtitleFallback": {
+      "message": "含まれるチャンネルを検索中です。このタブを開いたままにしてください。"
+   },
+   "modalFilterSearchingChannelsTitle": {
+      "message": "$1 チャンネルを検索中"
+   },
+   "modalFilterSearchingCriteriaTitle": {
+      "message": "すべての条件に一致する動画をフィルターしています"
+   },
+   "modalFilterSearchingEmptyHint": {
+      "message": "見つかった結果はここに表示されます。\n数分かかる場合があります。このページはいつでも閉じられます。"
+   },
+   "modalFilterSearchingNoResultsYet": {
+      "message": "検索中… まだ結果はありません。"
+   },
+   "modalFilterSearchingPausedSubtitle": {
+      "message": "ページの自動スクロールを一時停止しました。"
+   },
+   "modalFilterSearchingPausedTitle": {
+      "message": "検索を一時停止しました。"
+   },
+   "modalFilterSearchingProgress": {
+      "message": "検索中（$2 件中 $1 件見つかりました）"
+   },
+   "modalFilterSearchingProgressShort": {
+      "message": "$2 件中 $1 件見つかりました"
+   },
+   "modalFilterSearchingStatus": {
+      "message": "検索中..."
+   },
+   "modalFilterSearchingStatusFilters": {
+      "message": "フィルターを適用中"
+   },
+   "modalFilterSearchingStatusMatches": {
+      "message": "一致を検索中"
+   },
+   "modalFilterSearchingStatusScroll": {
+      "message": "自動スクロール中"
+   },
+   "modalFilterSearchingStatusTime": {
+      "message": "数分かかる場合があります"
+   },
+   "modalFilterSearchingSubtitle": {
+      "message": "$1 個のフィルターに一致する動画をスキャンしています"
+   },
+   "modalFilterSearchingSubtitlePlural": {
+      "message": "$1 個のフィルターに一致する動画をスキャンしています"
+   },
+   "modalFilterSearchingSubtitleSingular": {
+      "message": "$1 個のフィルターに一致する動画をスキャンしています"
+   },
+   "modalFilterSearchingTipBody": {
+      "message": "時間がかかりすぎますか？フィルターが厳しすぎると、結果がほとんどないか、まったくない場合があります。"
+   },
+   "modalFilterSearchingTipLabel": {
+      "message": "ヒント:"
+   },
+   "modalFilterSearchingTitle": {
+      "message": "YouTube を検索中..."
+   },
+   "modalFilterShowFeedback": {
+      "message": "フィードバックを表示"
+   },
+   "modalFilterShowLess": {
+      "message": "閉じる"
+   },
+   "modalFilterShowMore": {
+      "message": "もっと見る"
+   },
+   "modalFilterSortAvailableWhenSettled": {
+      "message": "結果が表示されると並べ替えできます"
+   },
+   "modalFilterSortReorderHint": {
+      "message": "動画はリアルタイムで並べ替えられます。すべての結果の読み込みと並べ替えに30〜60秒かかることがあります。"
+   },
+   "modalFilterSortReorderTitle": {
+      "message": "読み込み中に動画の順序が変わることがあります。"
+   },
+   "modalFilterSortTip": {
+      "message": "ここをクリックして結果を並べ替える"
+   },
+   "modalFilterSortTipDismissAria": {
+      "message": "並べ替えのヒントを閉じる"
+   },
+   "modalFilterSortVisibleResultsAria": {
+      "message": "現在表示中の結果を並べ替える"
+   },
+   "modalFilterSortingBy": {
+      "message": "$1で並べ替え中…",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterStart": {
+      "message": "開始"
+   },
+   "modalFilterStartedHint": {
+      "message": "見つかった結果がここに表示されます。このタブは開いたままにしてください。"
+   },
+   "modalFilterStartedTitle": {
+      "message": "フィルタリングを開始しました"
+   },
+   "modalFilterStop": {
+      "message": "停止"
+   },
+   "modalFilterStopped": {
+      "message": "フィルターを停止しました"
+   },
+   "modalFilterSupportPromo": {
+      "message": "この拡張機能が役立つなら、ご支援いただけると大変うれしいです。"
+   },
+   "modalFilterVideosChecked": {
+      "message": "$1本の動画を確認済み…"
+   },
+   "modalFilterVideosSorted": {
+      "message": "$1/$2本を並べ替え済み"
+   },
+   "modalFilterViewResults": {
+      "message": "$1 件の結果を表示"
+   },
+   "modalFilterViewResultsPlural": {
+      "message": "$1 件の結果を表示"
+   },
+   "modalFilterViewResultsSingular": {
+      "message": "$1 件の結果を表示"
+   },
+   "modalFilteringDisabled": {
+      "message": "無効"
+   },
+   "modalFilteringEnabled": {
+      "message": "有効"
+   },
+   "modalSubtitle": {
+      "message": "この検索にフィルタを追加:"
+   },
+   "modalSubtitleFiltering": {
+      "message": "検索をフィルタリング中："
+   },
+   "modalSubtitleLogin": {
+      "message": "アップグレード"
+   },
+   "modalSubtitleLoginMore": {
+      "message": "で無制限の検索が可能になります。"
+   },
+   "modalSubtitleQuotaLeft": {
+      "message": "残り $1 回の検索があります。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalSubtitleQuotaUnlimited": {
+      "message": "検索は無制限です。"
+   },
+   "modalTitle": {
+      "message": "フィルター"
+   },
+   "multiSelectNoResults": {
+      "message": "一致なし"
+   },
+   "nextMatch": {
+      "message": "次の一致"
+   },
+   "noteChannelCountryDisplay": {
+      "message": "$1 を有効にすると、各チャンネルの国をより把握しやすくなります。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "noteChannelCountryLanguage": {
+      "message": "結果を改善するには、該当チャンネルの言語で検索してみてください。"
+   },
+   "noteChannelCountryUndeclared": {
+      "message": "結果が非常に限られる場合があります。すべてのチャンネルが国を明示しているわけではありません。"
+   },
+   "notesChannelCountryTitle": {
+      "message": "注意:"
+   },
+   "onboardingDone": {
+      "message": "完了"
+   },
+   "onboardingNext": {
+      "message": "次へ"
+   },
+   "onboardingSkip": {
+      "message": "チュートリアルをスキップ"
+   },
+   "onboardingStep1Desc": {
+      "message": "検索にフィルターを追加しましょう。\n\n上のフィルターボタンをクリックしてください。"
+   },
+   "onboardingStep2Desc": {
+      "message": "便利なフィルターはたくさんありますが、このチュートリアルでは2つだけ使います。\n\n5〜10分の動画を探しましょう。\n\n再生時間はすでに設定済みです — {{NEXT}} をクリックして続けてください。"
+   },
+   "onboardingStep3Desc": {
+      "message": "もう1つフィルターを追加しました：\n\n\u003Cb>登録者1万人以上\u003C/b>のチャンネルの動画のみ表示。\n\n{{NEXT}} をクリックして続けてください。"
+   },
+   "onboardingStep4Desc": {
+      "message": "「検索」をクリックしてフィルタリングを開始してください。"
+   },
+   "onboardingStep5Desc": {
+      "message": "フィルターに一致する結果はここに表示されます。\n\n複雑なフィルターは時間がかかることがあります — ご注意ください。"
+   },
+   "onboardingStep6Desc": {
+      "message": "いつでも一時停止できます。\n\nより快適に使うには、結果を見る前に一時停止することをおすすめします。\n\nお楽しみください！"
+   },
+   "onboardingStepProgress": {
+      "message": "ステップ $1/$2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "onboardingWelcomeBody": {
+      "message": "この30秒のチュートリアルを\u003Cb>強く\u003C/b>おすすめします。"
+   },
+   "onboardingWelcomeClose": {
+      "message": "閉じる"
+   },
+   "onboardingWelcomeLegal": {
+      "message": "続行して拡張機能を使用することで、\u003Ca href=\"https://codedcitadel.com/privacy-policy/youtube-filter-pro\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー\u003C/a>および\u003Ca href=\"https://codedcitadel.com/terms-of-service/youtube-filter-pro\" target=\"_blank\" rel=\"noopener noreferrer\">利用規約\u003C/a>に同意したものとみなされます。"
+   },
+   "onboardingWelcomeOk": {
+      "message": "見せて"
+   },
+   "onboardingWelcomeTitle": {
+      "message": "YouTube Filter Pro をインストールしていただきありがとうございます！"
+   },
+   "placeholderAddIncludeChannel": {
+      "message": "URL または @handle を貼り付けて Enter を押す"
+   },
+   "placeholderChannelDescExcludes": {
+      "message": "概要に含まれていれば除外…（カンマまたは Enter）"
+   },
+   "placeholderChannelDescIncludes": {
+      "message": "概要の説明内キーワード（カンマまたは Enter）"
+   },
+   "placeholderChannelTags": {
+      "message": "Channel tags (comma or Enter)"
+   },
+   "placeholderDescExclude": {
+      "message": "Words to exclude (comma or Enter)"
+   },
+   "placeholderDescKeywords": {
+      "message": "Keywords in description (comma or Enter)"
+   },
+   "placeholderExcludeChannels": {
+      "message": "除外するチャンネルを選択…"
+   },
+   "placeholderIncludeChannels": {
+      "message": "含めるチャンネルを選択…"
+   },
+   "placeholderMaxChannelViews": {
+      "message": "最大再生回数"
+   },
+   "placeholderMaxCommentRate": {
+      "message": "3%"
+   },
+   "placeholderMaxComments": {
+      "message": "1000"
+   },
+   "placeholderMaxDislikeRate": {
+      "message": "2%"
+   },
+   "placeholderMaxDislikes": {
+      "message": "最大"
+   },
+   "placeholderMaxLikeRate": {
+      "message": "3%"
+   },
+   "placeholderMaxLikes": {
+      "message": "10000"
+   },
+   "placeholderMaxSubscribers": {
+      "message": "Max subscribers"
+   },
+   "placeholderMaxVideos": {
+      "message": "Max videos"
+   },
+   "placeholderMaxViews": {
+      "message": "50000"
+   },
+   "placeholderMaxViewsPerDay": {
+      "message": "1000"
+   },
+   "placeholderMinChannelViews": {
+      "message": "最小再生回数"
+   },
+   "placeholderMinCommentRate": {
+      "message": "0.5%"
+   },
+   "placeholderMinComments": {
+      "message": "100"
+   },
+   "placeholderMinDislikeRate": {
+      "message": "0.1%"
+   },
+   "placeholderMinDislikes": {
+      "message": "最小"
+   },
+   "placeholderMinLikeRate": {
+      "message": "0.5%"
+   },
+   "placeholderMinLikes": {
+      "message": "100"
+   },
+   "placeholderMinSubscribers": {
+      "message": "Min subscribers"
+   },
+   "placeholderMinVideos": {
+      "message": "Min videos"
+   },
+   "placeholderMinViews": {
+      "message": "1000"
+   },
+   "placeholderSearchCaptionLanguages": {
+      "message": "言語を検索…"
+   },
+   "placeholderSearchCountries": {
+      "message": "国を検索"
+   },
+   "placeholderSearchSocial": {
+      "message": "プラットフォームを検索"
+   },
+   "placeholderSelectCaptionLanguages": {
+      "message": "すべての言語"
+   },
+   "placeholderSelectCountries": {
+      "message": "国を選択…"
+   },
+   "placeholderSelectCountriesExclude": {
+      "message": "国を除外…"
+   },
+   "placeholderSelectSocial": {
+      "message": "プラットフォームを選択…"
+   },
+   "placeholderTitleExclude": {
+      "message": "Words to exclude (comma or Enter)"
+   },
+   "placeholderTitleKeywords": {
+      "message": "Keywords in title (comma or Enter)"
+   },
+   "placeholderViewsPerDay": {
+      "message": "100"
+   },
+   "planAiChats": {
+      "message": "AI チャット"
+   },
+   "planAiChatsHelp": {
+      "message": "フィルター結果の動画について質問できます — 要約、要点など。"
+   },
+   "planBestValue": {
+      "message": "最もお得"
+   },
+   "planChannelData": {
+      "message": "チャンネルデータ"
+   },
+   "planChannelDataHelp": {
+      "message": "検索結果のチャンネル別統計：登録者数、動画数、国、チャンネル再生回数、登録日、SNS リンク。"
+   },
+   "planChannelFilters": {
+      "message": "チャンネルフィルター"
+   },
+   "planChannelFiltersHelp": {
+      "message": "登録者数、国、特定のチャンネルなどでフィルターできます。$1 個のフィルターが利用可能です。",
+      "placeholders": {
+         "1": {
+            "content": "$1",
+            "example": "14"
+         }
+      }
+   },
+   "planDescription": {
+      "message": "概要"
+   },
+   "planDescriptionHelp": {
+      "message": "動画を開かなくても概要を確認できます。"
+   },
+   "planDetectAiContent": {
+      "message": "AI コンテンツを検出"
+   },
+   "planDetectAiContentHelp": {
+      "message": "YouTube は一部の AI 生成コンテンツを自動的にフラグ付けし、フィルター結果に表示されます。"
+   },
+   "planDislikeCount": {
+      "message": "低評価数"
+   },
+   "planDislikeCountHelp": {
+      "message": "動画の低評価数を表示します。"
+   },
+   "planExports": {
+      "message": "エクスポート"
+   },
+   "planExportsHelp": {
+      "message": "フィルター結果を CSV、Excel、JSON、またはプレーンテキストでダウンロードするか、結果パネルから動画の URL をコピーできます。"
+   },
+   "planFeatures": {
+      "message": "Features"
+   },
+   "planFree": {
+      "message": "無料"
+   },
+   "planIncluded": {
+      "message": "含まれる"
+   },
+   "planLimited": {
+      "description": "Free column label for add-ons that are available but capped on the free plan",
+      "message": "制限あり"
+   },
+   "planPerformance": {
+      "message": "パフォーマンス"
+   },
+   "planPerformanceHelp": {
+      "message": "各動画のパフォーマンス指標を表示します。"
+   },
+   "planPresets": {
+      "message": "プリセット"
+   },
+   "planPresetsHelp": {
+      "message": "素早い検索に便利な、定義済みのフィルター組み合わせです。"
+   },
+   "planPro": {
+      "message": "Pro"
+   },
+   "planQuickView": {
+      "message": "動画データ"
+   },
+   "planQuickViewHelp": {
+      "message": "検索結果の動画ごとの統計：高評価、再生回数、コメント、1日あたりの再生回数。"
+   },
+   "planReadComments": {
+      "message": "コメントを表示"
+   },
+   "planReadCommentsHelp": {
+      "message": "ホバーして最も高評価のコメントを読む。"
+   },
+   "planSearches": {
+      "message": "検索 / 週"
+   },
+   "planSocialMedia": {
+      "message": "ソーシャルメディア"
+   },
+   "planSocialMediaHelp": {
+      "message": "AIが抽出したチャンネルのリンクをすべて表示。"
+   },
+   "planSorting": {
+      "message": "並べ替え"
+   },
+   "planSortingHelp": {
+      "message": "結果パネルのヘッダーから、再生回数、アップロード日、チャンネル登録者数などでフィルター結果を並べ替えます。"
+   },
+   "planUnlimited": {
+      "message": "無制限"
+   },
+   "planVideoFilters": {
+      "message": "動画フィルター"
+   },
+   "planVideoFiltersHelp": {
+      "message": "再生回数、アップロード日、時間、高評価など、$1 個の便利なフィルターで絞り込めます。",
+      "placeholders": {
+         "1": {
+            "content": "$1",
+            "example": "10"
+         }
+      }
+   },
+   "planVideoStats": {
+      "description": "Profile compare row for watch-page Data / Video Stats",
+      "message": "動画統計 / 週"
+   },
+   "planVideoStatsHelp": {
+      "description": "Help tooltip for the Video Stats row in the account compare table",
+      "message": "視聴ページでこの動画のパフォーマンス統計を表示します。"
+   },
+   "presetComplete": {
+      "message": "完全"
+   },
+   "presetShort": {
+      "message": "短い"
+   },
+   "presetSuperShort": {
+      "message": "超短い"
+   },
+   "presetsApplied": {
+      "message": "プリセットを適用しました"
+   },
+   "presetsButton": {
+      "message": "プリセット"
+   },
+   "presetsButtonAria": {
+      "message": "フィルタープリセット"
+   },
+   "presetsClearAria": {
+      "message": "プリセットをクリア"
+   },
+   "presetsDeleteAria": {
+      "message": "プリセット $1 を削除"
+   },
+   "presetsEmpty": {
+      "message": "保存済みのプリセットはまだありません"
+   },
+   "presetsModalHint": {
+      "message": "検索フィルターの事前定義の組み合わせです。カーソルを合わせると短い説明が表示されます。"
+   },
+   "presetsModalTitle": {
+      "message": "フィルタープリセット"
+   },
+   "presetsNewTip": {
+      "message": "新機能！ここから便利な事前定義フィルターを追加できます。"
+   },
+   "presetsNewTipDismissAria": {
+      "message": "プリセットのヒントを閉じる"
+   },
+   "presetsNone": {
+      "message": "なし"
+   },
+   "presetsNoneDesc": {
+      "message": "プリセットなし"
+   },
+   "presetsSaveCancel": {
+      "message": "キャンセル"
+   },
+   "presetsSaveConfirm": {
+      "message": "保存"
+   },
+   "presetsSaveCurrent": {
+      "message": "現在の設定をプリセットとして保存"
+   },
+   "presetsSaveDefaultName": {
+      "message": "マイプリセット"
+   },
+   "presetsSaveNamePlaceholder": {
+      "message": "プリセット名"
+   },
+   "presetsSuggested": {
+      "message": "おすすめ"
+   },
+   "presetsYours": {
+      "message": "あなたのプリセット"
+   },
+   "previousMatch": {
+      "message": "前の一致"
+   },
+   "privacyNoticeBody": {
+      "message": "YouTube Filter Pro をより正確で便利にするため、どの種類のフィルターが使われているかの匿名データを収集します。検索クエリ、動画コンテンツ、個人データを収集することはありません。プライバシーは常に守られます。"
+   },
+   "privacyNoticeContinue": {
+      "message": "続ける"
+   },
+   "privacyNoticeLearnMore": {
+      "message": "詳細"
+   },
+   "privacyNoticeOptInLabel": {
+      "message": "匿名のフィルター利用データを共有する"
+   },
+   "privacyNoticeTitle": {
+      "message": "プライバシーを大切にしています"
+   },
+   "pubPreset_10y": {
+      "message": "過去10年"
+   },
+   "pubPreset_12h": {
+      "message": "過去12時間"
+   },
+   "pubPreset_15d": {
+      "message": "過去15日"
+   },
+   "pubPreset_18m": {
+      "message": "過去18か月"
+   },
+   "pubPreset_1h": {
+      "message": "過去1時間"
+   },
+   "pubPreset_1m": {
+      "message": "過去1か月"
+   },
+   "pubPreset_1w": {
+      "message": "過去1週間"
+   },
+   "pubPreset_1y": {
+      "message": "過去1年"
+   },
+   "pubPreset_24h": {
+      "message": "過去24時間"
+   },
+   "pubPreset_2d": {
+      "message": "過去2日"
+   },
+   "pubPreset_2m": {
+      "message": "過去2か月"
+   },
+   "pubPreset_2w": {
+      "message": "過去2週間"
+   },
+   "pubPreset_2y": {
+      "message": "過去2年"
+   },
+   "pubPreset_3d": {
+      "message": "過去3日"
+   },
+   "pubPreset_3h": {
+      "message": "過去3時間"
+   },
+   "pubPreset_3m": {
+      "message": "過去3か月"
+   },
+   "pubPreset_3w": {
+      "message": "過去3週間"
+   },
+   "pubPreset_3y": {
+      "message": "過去3年"
+   },
+   "pubPreset_5d": {
+      "message": "過去5日"
+   },
+   "pubPreset_5y": {
+      "message": "過去5年"
+   },
+   "pubPreset_6h": {
+      "message": "過去6時間"
+   },
+   "pubPreset_6m": {
+      "message": "過去6か月"
+   },
+   "pubPreset_9m": {
+      "message": "過去9か月"
+   },
+   "pubPreset_any": {
+      "message": "すべての日付"
+   },
+   "pubPreset_specific": {
+      "message": "特定の範囲…"
+   },
+   "quickViewLimitReached": {
+      "message": "無料の検索 $1 回すべてでクイックビューを使いました。無制限にするにはアップグレードしてください。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quickViewLimitReachedAnon": {
+      "message": "無料の検索 $1 回すべてでクイックビューを使いました。サインインしてアップグレードすると無制限になります。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quotaLimitReached": {
+      "message": "今週の検索 $1 回をすべて使用しました。アップグレードするか、ギフトコードを利用して追加してください。"
+   },
+   "quotaLimitReachedAnon": {
+      "message": "今週の検索 $1 回をすべて使用しました。サインインして Pro にアップグレードすると無制限の検索が利用できます。"
+   },
+   "quotaUnlimited": {
+      "message": "無制限の検索"
+   },
+   "quotaUsage": {
+      "message": "今週 $1 / $2 回の検索"
+   },
+   "rangeDisplayMax": {
+      "message": "最大: \u003Cem>$1\u003C/em>"
+   },
+   "rangeDisplayMin": {
+      "message": "最小: \u003Cem>$1\u003C/em>"
+   },
+   "refreshThePage": {
+      "message": "ページを更新"
+   },
+   "resultsHelpfulDislikeAria": {
+      "message": "いいえ、役に立たなかった"
+   },
+   "resultsHelpfulLikeAria": {
+      "message": "はい、役に立った"
+   },
+   "resultsHelpfulPrompt": {
+      "message": "これらの結果は役に立ちましたか？"
+   },
+   "resultsHelpfulThankYou": {
+      "message": "ありがとうございます！"
+   },
+   "search": {
+      "message": "検索"
+   },
+   "searchChat": {
+      "message": "チャットを検索"
+   },
+   "searchQueryIncludeAlready": {
+      "message": "すでに「タイトルに含む」にあります"
+   },
+   "searchQueryIncludeTip": {
+      "message": "タイトルにこの語を含む動画だけを含める"
+   },
+   "searchSortApply": {
+      "message": "並べ替え"
+   },
+   "searchSortAria": {
+      "message": "検索結果を並べ替え"
+   },
+   "searchSortAscendent": {
+      "message": "昇順"
+   },
+   "searchSortAuto": {
+      "message": "自動"
+   },
+   "searchSortAutoAria": {
+      "message": "一致する新しい動画が表示されたら自動で並べ替え"
+   },
+   "searchSortChannelVideos": {
+      "message": "チャンネル動画数"
+   },
+   "searchSortComments": {
+      "message": "Comments (qty)"
+   },
+   "searchSortCommentsGroup": {
+      "message": "Comments"
+   },
+   "searchSortCommentsPct": {
+      "message": "Comments (%)"
+   },
+   "searchSortDate": {
+      "message": "アップロード日"
+   },
+   "searchSortDefault": {
+      "message": "YouTube の順"
+   },
+   "searchSortDescendent": {
+      "message": "降順"
+   },
+   "searchSortDirAria": {
+      "message": "並べ替え方向を切り替え"
+   },
+   "searchSortDislikes": {
+      "message": "低評価（数量）"
+   },
+   "searchSortDislikesGroup": {
+      "message": "低評価"
+   },
+   "searchSortDislikesPct": {
+      "message": "低評価 (%)"
+   },
+   "searchSortDuration": {
+      "message": "再生時間"
+   },
+   "searchSortExpandAria": {
+      "message": "並べ替えコントロールを展開"
+   },
+   "searchSortHeading": {
+      "message": "結果を並べ替え"
+   },
+   "searchSortLabel": {
+      "message": "並べ替え"
+   },
+   "searchSortLikes": {
+      "message": "高評価"
+   },
+   "searchSortLikesGroup": {
+      "message": "Likes"
+   },
+   "searchSortLikesPct": {
+      "message": "Likes (%)"
+   },
+   "searchSortPercentage": {
+      "message": "Percentage"
+   },
+   "searchSortQuantity": {
+      "message": "Quantity"
+   },
+   "searchSortSubscribers": {
+      "message": "登録者"
+   },
+   "searchSortTeaser": {
+      "message": "結果を並べ替え…"
+   },
+   "searchSortTeaserActive": {
+      "message": "並べ替え: $1 $2"
+   },
+   "searchSortViews": {
+      "message": "再生回数"
+   },
+   "searchSortViewsPerDay": {
+      "message": "再生 / 日"
+   },
+   "searchViewsPerDayLabel": {
+      "message": "1日 $1 回視聴"
+   },
+   "sectionChannelSettings": {
+      "message": "チャンネル設定"
+   },
+   "sectionVideoSettings": {
+      "message": "動画設定"
+   },
+   "send": {
+      "message": "送信"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "settingsAboutLabel": {
+      "message": "YouTube Filter Pro について"
+   },
+   "settingsAccountTitle": {
+      "message": "Profile"
+   },
+   "settingsAllowUsageAnalyticsDesc": {
+      "message": "Youtube Filter Pro 改善のため、匿名のフィルター利用データを送信します。検索クエリやキーワード文字列は含まれません。"
+   },
+   "settingsAllowUsageAnalyticsLabel": {
+      "message": "匿名の利用データを共有する"
+   },
+   "settingsAutoApplyDesc": {
+      "message": "値が変更されると自動的にフィルターを適用します。"
+   },
+   "settingsAutoApplyLabel": {
+      "message": "自動適用"
+   },
+   "settingsBackToChat": {
+      "message": "チャットに戻る"
+   },
+   "settingsBatchFilterUpdatesDesc": {
+      "message": "連続するフィルター処理を即座に実行せず、フレームごとに1回の更新にまとめます。"
+   },
+   "settingsBatchFilterUpdatesLabel": {
+      "message": "フィルター更新をまとめる"
+   },
+   "settingsDebugDisableYfpDataDesc": {
+      "message": "再取得をクリックするまで yfp-data を空のままにします。フィルタ性能の比較用です。"
+   },
+   "settingsDebugDisableYfpDataLabel": {
+      "message": "yfp-data を読み込まない [開発デバッグ]"
+   },
+   "settingsDebugDomDesc": {
+      "message": "すべての動画行と表示結果をコンソールに記録します（yfpDebugDomVideos、yfpDebugVisibleVideos）。"
+   },
+   "settingsDebugDomLabel": {
+      "message": "DOM デバッグ"
+   },
+   "settingsFetchModeAll": {
+      "message": "すべて読み込む"
+   },
+   "settingsFetchModeDefault": {
+      "message": "低速"
+   },
+   "settingsFetchModeDesc": {
+      "message": "低速はバックグラウンドで結果を読み続けます。高速はこのページと次のページを埋めてから待ちます。"
+   },
+   "settingsFetchModeFast": {
+      "message": "高速"
+   },
+   "settingsFetchModeLabel": {
+      "message": "読み込みモード"
+   },
+   "settingsFetchModeSlow": {
+      "message": "低速"
+   },
+   "settingsFilterActivatedDesc": {
+      "message": "フィルターをリアルタイムでオン/オフします。"
+   },
+   "settingsFilterActivatedLabel": {
+      "message": "フィルター有効"
+   },
+   "settingsFilterToastsDesc": {
+      "message": "動画が非表示になったときに通知を表示します。"
+   },
+   "settingsFilterToastsLabel": {
+      "message": "フィルター通知"
+   },
+   "settingsFilteredSearchesDesc": {
+      "message": "フィルター有効時に実行された YouTube 検索。"
+   },
+   "settingsFilteredSearchesLabel": {
+      "message": "フィルター検索回数"
+   },
+   "settingsFilteringModeDesc": {
+      "message": "モーダルは YouTube の結果をそのまま残し、一致をパネルに表示します。ページは結果リストで不一致を非表示にします。"
+   },
+   "settingsFilteringModeLabel": {
+      "message": "フィルターモード"
+   },
+   "settingsFilteringModeModal": {
+      "message": "モーダル（推奨）"
+   },
+   "settingsFilteringModePage": {
+      "message": "ページ"
+   },
+   "settingsHardToFindTipsDesc": {
+      "message": "多くの結果を調べても一致がない場合や、一致が非常に少ない場合にヒントを表示します。"
+   },
+   "settingsHardToFindTipsLabel": {
+      "message": "フィルターで動画がほとんど見つからないときに通知"
+   },
+   "settingsHideAdsFromDesc": {
+      "message": "YouTube 検索結果のフィード内スポンサー広告行を非表示にします。"
+   },
+   "settingsHideAdsFromLabel": {
+      "message": "検索から広告を非表示"
+   },
+   "settingsImprovementFiltersDesc": {
+      "message": "実験的なパフォーマンス設定です。組み合わせて、お使いの環境で最も快適な設定を見つけてください。"
+   },
+   "settingsImprovementFiltersTitle": {
+      "message": "その他の設定"
+   },
+   "settingsIncludeOnlyVideosDesc": {
+      "message": "検索 URL に YouTube の動画フィルターを追加します。"
+   },
+   "settingsIncludeOnlyVideosLabel": {
+      "message": "検索に動画のみを含める"
+   },
+   "settingsLoadAdditionalDataImmediatelyDesc": {
+      "message": "オンにすると、結果が出た直後に追加のチャンネル／動画統計を読み込みます。オフなら後で読み込みます。"
+   },
+   "settingsLoadAdditionalDataImmediatelyLabel": {
+      "message": "追加データをすぐに読み込む"
+   },
+   "settingsProcessModeDesc": {
+      "message": "外部（デフォルト）はいいね、コメント、チャンネル統計をCloudflare経由でまとめて取得します。ローカルはブラウザ内で処理します。Workerが失敗した場合はローカルにフォールバックします。"
+   },
+   "settingsProcessModeExternal": {
+      "message": "外部（Cloudflare）"
+   },
+   "settingsProcessModeLabel": {
+      "message": "処理モード"
+   },
+   "settingsProcessModeLocal": {
+      "message": "ローカル"
+   },
+   "settingsResetCacheDesc": {
+      "message": "保存済みのチャンネル／動画の追加情報を消して、再取得します。"
+   },
+   "settingsResetCacheDone": {
+      "message": "キャッシュを消去しました"
+   },
+   "settingsResetCacheLabel": {
+      "message": "キャッシュをリセット"
+   },
+   "settingsResetFiltersDesc": {
+      "message": "すべてのフィルターをクリアし、デフォルトに戻します。"
+   },
+   "settingsResetFiltersLabel": {
+      "message": "すべてのフィルターをリセット"
+   },
+   "settingsResultsFetchMethodApi": {
+      "message": "APIで取得"
+   },
+   "settingsResultsFetchMethodDesc": {
+      "message": "テスト用 — フィルタ中に追加の動画をどう読み込むかを選びます。"
+   },
+   "settingsResultsFetchMethodLabel": {
+      "message": "さらに結果を読み込む"
+   },
+   "settingsResultsFetchMethodScroll": {
+      "message": "スクロールで取得"
+   },
+   "settingsSavePreferencesDesc": {
+      "message": "次回もフィルターを記憶します。"
+   },
+   "settingsSavePreferencesLabel": {
+      "message": "設定を保存"
+   },
+   "settingsShowChannelVideosDesc": {
+      "message": "検索結果と探索で各チャンネルの動画総数を表示します。"
+   },
+   "settingsShowChannelVideosLabel": {
+      "message": "チャンネルの動画数を表示"
+   },
+   "settingsShowCountryDesc": {
+      "message": "検索結果のチャンネル名の横に国旗を表示します。"
+   },
+   "settingsShowCountryLabel": {
+      "message": "国を表示"
+   },
+   "settingsShowExtraInfoDesc": {
+      "message": "追加の統計（高評価、再生/日、登録者、動画数、国、総再生回数）とチャンネルリンクを動画結果に直接表示します。\u003Cb>動作が遅くなる場合があります。\u003C/b>"
+   },
+   "settingsShowExtraInfoExperimental": {
+      "message": "実験的。"
+   },
+   "settingsShowExtraInfoLabel": {
+      "message": "追加情報を表示しますか？"
+   },
+   "settingsShowExtraInfoOnFilteredResultsLabel": {
+      "message": "フィルター結果ページに追加情報を表示"
+   },
+   "settingsShowExtraInfoOnSearchPageLabel": {
+      "message": "検索ページに追加情報を表示"
+   },
+   "settingsShowExtraInfoSlowDown": {
+      "message": "遅くなることがあります。"
+   },
+   "settingsShowLikesDesc": {
+      "message": "検索結果で各動画の高評価数をチャンネル情報の横に表示します。"
+   },
+   "settingsShowLikesLabel": {
+      "message": "検索ページに高評価数を表示"
+   },
+   "settingsShowMatchCheckmarkDesc": {
+      "message": "有効なフィルターを通過したタイトルの横に緑のチェックを表示します。"
+   },
+   "settingsShowMatchCheckmarkLabel": {
+      "message": "フィルターに一致した動画にチェックマークを表示"
+   },
+   "settingsShowNonMatchMarkDesc": {
+      "message": "有効なフィルターに一致しないタイトルの横に赤い × を追加します。"
+   },
+   "settingsShowNonMatchMarkLabel": {
+      "message": "不一致の動画に × を表示"
+   },
+   "settingsShowSocialIconsDesc": {
+      "message": "リンクされたSNSプラットフォームを検索結果にアイコンで表示します。"
+   },
+   "settingsShowSocialIconsLabel": {
+      "message": "チャンネルのSNSアイコンを表示"
+   },
+   "settingsShowSubscribersDesc": {
+      "message": "検索結果と探索でチャンネル登録者数を表示します。"
+   },
+   "settingsShowSubscribersLabel": {
+      "message": "登録者数を表示"
+   },
+   "settingsShowSummaryDesc": {
+      "message": "有効なフィルターの説明を下に表示します。"
+   },
+   "settingsShowSummaryLabel": {
+      "message": "フィルター概要を表示"
+   },
+   "settingsShowTutorialDesc": {
+      "message": "フィルターパネルのクイックガイドを再生します。"
+   },
+   "settingsShowTutorialLabel": {
+      "message": "チュートリアルを表示"
+   },
+   "settingsShowViewsPerDayDesc": {
+      "message": "検索結果で各動画の1日あたりの再生回数をチャンネル情報の横に表示します。"
+   },
+   "settingsShowViewsPerDayLabel": {
+      "message": "1日あたりの再生回数を表示"
+   },
+   "settingsSignInSync": {
+      "message": "Sign in to sync your plan across devices"
+   },
+   "settingsSmartChannelFetchDesc": {
+      "message": "フィルターや表示アドオンが実際に必要なときだけ、チャンネルの概要データ（国、総再生回数、開設日、SNSリンク）を取得します。"
+   },
+   "settingsSmartChannelFetchLabel": {
+      "message": "スマートチャンネル取得"
+   },
+   "settingsTabDisplay": {
+      "message": "表示"
+   },
+   "settingsTabFiltering": {
+      "message": "フィルター"
+   },
+   "settingsTitle": {
+      "message": "フィルターオプション"
+   },
+   "settingsTransparentModeDesc": {
+      "message": "フィルターされた動画を完全に非表示にせず薄く表示します。"
+   },
+   "settingsTransparentModeLabel": {
+      "message": "透明モード"
+   },
+   "settingsVersion": {
+      "message": "バージョン"
+   },
+   "settingsVersionNumber": {
+      "message": "バージョン $1"
+   },
+   "settingsViewThankYouModal": {
+      "message": "お礼モーダルを表示"
+   },
+   "settingsViewThankYouModalDesc": {
+      "message": "長期ユーザー向けギフトレターのプレビュー（一時的）。"
+   },
+   "settingsVisualAddons": {
+      "message": "表示オプション"
+   },
+   "socialAmazon": {
+      "message": "Amazon"
+   },
+   "socialBluesky": {
+      "message": "Bluesky"
+   },
+   "socialDiscord": {
+      "message": "Discord"
+   },
+   "socialEmail": {
+      "message": "メール"
+   },
+   "socialFacebook": {
+      "message": "Facebook"
+   },
+   "socialInstagram": {
+      "message": "Instagram"
+   },
+   "socialKick": {
+      "message": "Kick"
+   },
+   "socialLinkedin": {
+      "message": "LinkedIn"
+   },
+   "socialLinktree": {
+      "message": "Linktree"
+   },
+   "socialOthers": {
+      "message": "その他"
+   },
+   "socialPatreon": {
+      "message": "Patreon"
+   },
+   "socialPinterest": {
+      "message": "Pinterest"
+   },
+   "socialReddit": {
+      "message": "Reddit"
+   },
+   "socialSnapchat": {
+      "message": "Snapchat"
+   },
+   "socialSpotify": {
+      "message": "Spotify"
+   },
+   "socialTelegram": {
+      "message": "Telegram"
+   },
+   "socialThreads": {
+      "message": "Threads"
+   },
+   "socialTiktok": {
+      "message": "TikTok"
+   },
+   "socialTwitch": {
+      "message": "Twitch"
+   },
+   "socialWebsite": {
+      "message": "個人サイト"
+   },
+   "socialWhatsapp": {
+      "message": "WhatsApp"
+   },
+   "socialX": {
+      "message": "X / Twitter"
+   },
+   "socialYoutube": {
+      "message": "YouTube"
+   },
+   "starterRecommend": {
+      "message": "関連コンテンツをおすすめ"
+   },
+   "starterSummarize": {
+      "message": "動画を要約"
+   },
+   "starterTimestamps": {
+      "message": "タイムスタンプを表示"
+   },
+   "starterWelcome": {
+      "message": "こんにちは！このフィルター済み動画について質問はありますか？お手伝いします。"
+   },
+   "subscriptionFetchConsentBody": {
+      "message": "登録チャンネルのみ取得します（他のデータは取得しません）。同意しますか？"
+   },
+   "subscriptionFetchConsentCancel": {
+      "message": "キャンセル"
+   },
+   "subscriptionFetchConsentConfirm": {
+      "message": "はい、取得する"
+   },
+   "subscriptionFetchConsentTitle": {
+      "message": "登録チャンネルを取得"
+   },
+   "suffixPercent": {
+      "message": "%"
+   },
+   "suffixViewsPerDay": {
+      "message": "回視聴/日"
+   },
+   "summarizeWithAi": {
+      "message": "AI で要約"
+   },
+   "summarizing": {
+      "message": "要約中…"
+   },
+   "summaryCaptionLanguagesListAria": {
+      "message": "字幕の言語"
+   },
+   "summaryChannelCountries": {
+      "message": "\u003Cem>$1\u003C/em> 出身"
+   },
+   "summaryChannelCountriesExclude": {
+      "message": "\u003Cem>$1\u003C/em> 出身ではない"
+   },
+   "summaryChannelDescExcludes": {
+      "message": "概要から \u003Cem>$1\u003C/em> を除外"
+   },
+   "summaryChannelDescIncludesAll": {
+      "message": "概要に \u003Cem>$1\u003C/em> をすべて含む"
+   },
+   "summaryChannelJoinedAfter": {
+      "message": "\u003Cem>$1\u003C/em> 以降に開設"
+   },
+   "summaryChannelJoinedBefore": {
+      "message": "\u003Cem>$1\u003C/em> より前に開設"
+   },
+   "summaryChannelJoinedBetween": {
+      "message": "\u003Cem>$1\u003C/em>〜\u003Cem>$2\u003C/em> に開設"
+   },
+   "summaryChannelJoinedInClause": {
+      "message": "\u003Cem>$1\u003C/em> に開設"
+   },
+   "summaryChannelJoinedPickClause": {
+      "message": "特定の期間に開設（上で日付を選択）"
+   },
+   "summaryChannelSocial": {
+      "message": "\u003Cem>$1\u003C/em> がリンクされている"
+   },
+   "summaryChannelTagsInclude": {
+      "message": "チャンネルタグに次のいずれか: \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelVideosAtLeast": {
+      "message": "チャンネル動画数 \u003Cem>$1\u003C/em> 以上"
+   },
+   "summaryChannelVideosBetween": {
+      "message": "チャンネル動画数 \u003Cem>$1\u003C/em>–\u003Cem>$2\u003C/em>"
+   },
+   "summaryChannelVideosUpTo": {
+      "message": "チャンネル動画数 \u003Cem>$1\u003C/em> まで"
+   },
+   "summaryChannelViewsAtLeast": {
+      "message": "総再生回数が少なくとも \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelViewsBetween": {
+      "message": "総再生回数が \u003Cem>$1\u003C/em>〜\u003Cem>$2\u003C/em>"
+   },
+   "summaryChannelViewsUpTo": {
+      "message": "総再生回数が最大 \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelWith": {
+      "message": "チャンネル $1。"
+   },
+   "summaryCommentRateAtLeast": {
+      "message": "コメント（%）が \u003Cem>$1\u003C/em> 以上"
+   },
+   "summaryCommentRateBetween": {
+      "message": "コメント（%）が \u003Cem>$1\u003C/em>〜\u003Cem>$2\u003C/em>"
+   },
+   "summaryCommentRateUpTo": {
+      "message": "コメント（%）が \u003Cem>$1\u003C/em> 以下"
+   },
+   "summaryCommentsAtLeast": {
+      "message": "コメントが \u003Cem>$1\u003C/em> 以上"
+   },
+   "summaryCommentsBetween": {
+      "message": "コメントが \u003Cem>$1\u003C/em>〜\u003Cem>$2\u003C/em>"
+   },
+   "summaryCommentsUpTo": {
+      "message": "コメントが \u003Cem>$1\u003C/em> 以下"
+   },
+   "summaryDescExcludes": {
+      "message": "説明文から除外: \u003Cem>$1\u003C/em>"
+   },
+   "summaryDescIncludesAll": {
+      "message": "説明文にすべて含む: \u003Cem>$1\u003C/em>"
+   },
+   "summaryDislikeRateAtLeast": {
+      "message": "低評価率 \u003Cem>$1\u003C/em> 以上 (%)"
+   },
+   "summaryDislikeRateBetween": {
+      "message": "低評価率 \u003Cem>$1\u003C/em>〜\u003Cem>$2\u003C/em> (%)"
+   },
+   "summaryDislikeRateUpTo": {
+      "message": "低評価率 \u003Cem>$1\u003C/em> 以下 (%)"
+   },
+   "summaryDislikesAtLeast": {
+      "message": "低評価 \u003Cem>$1\u003C/em> 以上"
+   },
+   "summaryDislikesBetween": {
+      "message": "低評価 \u003Cem>$1\u003C/em>〜\u003Cem>$2\u003C/em>"
+   },
+   "summaryDislikesUpTo": {
+      "message": "低評価 \u003Cem>$1\u003C/em> 以下"
+   },
+   "summaryDurBetween": {
+      "message": "再生時間 \u003Cem>$1\u003C/em> から \u003Cem>$2\u003C/em>"
+   },
+   "summaryDurLongerThan": {
+      "message": "\u003Cem>$1\u003C/em> より長い"
+   },
+   "summaryDurUpTo": {
+      "message": "\u003Cem>$1\u003C/em> まで"
+   },
+   "summaryExcludeChannelsListAria": {
+      "message": "除外チャンネル"
+   },
+   "summaryExcludeCountriesListAria": {
+      "message": "除外した国"
+   },
+   "summaryExcludingChannels": {
+      "message": "除外チャンネル: \u003Cem>$1\u003C/em>"
+   },
+   "summaryExcludingChannelsCount": {
+      "message": "$1 チャンネルを除外"
+   },
+   "summaryExcludingCountriesCount": {
+      "message": "$1か国を除外"
+   },
+   "summaryIncludeChannels": {
+      "message": "含まれる \u003Cem>$1\u003C/em> チャンネル内のみを検索"
+   },
+   "summaryLanguage": {
+      "message": "要約の言語"
+   },
+   "summaryLikeRateAtLeast": {
+      "message": "高評価（%）が \u003Cem>$1\u003C/em> 以上"
+   },
+   "summaryLikeRateBetween": {
+      "message": "高評価（%）が \u003Cem>$1\u003C/em>〜\u003Cem>$2\u003C/em>"
+   },
+   "summaryLikeRateUpTo": {
+      "message": "高評価（%）が \u003Cem>$1\u003C/em> 以下"
+   },
+   "summaryLikesAtLeast": {
+      "message": "少なくとも \u003Cem>$1\u003C/em> 高評価"
+   },
+   "summaryLikesBetween": {
+      "message": "高評価 \u003Cem>$1\u003C/em>〜\u003Cem>$2\u003C/em>"
+   },
+   "summaryLikesUpTo": {
+      "message": "高評価 最大 \u003Cem>$1\u003C/em>"
+   },
+   "summaryNoFilters": {
+      "message": "有効なフィルターはありません。すべての動画を表示しています。"
+   },
+   "summaryPub_10y": {
+      "message": "過去10年"
+   },
+   "summaryPub_12h": {
+      "message": "過去12時間"
+   },
+   "summaryPub_15d": {
+      "message": "過去15日"
+   },
+   "summaryPub_18m": {
+      "message": "過去18か月"
+   },
+   "summaryPub_1h": {
+      "message": "過去1時間"
+   },
+   "summaryPub_1m": {
+      "message": "過去1か月"
+   },
+   "summaryPub_1w": {
+      "message": "過去1週間"
+   },
+   "summaryPub_1y": {
+      "message": "過去1年"
+   },
+   "summaryPub_24h": {
+      "message": "過去24時間"
+   },
+   "summaryPub_2d": {
+      "message": "過去2日"
+   },
+   "summaryPub_2m": {
+      "message": "過去2か月"
+   },
+   "summaryPub_2w": {
+      "message": "過去2週間"
+   },
+   "summaryPub_2y": {
+      "message": "過去2年"
+   },
+   "summaryPub_3d": {
+      "message": "過去3日"
+   },
+   "summaryPub_3h": {
+      "message": "過去3時間"
+   },
+   "summaryPub_3m": {
+      "message": "過去3か月"
+   },
+   "summaryPub_3w": {
+      "message": "過去3週間"
+   },
+   "summaryPub_3y": {
+      "message": "過去3年"
+   },
+   "summaryPub_5d": {
+      "message": "過去5日"
+   },
+   "summaryPub_5y": {
+      "message": "過去5年"
+   },
+   "summaryPub_6h": {
+      "message": "過去6時間"
+   },
+   "summaryPub_6m": {
+      "message": "過去6か月"
+   },
+   "summaryPub_9m": {
+      "message": "過去9か月"
+   },
+   "summaryRequireCaptions": {
+      "message": "字幕あり"
+   },
+   "summaryRequireCaptionsLang": {
+      "message": "字幕: $1"
+   },
+   "summaryRequireCaptionsLangCount": {
+      "message": "字幕: $1言語"
+   },
+   "summaryRequireChapters": {
+      "message": "説明にチャプターあり"
+   },
+   "summaryRequireEmail": {
+      "message": "動画説明にメールあり"
+   },
+   "summaryResponse": {
+      "message": "要約の応答"
+   },
+   "summaryResponseHelp": {
+      "message": "AI の最初のメッセージをどれだけ詳しくするか。最初の応答にのみ適用されます。"
+   },
+   "summaryShowingUploaded": {
+      "message": "$1 にアップロードされた動画をフィルター中。"
+   },
+   "summaryShowingUploadedWithAlso": {
+      "message": "$1 にアップロードされ、$2 に一致する動画をフィルター中。"
+   },
+   "summaryShowingWith": {
+      "message": "$1 の動画を表示しています。"
+   },
+   "summarySubsAtLeast": {
+      "message": "登録者数 \u003Cem>$1\u003C/em> 以上"
+   },
+   "summarySubsBetween": {
+      "message": "登録者数 \u003Cem>$1\u003C/em> から \u003Cem>$2\u003C/em>"
+   },
+   "summarySubsUpTo": {
+      "message": "登録者数 \u003Cem>$1\u003C/em> まで"
+   },
+   "summaryTitleExcludes": {
+      "message": "タイトル除外: \u003Cem>$1\u003C/em>"
+   },
+   "summaryTitleIncludesAll": {
+      "message": "次をすべて含むタイトルのみ: \u003Cem>$1\u003C/em>"
+   },
+   "summaryUnverifiedOnly": {
+      "message": "\u003Cem>未認証チャンネルのみ\u003C/em>"
+   },
+   "summaryUploadedAfterClause": {
+      "message": "\u003Cem>$1\u003C/em> 以降"
+   },
+   "summaryUploadedBeforeClause": {
+      "message": "\u003Cem>$1\u003C/em> より前"
+   },
+   "summaryUploadedBetweenClause": {
+      "message": "\u003Cem>$1\u003C/em>〜\u003Cem>$2\u003C/em>"
+   },
+   "summaryUploadedInClause": {
+      "message": "\u003Cem>$1\u003C/em>"
+   },
+   "summaryUploadedPickClause": {
+      "message": "特定の期間（上で日付を選択）"
+   },
+   "summaryVerifiedOnly": {
+      "message": "\u003Cem>認証済みチャンネルのみ\u003C/em>"
+   },
+   "summaryVideoTypeShorts": {
+      "message": "\u003Cem>Shorts\u003C/em>のみ"
+   },
+   "summaryVideoTypeVideos": {
+      "message": "\u003Cem>動画\u003C/em>のみ"
+   },
+   "summaryViewsAtLeast": {
+      "message": "再生回数 \u003Cem>$1\u003C/em> 以上"
+   },
+   "summaryViewsBetween": {
+      "message": "再生回数 \u003Cem>$1\u003C/em> から \u003Cem>$2\u003C/em>"
+   },
+   "summaryViewsPerDayAtLeast": {
+      "message": "1日あたり少なくとも \u003Cem>$1\u003C/em> 回視聴"
+   },
+   "summaryViewsPerDayBetween": {
+      "message": "1日あたり \u003Cem>$1\u003C/em>〜\u003Cem>$2\u003C/em> 再生"
+   },
+   "summaryViewsPerDayUpTo": {
+      "message": "1日あたり最大 \u003Cem>$1\u003C/em> 再生"
+   },
+   "summaryViewsUpTo": {
+      "message": "再生回数 \u003Cem>$1\u003C/em> まで"
+   },
+   "tabAbout": {
+      "message": "概要"
+   },
+   "tabAccount": {
+      "message": "Profile"
+   },
+   "tabChannelFilters": {
+      "message": "チャンネルフィルター"
+   },
+   "tabDisplay": {
+      "message": "表示"
+   },
+   "tabUpgrade": {
+      "message": "アップグレード"
+   },
+   "tabVideoFilters": {
+      "message": "動画フィルター"
+   },
+   "thankYouGiftBodyDone": {
+      "message": "以上です！"
+   },
+   "thankYouGiftBodyHelp": {
+      "message": "ヘルプやご提案があれば、いつでもどうぞ："
+   },
+   "thankYouGiftBodyHowever": {
+      "message": "しかし…"
+   },
+   "thankYouGiftBodyServer": {
+      "message": "私は個人開発者で、この拡張機能を維持するサーバー費用がかさんでいるため、無料で提供し続けることが難しくなっています。"
+   },
+   "thankYouGiftBodyToken": {
+      "message": "長い間ご利用いただきありがとうございます。感謝の気持ちとして、この小さなプレゼントをお受け取りください。"
+   },
+   "thankYouGiftHi": {
+      "message": "こんにちは、"
+   },
+   "thankYouGiftStepCode": {
+      "message": "次のコードを使用："
+   },
+   "thankYouGiftStepLogin": {
+      "message": "こちらをクリックして Google アカウントでログイン（100%安全でプライバシーに配慮）"
+   },
+   "thankYouGiftStepProfile": {
+      "message": "左側の\u003Cb>プロフィール\u003C/b>タブをクリック"
+   },
+   "thankYouGiftStepsLead": {
+      "message": "1か月間の無制限利用を有効にするには："
+   },
+   "thankYouGiftTitleAccent": {
+      "message": "1か月間プレミアム無制限"
+   },
+   "thankYouGiftTitleAfter": {
+      "message": "の YouTube Filter Pro をプレゼント！"
+   },
+   "thankYouGiftTitleBefore": {
+      "message": ""
+   },
+   "thinking": {
+      "message": "考え中…"
+   },
+   "titleClearChannelDescExcludes": {
+      "message": "チャンネル説明の除外条件をクリア"
+   },
+   "titleClearChannelDescIncludes": {
+      "message": "チャンネル説明の含める条件をクリア"
+   },
+   "titleClearChannelTags": {
+      "message": "チャンネルタグをクリア"
+   },
+   "titleClearChannelVideos": {
+      "message": "チャンネル動画数をクリア"
+   },
+   "titleClearChannelViews": {
+      "message": "チャンネル再生回数をクリア"
+   },
+   "titleClearComments": {
+      "message": "コメントをクリア"
+   },
+   "titleClearDescExcludes": {
+      "message": "説明文の除外条件をクリア"
+   },
+   "titleClearDescIncludes": {
+      "message": "説明文の含める条件をクリア"
+   },
+   "titleClearDuration": {
+      "message": "再生時間をクリア"
+   },
+   "titleClearExcludedChannels": {
+      "message": "除外チャンネルをクリア"
+   },
+   "titleClearJoined": {
+      "message": "開設日をクリア"
+   },
+   "titleClearLikes": {
+      "message": "高評価をクリア"
+   },
+   "titleClearPublished": {
+      "message": "公開日をクリア"
+   },
+   "titleClearSubscribers": {
+      "message": "登録者数をクリア"
+   },
+   "titleClearTitleExcludes": {
+      "message": "タイトル除外をクリア"
+   },
+   "titleClearTitleIncludes": {
+      "message": "タイトル包含をクリア"
+   },
+   "titleClearVerified": {
+      "message": "認証をクリア"
+   },
+   "titleClearViews": {
+      "message": "再生回数をクリア"
+   },
+   "titleClearViewsPerDay": {
+      "message": "1日あたり視聴回数をクリア"
+   },
+   "titleMatchCheckTooltip": {
+      "message": "フィルターに一致"
+   },
+   "titleNonMatchTooltip": {
+      "message": "フィルターに一致しません"
+   },
+   "toastAutoScrollLabel": {
+      "message": "自動スクロール"
+   },
+   "toastCheckingProgress": {
+      "message": "$1 件の動画を確認しました…"
+   },
+   "toastDismissAria": {
+      "message": "通知を閉じる"
+   },
+   "toastDismissBtn": {
+      "message": "今後表示しない"
+   },
+   "toastExcludeChannelNo": {
+      "message": "No"
+   },
+   "toastExcludeChannelPrompt": {
+      "message": "$1 を「チャンネルを除外」に追加しました。もう一度検索しますか？",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "toastExcludeChannelYes": {
+      "message": "Yes"
+   },
+   "toastExhaustedHint": {
+      "message": "$1 本の動画が見つかりました（$2 本を確認）",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "toastExhaustedTitle": {
+      "message": "これ以上の結果はないようです。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "toastFilteringPaused": {
+      "message": "フィルタ一時停止中"
+   },
+   "toastFilteringPausedHint": {
+      "message": "再生を押すとこのページのフィルタが再有効になります。"
+   },
+   "toastFiltersActivePlural": {
+      "message": "フィルター $1 件が有効"
+   },
+   "toastFiltersActiveSingular": {
+      "message": "フィルター $1 件が有効"
+   },
+   "toastFiltersUpdatedTitle": {
+      "message": "フィルターを更新しました"
+   },
+   "toastFoundWithTotal": {
+      "message": "\u003Cspan class=\"yfp-toast__found-count\">$1\u003C/span> / \u003Cspan class=\"yfp-toast__total-count\">$2\u003C/span> 件"
+   },
+   "toastHintChainCap": {
+      "message": "これまでに $1 件の動画を確認 — さらに結果を読み込んでいます。"
+   },
+   "toastHintChaining": {
+      "message": "さらに結果を読み込み中…（これまでに $1 件確認）"
+   },
+   "toastHintContinuationFailed": {
+      "message": "これ以上の結果を読み込めませんでした — ページを再読み込みしてください。"
+   },
+   "toastHintExhausted": {
+      "message": "読み込む検索結果はこれ以上ありません。"
+   },
+   "toastHintExhaustedDetail": {
+      "message": "$1 件の動画を検索 — $2 件のみ一致。確認する結果はもうありません。"
+   },
+   "toastHintScroll": {
+      "message": "さらに結果を読み込んでフィルターしています。いつでも一時停止できます！"
+   },
+   "toastLogoAlt": {
+      "message": "YouTube Filter Pro"
+   },
+   "toastNoResults": {
+      "message": "フィルターに一致する結果が見つかりません。"
+   },
+   "toastOpenFiltersBtn": {
+      "message": "フィルターを開く"
+   },
+   "toastPauseAria": {
+      "message": "フィルタを一時停止"
+   },
+   "toastResultsFoundHint": {
+      "message": "結果はここに自動で表示されます。"
+   },
+   "toastResultsFoundTitle": {
+      "message": "結果が見つかりました！"
+   },
+   "toastResumeAria": {
+      "message": "フィルタを再開"
+   },
+   "toastSearchCompleteLine": {
+      "message": "検索完了。$1本の動画が見つかりました",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "toastSearchCompleteTitle": {
+      "message": "検索が完了しました！"
+   },
+   "toastSlowTrickleTitle": {
+      "message": "検索中 · 約$1本に1件の一致。このフィルターの組み合わせは稀です。"
+   },
+   "toastSummaryCollapseAria": {
+      "message": "フィルターを隠す"
+   },
+   "toastSummaryExpandAria": {
+      "message": "すべてのフィルターを表示"
+   },
+   "toastTutorialCompleteBody": {
+      "message": "結果をフィルターしています。{{VIEW_RESULTS}} をクリックすると、フィルター済みの結果を見られます。\n\nいつでも {{PAUSE}} できます。お楽しみください！"
+   },
+   "toastTutorialCompleteHere": {
+      "message": "ここをクリック"
+   },
+   "toastTutorialDismissBtn": {
+      "message": "閉じる"
+   },
+   "toastTutorialResetBtn": {
+      "message": "リセット"
+   },
+   "toastZeroMatchWarnHint": {
+      "message": "大丈夫です。時間がかかるだけです。検索を続けるか、フィルターを緩めてください。"
+   },
+   "toastZeroMatchWarnTitle": {
+      "message": "条件に合う結果がほとんどないか、ない可能性があります。"
+   },
+   "tooltipReset": {
+      "message": "リセット"
+   },
+   "tryAgain": {
+      "message": "再試行"
+   },
+   "unableToSummarize": {
+      "message": "この動画では現在 AI を利用できません。"
+   },
+   "unableToSummarizeAfter": {
+      "message": "して、もう一度お試しください。"
+   },
+   "verifiedHide": {
+      "message": "認証済みを非表示"
+   },
+   "verifiedOnly": {
+      "message": "認証済みのみ"
+   },
+   "verifiedShowAll": {
+      "message": "すべて表示"
+   },
+   "videoStatsLimitReached": {
+      "message": "今週の無料$1回の動画統計をすべて使い切りました。無制限の動画統計にはアップグレードしてください。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "videoStatsLimitReachedAnon": {
+      "message": "今週の無料$1回の動画統計をすべて使い切りました。サインインしてアップグレードすると無制限の動画統計が利用できます。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "videoStatsQuotaLockedTip": {
+      "description": "Click tip on Stats when free weekly Video Stats are exhausted. {{UPGRADE}} is replaced by a profile link.",
+      "message": "無制限の動画統計は{{UPGRADE}}。"
+   },
+   "videoStatsUpgradeLink": {
+      "description": "Clickable Upgrade label in the Video Stats quota tip",
+      "message": "アップグレード"
+   },
+   "videoTypeShorts": {
+      "message": "Shorts"
+   },
+   "videoTypeVideos": {
+      "message": "Videos"
+   },
+   "yfpDataAllLinksClose": {
+      "message": "閉じる"
+   },
+   "yfpDataAllLinksTitle": {
+      "message": "すべてのリンク"
+   },
+   "yfpDataCaptionsAutoGenerated": {
+      "message": "（自動生成）"
+   },
+   "yfpDataCaptionsAutoOnlyTip": {
+      "message": "自動生成のみ"
+   },
+   "yfpDataCaptionsAutoTip": {
+      "message": "自動生成も含む"
+   },
+   "yfpDataCaptionsNone": {
+      "message": "字幕なし"
+   },
+   "yfpDataChannelViewsLifetimeAvg": {
+      "message": "累計平均：$1 回/日",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "yfpDataDislikesLoadHint": {
+      "message": "クリックして低評価を表示"
+   },
+   "yfpDataEmailCopied": {
+      "message": "コピーしました"
+   },
+   "yfpDataEmailCopy": {
+      "message": "コピー"
+   },
+   "yfpDataEmailTitle": {
+      "message": "メール"
+   },
+   "yfpDataEmailsTitle": {
+      "message": "メール"
+   },
+   "yfpDataExcellentEngagement": {
+      "message": "優れたエンゲージメント"
+   },
+   "yfpDataLabelCaptions": {
+      "message": "字幕"
+   },
+   "yfpDataLabelChannelViews": {
+      "message": "再生回数"
+   },
+   "yfpDataLabelComments": {
+      "message": "コメント"
+   },
+   "yfpDataLabelCountry": {
+      "message": "国"
+   },
+   "yfpDataLabelDislikes": {
+      "message": "低評価"
+   },
+   "yfpDataLabelJoined": {
+      "message": "開設"
+   },
+   "yfpDataLabelLikes": {
+      "message": "高評価"
+   },
+   "yfpDataLabelSubscribers": {
+      "message": "登録者"
+   },
+   "yfpDataLabelVideos": {
+      "message": "動画"
+   },
+   "yfpDataLabelViewsPerDay": {
+      "message": "再生/日"
+   },
+   "yfpDataNoSocials": {
+      "message": "SNS/ウェブサイトが見つかりません。"
+   },
+   "yfpDataRateTierAverage": {
+      "message": "平均"
+   },
+   "yfpDataRateTierCommentsAverage": {
+      "message": "平均"
+   },
+   "yfpDataRateTierCommentsCritical": {
+      "message": "深刻"
+   },
+   "yfpDataRateTierCommentsExcellent": {
+      "message": "優秀"
+   },
+   "yfpDataRateTierCommentsGood": {
+      "message": "良好"
+   },
+   "yfpDataRateTierCommentsLow": {
+      "message": "低い"
+   },
+   "yfpDataRateTierCritical": {
+      "message": "深刻"
+   },
+   "yfpDataRateTierDislikesAverage": {
+      "message": "平均"
+   },
+   "yfpDataRateTierDislikesCritical": {
+      "message": "深刻"
+   },
+   "yfpDataRateTierDislikesExcellent": {
+      "message": "優秀"
+   },
+   "yfpDataRateTierDislikesGood": {
+      "message": "良好"
+   },
+   "yfpDataRateTierDislikesPoor": {
+      "message": "不良"
+   },
+   "yfpDataRateTierExcellent": {
+      "message": "優秀"
+   },
+   "yfpDataRateTierGood": {
+      "message": "良好"
+   },
+   "yfpDataRateTierLikesAverage": {
+      "message": "平均"
+   },
+   "yfpDataRateTierLikesCritical": {
+      "message": "深刻"
+   },
+   "yfpDataRateTierLikesExcellent": {
+      "message": "優秀"
+   },
+   "yfpDataRateTierLikesGood": {
+      "message": "良好"
+   },
+   "yfpDataRateTierLikesLow": {
+      "message": "低い"
+   },
+   "yfpDataRateTierLow": {
+      "message": "低い"
+   },
+   "yfpDataRateTierPoor": {
+      "message": "不良"
+   },
+   "yfpDataRefetch": {
+      "message": "再取得"
+   },
+   "yfpDataRefetchTitle": {
+      "message": "一部のデータが正しく読み込まれなかった可能性があります。\n手動で再取得できます。"
+   },
+   "yfpDataRefetching": {
+      "message": "取得中…"
+   },
+   "yfpDataTierChannelViewsAverage": {
+      "message": "平均"
+   },
+   "yfpDataTierChannelViewsCritical": {
+      "message": "深刻"
+   },
+   "yfpDataTierChannelViewsExcellent": {
+      "message": "優秀"
+   },
+   "yfpDataTierChannelViewsGood": {
+      "message": "良好"
+   },
+   "yfpDataTierChannelViewsLow": {
+      "message": "低い"
+   },
+   "yfpDataTierVelocityLongAverage": {
+      "message": "平均"
+   },
+   "yfpDataTierVelocityLongCritical": {
+      "message": "深刻"
+   },
+   "yfpDataTierVelocityLongExcellent": {
+      "message": "優秀"
+   },
+   "yfpDataTierVelocityLongGood": {
+      "message": "良好"
+   },
+   "yfpDataTierVelocityLongLow": {
+      "message": "低い"
+   },
+   "yfpDataTierVelocityShortAverage": {
+      "message": "平均"
+   },
+   "yfpDataTierVelocityShortCritical": {
+      "message": "深刻"
+   },
+   "yfpDataTierVelocityShortExcellent": {
+      "message": "優秀"
+   },
+   "yfpDataTierVelocityShortGood": {
+      "message": "良好"
+   },
+   "yfpDataTierVelocityShortLow": {
+      "message": "低い"
+   },
+   "yfpDataUnknownTip": {
+      "message": "データを利用できません"
+   },
+   "yfpDataUpgradeLink": {
+      "message": "アップグレード"
+   },
+   "yfpDataUpgradePromptTail": {
+      "message": "してクイック統計を表示：いいね、コメント、総再生回数、SNS など"
+   },
+   "yfpDataVelocityColLong": {
+      "message": "長尺"
+   },
+   "yfpDataVelocityColScore": {
+      "message": "スコア"
+   },
+   "yfpDataVelocityColShort": {
+      "message": "ショート"
+   },
+   "yfpDataViewAllLinks": {
+      "message": "すべてのリンクを表示"
+   },
+   "yfpDataViewMoreLinks": {
+      "description": "Shown after capped social icons on the watch Data bar; $1 is the hidden link count.",
+      "message": "さらに$1件を表示"
+   },
+   "yfpDataViewVelocityFormula": {
+      "message": "計算式：(再生回数 ÷ 公開日数) ÷ 登録者数 × 100"
+   },
+   "yfpDataViewVelocityScore": {
+      "message": "登録速度：$1%",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "yfpDataViewVelocityShortsContext": {
+      "message": "Shorts 検索"
+   },
+   "yfpDataViewVelocityVideosContext": {
+      "message": "動画検索"
+   },
+   "yfpPerformanceMetricsTitle": {
+      "description": "Title above channel performance metrics grid on watch / channel Stats",
+      "message": "パフォーマンス指標"
+   }
+}

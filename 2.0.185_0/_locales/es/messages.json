@@ -1,0 +1,3895 @@
+{
+   "aboutCodedCitadelBlurb": {
+      "message": "Esta extensión fue creada por CodedCitadel.com. Soy desarrollador independiente y me apasiona crear herramientas útiles para redes sociales y comercio electrónico. Al usar la versión Pro, me ayudas con los costes del servidor y me motivas a seguir adelante. ¡Gracias!"
+   },
+   "accountAccessUntil": {
+      "message": "Access until $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountAffiliateBody": {
+      "message": "Gana un 20 % de comisión en cada venta con tu propio código promocional."
+   },
+   "accountAffiliateCta": {
+      "message": "Hazte afiliado"
+   },
+   "accountAffiliateTitle": {
+      "message": "Difunde y gana"
+   },
+   "accountAuthError": {
+      "message": "Error al iniciar sesión. Inténtalo de nuevo."
+   },
+   "accountBillingError": {
+      "message": "No se pudo abrir el portal del cliente. Inténtalo de nuevo."
+   },
+   "accountBillingTestModeEmail": {
+      "message": "Modo de prueba: Lemon envía recibos y enlaces de facturación al propietario de la tienda, no al correo del checkout."
+   },
+   "accountCancelled": {
+      "message": "Inicio de sesión cancelado."
+   },
+   "accountCheckoutActivateFailed": {
+      "message": "No se pudo activar. Prueba Canjear en el cuadro de código de licencia."
+   },
+   "accountCheckoutActivateLicense": {
+      "message": "Activar licencia"
+   },
+   "accountCheckoutBody": {
+      "message": "1. Make the payment on the other tab\n2. Copy the license code\n3. Paste it in the 'License Code' box and redeem"
+   },
+   "accountCheckoutClose": {
+      "message": "Got it"
+   },
+   "accountCheckoutCopied": {
+      "message": "Copied to clipboard"
+   },
+   "accountCheckoutCopyKey": {
+      "message": "Copy"
+   },
+   "accountCheckoutError": {
+      "message": "Couldn't open checkout. Please try again."
+   },
+   "accountCheckoutHelp": {
+      "message": "¿Necesitas ayuda? CodedCitadel@gmail.com"
+   },
+   "accountCheckoutLicenseEnabled": {
+      "message": "Licencia activada"
+   },
+   "accountCheckoutOr": {
+      "message": "or"
+   },
+   "accountCheckoutReadyBody": {
+      "message": "Here is your license key. Copy it, paste it in the License Code box, and redeem."
+   },
+   "accountCheckoutReadyBodyActivate": {
+      "message": "Tu licencia está lista. Haz clic en Activar licencia para desbloquear Pro en este dispositivo."
+   },
+   "accountCheckoutReadyBodyEnabled": {
+      "message": "Pro está activo en este dispositivo. Puedes cerrar esto y seguir navegando."
+   },
+   "accountCheckoutReadyTitle": {
+      "message": "Purchase complete"
+   },
+   "accountCheckoutStep1": {
+      "message": "Complete your payment in the other tab"
+   },
+   "accountCheckoutStep2": {
+      "message": "Copy the license code"
+   },
+   "accountCheckoutStep2Activate": {
+      "message": "Vuelve aquí cuando tu pago esté completo"
+   },
+   "accountCheckoutStep3": {
+      "message": "Paste it in the 'License Code' box and redeem"
+   },
+   "accountCheckoutStep3Activate": {
+      "message": "Esta página se actualizará automáticamente en 2 minutos"
+   },
+   "accountCheckoutTitle": {
+      "message": "Checkout is opening in a new tab"
+   },
+   "accountConnectGoogleLink": {
+      "description": "Secondary text link under Purchase License Key on the upgrade options dialog",
+      "message": "conectar con Google"
+   },
+   "accountContinueGoogle": {
+      "message": "Continuar con Google"
+   },
+   "accountGiftBody": {
+      "message": "¿Tienes un cupón? Canjéalo por tiempo ilimitado adicional — algunos códigos regalan unos meses gratis. Debes iniciar sesión para aplicarlo."
+   },
+   "accountGiftCodeLabel": {
+      "message": "Pega aquí tu clave de licencia o código de regalo."
+   },
+   "accountGiftDelete": {
+      "message": "Eliminar"
+   },
+   "accountGiftDeleteError": {
+      "message": "No se pudo eliminar este código de regalo. Inténtalo de nuevo."
+   },
+   "accountGiftDeleted": {
+      "message": "Código de regalo eliminado de este dispositivo."
+   },
+   "accountGiftHintEligibleSignedIn": {
+      "message": "Tu regalo de 2 meses está listo — haz clic en Canjear para aplicarlo."
+   },
+   "accountGiftHintEligibleSignedOut": {
+      "message": "Inicia sesión con Google y luego haz clic en Canjear para aplicar tu regalo de 2 meses."
+   },
+   "accountGiftHintSignedIn": {
+      "message": "Pega un código y canjéalo por tiempo ilimitado adicional."
+   },
+   "accountGiftHintSignedOut": {
+      "message": "Inicia sesión con Google para canjear un código de regalo."
+   },
+   "accountGiftPauseTest": {
+      "message": "Pausar regalo (prueba)"
+   },
+   "accountGiftResumeTest": {
+      "message": "Reanudar regalo (prueba)"
+   },
+   "accountGiftTitle": {
+      "message": "Código de regalo"
+   },
+   "accountGiftUnlimited": {
+      "message": "Tienes acceso ilimitado"
+   },
+   "accountGiftUnlimitedUntil": {
+      "message": "Tienes acceso ilimitado hasta el $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountGoPro": {
+      "message": "Upgrade"
+   },
+   "accountLicenseCancel": {
+      "message": "Cancelar licencia"
+   },
+   "accountLicenseCancelBody": {
+      "message": "Esto desactivará la licencia de Lemon solo en este navegador. Puedes activarla de nuevo más tarde en este u otro dispositivo. Los códigos de regalo y las suscripciones de Google no se ven afectados."
+   },
+   "accountLicenseCancelConfirm": {
+      "message": "Sí, eliminar licencia"
+   },
+   "accountLicenseCancelDismiss": {
+      "message": "Mantener licencia"
+   },
+   "accountLicenseCancelError": {
+      "message": "No se pudo eliminar la licencia. Inténtalo de nuevo."
+   },
+   "accountLicenseCancelLoading": {
+      "message": "Eliminando la licencia de este dispositivo…"
+   },
+   "accountLicenseCancelTitle": {
+      "message": "¿Eliminar la licencia de este dispositivo?"
+   },
+   "accountLicenseRemoveTest": {
+      "message": "Eliminar licencia (prueba)"
+   },
+   "accountLoggedInAs": {
+      "message": "Logged in as $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountManageBilling": {
+      "message": "Manage billing"
+   },
+   "accountNextPayment": {
+      "message": "Next payment on $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountPerkCancel": {
+      "message": "Cancel anytime"
+   },
+   "accountPerkExports": {
+      "message": "Unlimited exports"
+   },
+   "accountPerkFilters": {
+      "message": "All sorting and advanced filters"
+   },
+   "accountPerkSearches": {
+      "message": "Unlimited searches"
+   },
+   "accountPitchLimitTitle": {
+      "message": "You've used all $1 searches this week",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountPitchSub": {
+      "message": "Unlimited searches, exports, and every filter — cancel anytime."
+   },
+   "accountPitchSupportNote": {
+      "message": "Tu suscripción cubre los costes del servidor y ayuda a un desarrollador independiente a seguir mejorando esta extensión. ¡Gracias!"
+   },
+   "accountPitchTitle": {
+      "message": "Upgrade to Pro"
+   },
+   "accountPoweredByLemon": {
+      "message": "Powered by Stripe"
+   },
+   "accountPoweredByStripe": {
+      "message": "Powered by Stripe"
+   },
+   "accountPriceCancel": {
+      "message": "Cancela cuando quieras"
+   },
+   "accountPriceInstant": {
+      "message": "Acceso instantáneo"
+   },
+   "accountPriceSecure": {
+      "message": "Pago seguro"
+   },
+   "accountProBody": {
+      "message": "Congratulations! Unlimited searches, exports, and all filters are unlocked."
+   },
+   "accountProCancelledBody": {
+      "message": "Conservarás el acceso Pro hasta el $1. Administra la facturación para volver a suscribirte o descargar facturas.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountProCancelledBodyEnded": {
+      "message": "Tu suscripción Pro ha finalizado. Administra la facturación para volver a suscribirte o descargar facturas."
+   },
+   "accountProCancelledTitle": {
+      "message": "Has cancelado tu suscripción"
+   },
+   "accountProEmailLoading": {
+      "message": "Cargando cuenta…"
+   },
+   "accountProPurchasedAs": {
+      "message": "Cuenta: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountProTitle": {
+      "message": "You're on Pro"
+   },
+   "accountPurchaseLicenseKey": {
+      "message": "Purchase License Key"
+   },
+   "accountPurchaseLicenseNoLogin": {
+      "message": "No se requiere iniciar sesión."
+   },
+   "accountQuotaResets": {
+      "message": "Las búsquedas se reinician el $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountSignInOptional": {
+      "message": "Iniciar sesión es opcional. La búsqueda y los filtros funcionan sin una cuenta."
+   },
+   "accountSignInToUpgradeBody": {
+      "message": "Sign in with Google first. Then you can upgrade to Pro."
+   },
+   "accountSignInToUpgradeTitle": {
+      "message": "Sign in to upgrade"
+   },
+   "accountSignOut": {
+      "message": "Cerrar sesión"
+   },
+   "accountSignedInAs": {
+      "message": "Sesión iniciada como"
+   },
+   "accountSigningIn": {
+      "message": "Iniciando sesión…"
+   },
+   "accountTitle": {
+      "message": "Profile"
+   },
+   "accountUnlockBody": {
+      "message": "Obtén búsquedas, exportaciones, ordenación y todos los filtros avanzados ilimitados."
+   },
+   "accountUnlockTitle": {
+      "message": "Desbloquea todo el poder de Youtube Filter Pro"
+   },
+   "accountUpgradeNeedSignIn": {
+      "message": "Sign in with Google first to upgrade."
+   },
+   "accountUpgradeOpening": {
+      "message": "Opening checkout…"
+   },
+   "accountUpgradeOptionsTitle": {
+      "message": "Sign in with Google or Purchase a License Key (no login required)"
+   },
+   "accountUpgradePro": {
+      "message": "Mejorar a Pro"
+   },
+   "accountUsageAiChatsUsed": {
+      "message": "$1 / $2 chat de IA",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "accountUsageExportsUsed": {
+      "message": "$1 / $2 exports",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "accountUsagePercent": {
+      "message": "$1 % usado",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "accountUsageQuickViewUsed": {
+      "message": "$1 / $2 Datos del video",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "accountUsageUsed": {
+      "message": "$1 / $2 búsquedas usadas esta semana",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "aiChatDisabledForVideo": {
+      "message": "Este canal de YouTube ha desactivado las interacciones de IA para este video."
+   },
+   "aiChatLimitReached": {
+      "message": "Has usado los $1 chats de IA gratuitos. Mejora tu plan para chats de IA ilimitados.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "aiChatLimitReachedAnon": {
+      "message": "Has usado los $1 chats de IA gratuitos. Inicia sesión y mejora tu plan para chats de IA ilimitados.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "aiChatLimitToastHint": {
+      "message": "Por favor {{UPGRADE}} para chats de IA ilimitados."
+   },
+   "aiChatLimitToastTitle": {
+      "message": "Has alcanzado tu límite de chats de IA gratuitos"
+   },
+   "aiChatLimitToastUpgradeLink": {
+      "message": "mejora tu plan"
+   },
+   "ariaAddChannelDescExclude": {
+      "message": "Añadir palabra clave de exclusión de descripción del canal"
+   },
+   "ariaAddChannelDescInclude": {
+      "message": "Añadir palabra clave de descripción del canal"
+   },
+   "ariaAddChannelExclude": {
+      "message": "Añadir palabra clave de canal a excluir"
+   },
+   "ariaAddChannelTag": {
+      "message": "Añadir etiqueta de canal"
+   },
+   "ariaAddDescExclude": {
+      "message": "Añadir palabra a excluir de la descripción"
+   },
+   "ariaAddDescKeyword": {
+      "message": "Añadir palabra clave de descripción"
+   },
+   "ariaAddTitleExclude": {
+      "message": "Añadir palabras a excluir"
+   },
+   "ariaAddTitleKeyword": {
+      "message": "Añadir palabra clave al título"
+   },
+   "ariaCaptionLanguagesGroup": {
+      "message": "Idiomas de subtítulos"
+   },
+   "ariaChannelCountriesExcludeGroup": {
+      "message": "Países de canal excluidos"
+   },
+   "ariaChannelCountriesGroup": {
+      "message": "Países del canal"
+   },
+   "ariaChannelDescExcludesGroup": {
+      "message": "Palabras clave de exclusión en la descripción del canal"
+   },
+   "ariaChannelDescIncludesGroup": {
+      "message": "Palabras clave de inclusión en la descripción del canal"
+   },
+   "ariaChannelSocialGroup": {
+      "message": "Plataformas sociales del canal"
+   },
+   "ariaChannelTagsGroup": {
+      "message": "Etiquetas del canal"
+   },
+   "ariaClearChannelDescExcludes": {
+      "message": "Borrar exclusiones de descripción del canal"
+   },
+   "ariaClearChannelDescIncludes": {
+      "message": "Borrar inclusiones de descripción del canal"
+   },
+   "ariaClearChannelTags": {
+      "message": "Borrar etiquetas del canal"
+   },
+   "ariaClearChannelVideos": {
+      "message": "Borrar filtro de videos del canal"
+   },
+   "ariaClearChannelViews": {
+      "message": "Borrar filtro de vistas del canal"
+   },
+   "ariaClearCommentRate": {
+      "message": "Borrar filtro de porcentaje de comentarios"
+   },
+   "ariaClearComments": {
+      "message": "Borrar filtro de comentarios"
+   },
+   "ariaClearDescExcludes": {
+      "message": "Borrar exclusiones de descripción"
+   },
+   "ariaClearDescIncludes": {
+      "message": "Borrar inclusiones de descripción"
+   },
+   "ariaClearDislikeRate": {
+      "message": "Borrar filtro de porcentaje de dislikes"
+   },
+   "ariaClearDislikes": {
+      "message": "Borrar filtro de dislikes"
+   },
+   "ariaClearDuration": {
+      "message": "Borrar todos los valores de duración"
+   },
+   "ariaClearExcludedChannels": {
+      "message": "Borrar canales excluidos"
+   },
+   "ariaClearField": {
+      "message": "Borrar campo"
+   },
+   "ariaClearIncludedChannels": {
+      "message": "Borrar canales incluidos"
+   },
+   "ariaClearJoined": {
+      "message": "Borrar filtro de fecha de creación"
+   },
+   "ariaClearLikeRate": {
+      "message": "Borrar filtro de porcentaje de Me gusta"
+   },
+   "ariaClearLikes": {
+      "message": "Borrar filtro de me gusta"
+   },
+   "ariaClearPublished": {
+      "message": "Borrar filtro de publicación"
+   },
+   "ariaClearSubscribers": {
+      "message": "Borrar filtro de suscriptores"
+   },
+   "ariaClearTitleExcludes": {
+      "message": "Borrar exclusiones de título"
+   },
+   "ariaClearTitleIncludes": {
+      "message": "Borrar inclusiones de título"
+   },
+   "ariaClearVerified": {
+      "message": "Borrar filtro de verificación"
+   },
+   "ariaClearVideoType": {
+      "message": "Restablecer tipo de vídeo a Videos"
+   },
+   "ariaClearViews": {
+      "message": "Borrar filtro de vistas"
+   },
+   "ariaClearViewsPerDay": {
+      "message": "Borrar filtro de vistas por día"
+   },
+   "ariaCloseSettings": {
+      "message": "Cerrar configuración"
+   },
+   "ariaDescExcludeGroup": {
+      "message": "Etiquetas de exclusión en la descripción"
+   },
+   "ariaDescIncludeGroup": {
+      "message": "Palabras clave en la descripción"
+   },
+   "ariaDisableFiltering": {
+      "message": "Desactivar filtrado"
+   },
+   "ariaDurMaxHours": {
+      "message": "Horas máximas (0–59)"
+   },
+   "ariaDurMaxMinutes": {
+      "message": "Minutos máximos (0–59)"
+   },
+   "ariaDurMaxSeconds": {
+      "message": "Segundos máximos (0–59)"
+   },
+   "ariaDurMinHours": {
+      "message": "Horas mínimas (0–59)"
+   },
+   "ariaDurMinMinutes": {
+      "message": "Minutos mínimos (0–59)"
+   },
+   "ariaDurMinSeconds": {
+      "message": "Segundos mínimos (0–59)"
+   },
+   "ariaEnableFiltering": {
+      "message": "Activar filtrado"
+   },
+   "ariaExcludeChannelsGroup": {
+      "message": "Excluir canales"
+   },
+   "ariaFilterHelpChapters": {
+      "message": "Show example of videos with chapters"
+   },
+   "ariaFilterHelpIncludeChannels": {
+      "message": "Ayuda: incluir canales"
+   },
+   "ariaFilterHelpStrictSearch": {
+      "message": "Explicar búsqueda estricta"
+   },
+   "ariaFilterMetricHelpCommentRate": {
+      "message": "Niveles de interacción de tasa de comentarios"
+   },
+   "ariaFilterMetricHelpDislikeRate": {
+      "message": "Ayuda sobre tasa de dislikes"
+   },
+   "ariaFilterMetricHelpLikeRate": {
+      "message": "Niveles de interacción de tasa de me gusta"
+   },
+   "ariaIncludeChannelsGroup": {
+      "message": "Incluir canales"
+   },
+   "ariaJoinedFrom": {
+      "message": "Canal creado desde"
+   },
+   "ariaJoinedPreset": {
+      "message": "Preajuste de fecha de creación del canal"
+   },
+   "ariaJoinedUntil": {
+      "message": "Canal creado hasta"
+   },
+   "ariaMaxChannelVideos": {
+      "message": "Videos máximos del canal"
+   },
+   "ariaMaxChannelViews": {
+      "message": "Máximo de vistas totales del canal"
+   },
+   "ariaMaxCommentRate": {
+      "message": "Porcentaje máximo de comentarios"
+   },
+   "ariaMaxComments": {
+      "message": "Comentarios máximos"
+   },
+   "ariaMaxDislikeRate": {
+      "message": "Porcentaje máximo de dislikes"
+   },
+   "ariaMaxDislikes": {
+      "message": "Dislikes máximos"
+   },
+   "ariaMaxLikeRate": {
+      "message": "Porcentaje máximo de Me gusta"
+   },
+   "ariaMaxLikes": {
+      "message": "Máximo de me gusta"
+   },
+   "ariaMaxSubscribers": {
+      "message": "Suscriptores máximos"
+   },
+   "ariaMaxViews": {
+      "message": "Vistas máximas"
+   },
+   "ariaMaxViewsPerDay": {
+      "message": "Máximo de vistas por día"
+   },
+   "ariaMinChannelVideos": {
+      "message": "Videos mínimos del canal"
+   },
+   "ariaMinChannelViews": {
+      "message": "Mínimo de vistas totales del canal"
+   },
+   "ariaMinCommentRate": {
+      "message": "Porcentaje mínimo de comentarios"
+   },
+   "ariaMinComments": {
+      "message": "Comentarios mínimos"
+   },
+   "ariaMinDislikeRate": {
+      "message": "Porcentaje mínimo de dislikes"
+   },
+   "ariaMinDislikes": {
+      "message": "Dislikes mínimos"
+   },
+   "ariaMinLikeRate": {
+      "message": "Porcentaje mínimo de Me gusta"
+   },
+   "ariaMinLikes": {
+      "message": "Me gusta mínimos"
+   },
+   "ariaMinSubscribers": {
+      "message": "Suscriptores mínimos"
+   },
+   "ariaMinViews": {
+      "message": "Vistas mínimas"
+   },
+   "ariaMinViewsPerDay": {
+      "message": "Vistas mínimas por día"
+   },
+   "ariaPublishedFrom": {
+      "message": "Publicado desde"
+   },
+   "ariaPublishedPreset": {
+      "message": "Preajuste de fecha de publicación"
+   },
+   "ariaPublishedUntil": {
+      "message": "Publicado hasta"
+   },
+   "ariaRemoveTag": {
+      "message": "Eliminar $1"
+   },
+   "ariaResetAllFilters": {
+      "message": "Restablecer todos los filtros"
+   },
+   "ariaSearchQuery": {
+      "message": "Consulta de búsqueda de YouTube"
+   },
+   "ariaTitleExcludeGroup": {
+      "message": "Etiquetas de exclusión de título"
+   },
+   "ariaTitleIncludeGroup": {
+      "message": "Palabras clave a incluir en el título"
+   },
+   "ariaVerifiedFilter": {
+      "message": "Filtro de verificación"
+   },
+   "ariaVideoTypeFilter": {
+      "message": "Filtro de tipo de vídeo"
+   },
+   "askAboutVideo": {
+      "message": "Haz preguntas sobre este video"
+   },
+   "askAiAnything": {
+      "message": "Pregunta lo que quieras a la IA"
+   },
+   "askAriaLabel": {
+      "message": "Hacer una pregunta sobre este video"
+   },
+   "askPlaceholder": {
+      "message": "Haz una pregunta…"
+   },
+   "btnApply": {
+      "message": "Aplicar"
+   },
+   "btnCancel": {
+      "message": "Cancelar"
+   },
+   "btnClose": {
+      "message": "Cerrar"
+   },
+   "btnEnableAndSearch": {
+      "message": "Activar y buscar"
+   },
+   "btnResetAll": {
+      "message": "Restablecer todo"
+   },
+   "btnSearch": {
+      "message": "Buscar"
+   },
+   "btnSearchAgain": {
+      "message": "Buscar de nuevo"
+   },
+   "btnUpgrade": {
+      "message": "Mejorar plan"
+   },
+   "channelCountryUndeclared": {
+      "message": "País no declarado"
+   },
+   "channelPickerMoreChannels": {
+      "message": "+$count$ más",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "close": {
+      "message": "Cerrar"
+   },
+   "closeSearch": {
+      "message": "Cerrar búsqueda"
+   },
+   "coffeeBtnLabel": {
+      "message": "Buy me a coffee"
+   },
+   "coffeeFollowPrompt": {
+      "message": "Sígueme en redes sociales:"
+   },
+   "coffeeReviewBtn": {
+      "message": "Reseñar en Chrome Web Store"
+   },
+   "coffeeTextSupport": {
+      "message": "Si esta extensión le resulta útil y desea ayudarme, un café ayuda mucho."
+   },
+   "commentsReadLimitReached": {
+      "message": "Has usado Ver comentarios en las $1 búsquedas gratuitas. Mejora tu plan para leer comentarios sin límite.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "commentsReadProOnly": {
+      "message": "Ver comentarios solo está disponible en Pro."
+   },
+   "copy": {
+      "message": "Copiar"
+   },
+   "couldNotFindVideoId": {
+      "message": "No se encontró el ID del video en esta tarjeta."
+   },
+   "crawlTestDesc": {
+      "message": "Obtener esta búsqueda solo por API (sin desplazamiento) y listar miniatura + título."
+   },
+   "crawlTestReady": {
+      "message": "Listo — obtiene solo por API (sin desplazamiento)."
+   },
+   "crawlTestStart": {
+      "message": "Iniciar crawl"
+   },
+   "crawlTestStop": {
+      "message": "Detener"
+   },
+   "crawlTestTitle": {
+      "message": "Mostrar crawl de búsqueda de prueba"
+   },
+   "discordJoinLabel": {
+      "message": "Únete a nuestro servidor de Discord"
+   },
+   "dislikesProOnlyTip": {
+      "message": "Disponible exclusivamente para usuarios Pro. {{UPGRADE}}"
+   },
+   "dislikesProOnlyTipShort": {
+      "message": "Disponible exclusivamente para usuarios Pro."
+   },
+   "dislikesProOnlyUpgrade": {
+      "message": "Mejora aquí"
+   },
+   "done": {
+      "message": "Listo"
+   },
+   "durDisplayBetween": {
+      "message": "Entre \u003Cem>$1\u003C/em> y \u003Cem>$2\u003C/em>"
+   },
+   "durDisplayLongerThan": {
+      "message": "Más largo que \u003Cem>$1\u003C/em>"
+   },
+   "durDisplayUpTo": {
+      "message": "Hasta \u003Cem>$1\u003C/em>"
+   },
+   "durationHoursDisabledShorts": {
+      "message": "Las horas no se usan para Shorts (máx. 3 minutos)"
+   },
+   "enableBtnTitleOff": {
+      "message": "Filtrado DESACTIVADO — clic para activar"
+   },
+   "enableBtnTitleOn": {
+      "message": "Filtrado ACTIVADO — clic para desactivar"
+   },
+   "enableBtnTitleOnDraft": {
+      "message": "Activado — haz clic en Buscar para empezar a filtrar"
+   },
+   "enableBtnTitleOnLive": {
+      "message": "Filtrado ACTIVADO — haz clic para desactivar"
+   },
+   "errorChannelVideosMinExceedsMax": {
+      "message": "Los videos mínimos no pueden superar los máximos."
+   },
+   "errorChannelViewMinExceedsMax": {
+      "message": "El mínimo de vistas del canal no puede superar el máximo."
+   },
+   "errorCommentRateMinExceedsMax": {
+      "message": "El % mín. de comentarios no puede superar el % máx."
+   },
+   "errorCommentsMinExceedsMax": {
+      "message": "Los comentarios mín. no pueden superar los máx."
+   },
+   "errorDislikeRateMinExceedsMax": {
+      "message": "El % mínimo de dislikes no puede superar el máximo."
+   },
+   "errorDislikesMinExceedsMax": {
+      "message": "Los dislikes mínimos no pueden superar los máximos."
+   },
+   "errorDurMaxShortsExceeds3Min": {
+      "message": "La duración máx. de Shorts no puede superar 3 minutos (180 segundos)."
+   },
+   "errorDurMinExceedsMax": {
+      "message": "La duración mínima no puede superar la máxima."
+   },
+   "errorLikeRateMinExceedsMax": {
+      "message": "El % mín. de Me gusta no puede superar el % máx."
+   },
+   "errorLikesMinExceedsMax": {
+      "message": "El mínimo de me gusta no puede superar el máximo."
+   },
+   "errorSubMinExceedsMax": {
+      "message": "Los suscriptores mínimos no pueden superar los máximos."
+   },
+   "errorViewsMinExceedsMax": {
+      "message": "Las vistas mínimas no pueden superar las máximas."
+   },
+   "errorViewsPerDayMinExceedsMax": {
+      "message": "El mínimo de vistas/día no puede superar el máximo de vistas/día."
+   },
+   "excludeChannelsConflictInclude": {
+      "message": "Este canal está en Incluir canales. Quítalo allí primero."
+   },
+   "export": {
+      "message": "Exportar"
+   },
+   "exportCsv": {
+      "message": "CSV"
+   },
+   "exportFieldChannel": {
+      "message": "Canal"
+   },
+   "exportFieldChannelAvatar": {
+      "message": "Avatar del canal"
+   },
+   "exportFieldChannelDescription": {
+      "message": "Descripción del canal"
+   },
+   "exportFieldChannelId": {
+      "message": "ID del canal"
+   },
+   "exportFieldChannelKeywords": {
+      "message": "Palabras clave del canal"
+   },
+   "exportFieldChannelTags": {
+      "message": "Etiquetas del canal"
+   },
+   "exportFieldChannelUrl": {
+      "message": "URL del canal"
+   },
+   "exportFieldChannelVideos": {
+      "message": "Videos del canal"
+   },
+   "exportFieldChannelViews": {
+      "message": "Vistas del canal"
+   },
+   "exportFieldChannelViewsCount": {
+      "message": "Vistas del canal (cantidad)"
+   },
+   "exportFieldCommentPct": {
+      "message": "Comentarios (%)"
+   },
+   "exportFieldComments": {
+      "message": "Comentarios (cant.)"
+   },
+   "exportFieldCountry": {
+      "message": "País"
+   },
+   "exportFieldDescription": {
+      "message": "Descripción"
+   },
+   "exportFieldDislikePct": {
+      "message": "No me gusta (%)"
+   },
+   "exportFieldDislikes": {
+      "message": "Dislikes (cant.)"
+   },
+   "exportFieldDuration": {
+      "message": "Duración"
+   },
+   "exportFieldEmail": {
+      "message": "Correo electrónico"
+   },
+   "exportFieldExample_channelViews": {
+      "message": "p. ej. 2,5 M"
+   },
+   "exportFieldExample_commentPct": {
+      "message": "p. ej. 0,12 % (Promedio)"
+   },
+   "exportFieldExample_comments": {
+      "message": "p. ej. 42"
+   },
+   "exportFieldExample_dislikePct": {
+      "message": "p. ej. 0,8 % (Bueno)"
+   },
+   "exportFieldExample_dislikes": {
+      "message": "p. ej. 120"
+   },
+   "exportFieldExample_likePct": {
+      "message": "p. ej. 5 % (Excelente)"
+   },
+   "exportFieldExample_likes": {
+      "message": "p. ej. 10"
+   },
+   "exportFieldExample_subscribers": {
+      "message": "p. ej. 150 K"
+   },
+   "exportFieldExample_views": {
+      "message": "p. ej. 12500"
+   },
+   "exportFieldExample_viewsPerDay": {
+      "message": "p. ej. 850"
+   },
+   "exportFieldJoined": {
+      "message": "Se unió"
+   },
+   "exportFieldJoinedAtIso": {
+      "message": "Fecha de unión (ISO)"
+   },
+   "exportFieldLikePct": {
+      "message": "Me gusta (%)"
+   },
+   "exportFieldLikes": {
+      "message": "Likes (cant.)"
+   },
+   "exportFieldOtherWebsites": {
+      "message": "Otros sitios web"
+   },
+   "exportFieldPublished": {
+      "message": "Publicado"
+   },
+   "exportFieldPublishedAtIso": {
+      "message": "Publicado el (ISO)"
+   },
+   "exportFieldSubscribers": {
+      "message": "Suscriptores"
+   },
+   "exportFieldSubscribersCount": {
+      "message": "Suscriptores (cantidad)"
+   },
+   "exportFieldThumbnail": {
+      "message": "Miniatura"
+   },
+   "exportFieldTitle": {
+      "message": "Título"
+   },
+   "exportFieldUrl": {
+      "message": "URL"
+   },
+   "exportFieldVerified": {
+      "message": "Verificado"
+   },
+   "exportFieldVideoId": {
+      "message": "ID del video"
+   },
+   "exportFieldViews": {
+      "message": "Vistas"
+   },
+   "exportFieldViewsPerDay": {
+      "message": "Vistas/día (cant.)"
+   },
+   "exportFieldsCancel": {
+      "message": "Cancelar"
+   },
+   "exportFieldsExport": {
+      "message": "Exportar"
+   },
+   "exportFieldsGroupChannel": {
+      "message": "Canal"
+   },
+   "exportFieldsGroupContact": {
+      "message": "Contacto / redes"
+   },
+   "exportFieldsGroupEngagement": {
+      "message": "Interacción"
+   },
+   "exportFieldsGroupVideo": {
+      "message": "Vídeo"
+   },
+   "exportFieldsReset": {
+      "message": "Restablecer"
+   },
+   "exportFieldsTitle": {
+      "message": "Elegir campos para exportar"
+   },
+   "exportFieldsTxtNote": {
+      "message": "La exportación TXT solo incluye URLs."
+   },
+   "exportJson": {
+      "message": "JSON"
+   },
+   "exportLimitReached": {
+      "message": "Has usado las $1 exportaciones gratuitas. Mejora tu plan para exportaciones ilimitadas.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportLimitToastHint": {
+      "message": "Por favor {{UPGRADE}} para exportaciones ilimitadas."
+   },
+   "exportLimitToastTitle": {
+      "message": "Has alcanzado tu límite de exportaciones gratuitas"
+   },
+   "exportLimitToastUpgradeLink": {
+      "message": "mejora tu plan"
+   },
+   "exportTxt": {
+      "message": "TXT"
+   },
+   "exportXlsx": {
+      "message": "XLSX"
+   },
+   "extensionDescription": {
+      "message": "Filtra los resultados de búsqueda de YouTube en tiempo real por duración, vistas, fecha de publicación, canal y más."
+   },
+   "extensionName": {
+      "message": "Youtube Filter Pro: filtrar por vistas, duración, fecha y más"
+   },
+   "feedbackCloseAria": {
+      "message": "Cerrar"
+   },
+   "feedbackEmailPlaceholder": {
+      "message": "Su correo electrónico (opcional)"
+   },
+   "feedbackErrorEmail": {
+      "message": "Ingrese una dirección de correo válida."
+   },
+   "feedbackErrorEmpty": {
+      "message": "Por favor ingrese sus comentarios."
+   },
+   "feedbackErrorGeneric": {
+      "message": "Algo salió mal, inténtelo de nuevo."
+   },
+   "feedbackIncludeSearchHint": {
+      "message": "No se envían datos privados. Estos datos se almacenan en nuestros servidores hasta 30 días mientras resolvemos el error."
+   },
+   "feedbackIncludeSearchHintResults": {
+      "message": "No se envían datos privados. Estos datos se almacenan en nuestros servidores hasta 30 días."
+   },
+   "feedbackIncludeSearchLabel": {
+      "message": "Incluir la consulta de esta búsqueda («$1») y los $2 resultados actuales en el informe para ayudar a diagnosticar y corregir el error."
+   },
+   "feedbackIncludeSearchLabelNoQuery": {
+      "message": "Incluir la consulta de esta búsqueda y los $1 resultados actuales en el informe para ayudar a diagnosticar y corregir el error."
+   },
+   "feedbackIncludeSearchLabelResults": {
+      "message": "Incluir la consulta y los resultados para que podamos investigar."
+   },
+   "feedbackLinkText": {
+      "message": "¿Error o comentario?"
+   },
+   "feedbackModalTitle": {
+      "message": "Todas las sugerencias se leen. ¿Qué se puede mejorar?"
+   },
+   "feedbackModalTitleBug": {
+      "message": "Informar un error o sugerir una función"
+   },
+   "feedbackModalTitleResults": {
+      "message": "Lamentamos que estos resultados no hayan sido útiles — ¿qué salió mal?"
+   },
+   "feedbackRateLabel": {
+      "message": "Por favor califícanos"
+   },
+   "feedbackReviewLinkLabel": {
+      "message": "Dejar una reseña"
+   },
+   "feedbackSubmitLabel": {
+      "message": "Enviar comentarios"
+   },
+   "feedbackSubmittingLabel": {
+      "message": "Enviando..."
+   },
+   "feedbackSuggestionPlaceholder": {
+      "message": "Escriba su sugerencia"
+   },
+   "feedbackThankyouText": {
+      "message": "Apreciamos mucho que se haya tomado el tiempo."
+   },
+   "feedbackThankyouTitle": {
+      "message": "¡Gracias por sus comentarios!"
+   },
+   "filterBtnAriaActiveCount": {
+      "message": "Abrir filtros de video, $1 categorías de filtro activas"
+   },
+   "filterBtnAriaFilteringOff": {
+      "message": "Abrir filtros de video. El filtrado está desactivado — active \"Filtro activado\" en Opciones de filtro."
+   },
+   "filterBtnAriaOpen": {
+      "message": "Abrir filtros de video"
+   },
+   "filterBtnBadgeDisabled": {
+      "message": "(desactivado)"
+   },
+   "filterBtnLabel": {
+      "message": "Filtros"
+   },
+   "filterBtnTooltipFilteringOff": {
+      "message": "El filtrado está desactivado. Active \"Filtro activado\" en Opciones de filtro (Alt+Mayús+F para abrir, luego haga clic en el icono de engranaje)."
+   },
+   "filterHelpIncludeChannels": {
+      "message": "Busca tu consulta solo dentro de los canales que añadas aquí.\nPega una URL de canal (p. ej. youtube.com/@handle o youtube.com/channel/UC…), un @handle o un ID de canal UC, y pulsa Intro.\nUsa la búsqueda integrada de cada canal (no los resultados globales de YouTube)."
+   },
+   "filterHelpStrictSearch": {
+      "message": "Solo muestra videos cuyo título incluye cada palabra que buscaste."
+   },
+   "filterMetricHelpCommentRate": {
+      "message": "Comentarios ÷ vistas\n≥0,5 %: Excelente\n0,1–0,2 %: Promedio\n\u003C0,05 %: Bajo"
+   },
+   "filterMetricHelpDislikeRate": {
+      "message": "Dislikes ÷ vistas"
+   },
+   "filterMetricHelpLikeRate": {
+      "message": "Me gusta ÷ vistas\n≥4 %: Excelente\n2–3 %: Promedio\n\u003C1 %: Bajo"
+   },
+   "filterQuotaLockedTip": {
+      "message": "Mejora tu plan para más búsquedas y usar preajustes y ordenación."
+   },
+   "filterTagEdit": {
+      "message": "Editar este filtro"
+   },
+   "filterTagRemove": {
+      "message": "Quitar este filtro"
+   },
+   "filterTagViewCaptionLanguages": {
+      "message": "Ver idiomas"
+   },
+   "filterTagViewChannels": {
+      "message": "Ver canales"
+   },
+   "filterTagViewCountries": {
+      "message": "Ver países"
+   },
+   "footerAccountHint": {
+      "message": "Administra tu cuota de búsquedas y códigos de regalo."
+   },
+   "footerFiltersCountPlural": {
+      "message": "$1 filtros"
+   },
+   "footerFiltersCountSingular": {
+      "message": "$1 filtro"
+   },
+   "footerFiltersLabel": {
+      "message": "Filtros"
+   },
+   "footerReviewLabel": {
+      "message": "Reseña"
+   },
+   "geminiCouldNotSummarize": {
+      "message": "Gemini no pudo resumir este video."
+   },
+   "geminiNoReply": {
+      "message": "Gemini no devolvió una respuesta."
+   },
+   "giftCodeError": {
+      "message": "No se pudo canjear ese código."
+   },
+   "giftCodeErrorAlreadyRedeemed": {
+      "message": "Ya has canjeado este código."
+   },
+   "giftCodeErrorExpired": {
+      "message": "Este código de regalo ha caducado."
+   },
+   "giftCodeErrorInvalid": {
+      "message": "Introduce un código de regalo válido."
+   },
+   "giftCodeErrorMissingDevice": {
+      "message": "No se pudo verificar este dispositivo. Actualiza la página e inténtalo de nuevo."
+   },
+   "giftCodeErrorUnknown": {
+      "message": "Ese código de regalo no existe. Revisa la ortografía e inténtalo de nuevo."
+   },
+   "giftCodeErrorUsedUp": {
+      "message": "Este código ha alcanzado el número máximo de usos."
+   },
+   "giftCodeLabel": {
+      "message": "Código de regalo"
+   },
+   "giftCodePlaceholder": {
+      "message": "YFP-XXXX-XXXX"
+   },
+   "giftCodeRedeem": {
+      "message": "Canjear"
+   },
+   "giftCodeRedeeming": {
+      "message": "Canjeando…"
+   },
+   "giftCodeSuccess": {
+      "message": "Regalo aplicado."
+   },
+   "giftGrantAddsLabel": {
+      "message": "Añade"
+   },
+   "giftGrantDays": {
+      "message": "$1 días",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "giftGrantExpiresLabel": {
+      "message": "Caduca"
+   },
+   "giftGrantLifetime": {
+      "message": "De por vida"
+   },
+   "giftGrantMonths": {
+      "message": "$1 meses",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "giftGrantNeverExpires": {
+      "message": "No caduca"
+   },
+   "giftGrantOneDay": {
+      "message": "1 día"
+   },
+   "giftGrantOneMonth": {
+      "message": "1 mes"
+   },
+   "giftGrantRedeemedLabel": {
+      "message": "Canjeado"
+   },
+   "giftSignInBody": {
+      "message": "Inicia sesión con Google primero para usar tu código de regalo."
+   },
+   "giftSignInTitle": {
+      "message": "Inicia sesión para canjear tu código de regalo"
+   },
+   "helperChannelCountry": {
+      "message": "Mostrar solo canales de estos países (desde la pestaña Acerca de)."
+   },
+   "helperChannelCountryExclude": {
+      "message": "Ocultar canales de estos países (desde la pestaña Acerca de)."
+   },
+   "helperChannelDescExcludes": {
+      "message": "Ocultar canales cuyo texto Acerca de contenga alguna de estas palabras clave."
+   },
+   "helperChannelDescIncludes": {
+      "message": "El texto Acerca de del canal debe contener todas estas palabras clave."
+   },
+   "helperChannelJoined": {
+      "message": "Filtrar por cuándo se creó el canal."
+   },
+   "helperChannelSocial": {
+      "message": "Mostrar solo canales que enlacen al menos una de estas plataformas."
+   },
+   "helperChannelTags": {
+      "message": "Se mostrarán videos de canales cuyas etiquetas incluyan alguna de estas palabras clave."
+   },
+   "helperChannelVideos": {
+      "message": "Filtrar por cantidad de videos subidos del canal. Dejar en blanco para sin límite."
+   },
+   "helperChannelViews": {
+      "message": "Filtrar por el total de vistas del canal (desde Acerca de, independiente del idioma)."
+   },
+   "helperCommentRate": {
+      "message": "% de comentarios según las vistas"
+   },
+   "helperComments": {
+      "message": "Mostrar vídeos en un rango de comentarios."
+   },
+   "helperDescExcludes": {
+      "message": "Ocultar videos cuya descripción contenga alguna de estas palabras clave."
+   },
+   "helperDescIncludes": {
+      "message": "Mostrar solo videos cuya descripción incluya todas estas palabras clave."
+   },
+   "helperDislikeRate": {
+      "message": "% total de dislikes según las vistas (Pro)."
+   },
+   "helperDislikes": {
+      "message": "Filtrar por cantidad de dislikes (Pro)."
+   },
+   "helperDuration": {
+      "message": "Mostrar videos dentro de un rango de duración."
+   },
+   "helperExcludeChannels": {
+      "message": "Los videos de estos canales se ocultarán."
+   },
+   "helperIncludeChannels": {
+      "message": "Solo se buscan videos de estos canales. Añade con la URL completa del canal (youtube.com/@handle o /channel/UC…), @handle o ID de canal UC."
+   },
+   "helperLeaveBlankNoLimit": {
+      "message": "Dejar en blanco para sin límite."
+   },
+   "helperLikeRate": {
+      "message": "% de Me gusta según las vistas. 2-5% = alto."
+   },
+   "helperLikes": {
+      "message": "Ocultar videos con menos me gusta que esta cantidad."
+   },
+   "helperPublished": {
+      "message": "Mostrar solo videos publicados en un rango de fechas específico."
+   },
+   "helperRequireCaptions": {
+      "message": "Mostrar solo videos con subtítulos. Opcionalmente elige uno o más idiomas."
+   },
+   "helperRequireChapters": {
+      "message": "Mostrar solo vídeos con capítulos con marca de tiempo en la descripción"
+   },
+   "helperRequireEmail": {
+      "message": "Coincidir con videos que muestren un email en la descripción."
+   },
+   "helperSearchQuery": {
+      "message": "Editar la consulta de búsqueda de YouTube."
+   },
+   "helperSubscribers": {
+      "message": "Filtrar por número de suscriptores del canal. Dejar en blanco para sin límite."
+   },
+   "helperTitleExcludes": {
+      "message": "Los videos que contengan alguna de estas palabras se ocultarán."
+   },
+   "helperTitleIncludes": {
+      "message": "Mostrar solo videos que incluyan todas estas palabras clave"
+   },
+   "helperVerified": {
+      "message": "Filtrar por insignia de verificación."
+   },
+   "helperVideoType": {
+      "message": "Buscar solo vídeos de YouTube o Shorts."
+   },
+   "helperViews": {
+      "message": "Mostrar videos dentro de un rango de vistas elegido."
+   },
+   "helperViewsPerDay": {
+      "message": "Ocultar videos con menos vistas por día que este umbral."
+   },
+   "hintAfter": {
+      "message": "."
+   },
+   "hintAiConversationsLeft": {
+      "message": "Te quedan $1 conversaciones de IA. {{UPGRADE}} para ilimitadas.",
+      "placeholders": {
+         "1": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "hintAiConversationsUpgrade": {
+      "message": "Mejorar plan"
+   },
+   "hintBefore": {
+      "message": "Puedes cambiar la longitud del resumen y otras opciones "
+   },
+   "hintHere": {
+      "message": "aquí"
+   },
+   "includeChannelsConflictExclude": {
+      "message": "Este canal está en Excluir canales. Quítalo allí primero."
+   },
+   "includeChannelsFetchSubscriptions": {
+      "message": "Obtener canales de tus suscripciones"
+   },
+   "includeChannelsFetchSubscriptionsDone": {
+      "message": "Se guardaron $1 canales de tus suscripciones."
+   },
+   "includeChannelsFetchSubscriptionsFailed": {
+      "message": "No se pudieron cargar las suscripciones. Inicia sesión en youtube.com e inténtalo de nuevo."
+   },
+   "includeChannelsFetchingSubscriptions": {
+      "message": "Cargando tus suscripciones…"
+   },
+   "includeChannelsFetchingSubscriptionsProgress": {
+      "message": "Cargando tus suscripciones… $1 canales cargados hasta ahora."
+   },
+   "includeChannelsListNoMatches": {
+      "message": "Ningún canal coincide con tu búsqueda."
+   },
+   "includeChannelsLookingUp": {
+      "message": "Buscando canal…"
+   },
+   "includeChannelsNoCached": {
+      "message": "Aún no hay canales guardados — añade uno arriba."
+   },
+   "includeChannelsNotFound": {
+      "message": "Canal no encontrado. Usa una URL completa de YouTube, @handle o ID de canal."
+   },
+   "includeInitialSummary": {
+      "message": "¿Incluir resumen inicial?"
+   },
+   "includeInitialSummaryHelp": {
+      "message": "Al hacer clic en el botón de IA, se resume automáticamente el video (puede incluir spoilers). Desactívalo para abrir el chat con acciones sugeridas."
+   },
+   "labelChannelCountry": {
+      "message": "País"
+   },
+   "labelChannelCountryExclude": {
+      "message": "Excluir países"
+   },
+   "labelChannelDescExcludes": {
+      "message": "La descripción del canal excluye"
+   },
+   "labelChannelDescIncludes": {
+      "message": "La descripción del canal incluye"
+   },
+   "labelChannelJoined": {
+      "message": "Fecha de creación"
+   },
+   "labelChannelSocial": {
+      "message": "Enlaces sociales"
+   },
+   "labelChannelTags": {
+      "message": "Etiquetas del canal"
+   },
+   "labelChannelVideos": {
+      "message": "Videos del canal"
+   },
+   "labelChannelViews": {
+      "message": "Vistas del canal"
+   },
+   "labelCommentRate": {
+      "message": "Comentarios (%)"
+   },
+   "labelComments": {
+      "message": "Comentarios"
+   },
+   "labelDescExcludes": {
+      "message": "La descripción excluye"
+   },
+   "labelDescIncludes": {
+      "message": "La descripción incluye"
+   },
+   "labelDislikeRate": {
+      "message": "No me gusta (%)"
+   },
+   "labelDislikes": {
+      "message": "No me gusta"
+   },
+   "labelDuration": {
+      "message": "Duración"
+   },
+   "labelExcludeChannels": {
+      "message": "Excluir canales"
+   },
+   "labelIncludeChannels": {
+      "message": "Incluir canales"
+   },
+   "labelLikeRate": {
+      "message": "Me gusta (%)"
+   },
+   "labelLikes": {
+      "message": "Me gusta"
+   },
+   "labelMax": {
+      "message": "Máx"
+   },
+   "labelMaxPercent": {
+      "message": "Máx. %"
+   },
+   "labelMin": {
+      "message": "Mín"
+   },
+   "labelMinPercent": {
+      "message": "Mín. %"
+   },
+   "labelPublished": {
+      "message": "Publicado"
+   },
+   "labelRequireCaptions": {
+      "message": "Tiene subtítulos"
+   },
+   "labelRequireChapters": {
+      "message": "Tiene capítulos"
+   },
+   "labelRequireEmail": {
+      "message": "Tiene email en la descripción del video"
+   },
+   "labelSearchQuery": {
+      "message": "Buscar"
+   },
+   "labelStrictSearch": {
+      "message": "Activar búsqueda estricta"
+   },
+   "labelSubscribers": {
+      "message": "Suscriptores"
+   },
+   "labelTitleExcludes": {
+      "message": "Excluir del título"
+   },
+   "labelTitleIncludes": {
+      "message": "El título incluye"
+   },
+   "labelVerified": {
+      "message": "Verificado"
+   },
+   "labelVideoType": {
+      "message": "Tipo de vídeo"
+   },
+   "labelViews": {
+      "message": "Vistas"
+   },
+   "labelViewsPerDay": {
+      "message": "Vistas por día"
+   },
+   "loading": {
+      "message": "Cargando"
+   },
+   "mfrAiDisclosureTip": {
+      "message": "YouTube ha identificado y marcado contenido generado por IA en este video, que puede incluir audio, traducciones o elementos visuales."
+   },
+   "mfrAskAiNewTip": {
+      "message": "¡Nuevo! Pregunta a la IA cualquier cosa sobre el video."
+   },
+   "mfrAskAiNewTipDismissAria": {
+      "message": "Descartar consejo de Preguntar a la IA"
+   },
+   "mfrAskAiSummaryLabel": {
+      "message": "Resumen"
+   },
+   "mfrAskAiSummaryTip": {
+      "message": "Pregunta a la IA cualquier cosa sobre este video."
+   },
+   "mfrCommentsReadTipDismissAria": {
+      "message": "Cerrar tip de comentarios"
+   },
+   "mfrCommentsReadTipTitle": {
+      "message": "Ahora puedes leer comentarios rápidamente."
+   },
+   "mfrDashboardUpgrade": {
+      "message": "Mejorar plan"
+   },
+   "mfrDashboardUpgradeTip": {
+      "message": "Mejora tu plan para búsquedas, ordenación y uso de IA ilimitados."
+   },
+   "modalAriaCloseFilters": {
+      "message": "Cerrar filtros"
+   },
+   "modalAriaEnableToggle": {
+      "message": "Activar/desactivar filtrado"
+   },
+   "modalAriaFilterSettings": {
+      "message": "Opciones de filtro"
+   },
+   "modalFilterChipEnabledSubtitle": {
+      "message": "Buscando videos que coincidan con tus {{FILTERS}}. No cierres esta pestaña."
+   },
+   "modalFilterChipEnabledTitle": {
+      "message": "Filtrado activado"
+   },
+   "modalFilterChipFiltersLink": {
+      "message": "filtros"
+   },
+   "modalFilterChipMetricChecked": {
+      "message": "Revisados: $1"
+   },
+   "modalFilterChipMetricElapsed": {
+      "message": "Transcurrido: $1"
+   },
+   "modalFilterChipMetricFiltered": {
+      "message": "Encontrados: $1"
+   },
+   "modalFilterChipMetricPage": {
+      "message": "Página: $1"
+   },
+   "modalFilterChipProgress": {
+      "message": "Filtrando videos · \u003Cspan class=\"yfp-toast__found-count\">$1\u003C/span> / \u003Cspan class=\"yfp-toast__total-count\">$2\u003C/span> encontrados · página $3"
+   },
+   "modalFilterChipScrollingHint": {
+      "message": "\u003Cb>Cargando más resultados\u003C/b> para revisar todos los videos. ¡Espera!"
+   },
+   "modalFilterCompleted": {
+      "message": "¡Listo! Haz clic aquí para ver los resultados."
+   },
+   "modalFilterCopiedUrlsSuccess": {
+      "message": "Se copiaron $1 URLs correctamente",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterDescEmpty": {
+      "message": "Sin descripción"
+   },
+   "modalFilterDescLoading": {
+      "message": "Cargando descripción…"
+   },
+   "modalFilterEditFilters": {
+      "message": "Editar filtros"
+   },
+   "modalFilterExcludeChannelTip": {
+      "message": "Excluir este canal de las búsquedas"
+   },
+   "modalFilterExcludeCountryTip": {
+      "message": "Excluir este país de las búsquedas"
+   },
+   "modalFilterExhaustedNoMatches": {
+      "message": "Se alcanzó el final de la página de búsqueda sin videos coincidentes. Prueba a relajar tus filtros."
+   },
+   "modalFilterExhaustedNoMatchesChannels": {
+      "message": "Se llegó al final de todos los canales incluidos sin videos coincidentes. Intenta relajar tus filtros."
+   },
+   "modalFilterExport": {
+      "message": "Exportar"
+   },
+   "modalFilterExportCompletingSearch": {
+      "message": "Completando búsqueda… $1 encontrados ($2 revisados)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "modalFilterExportCopyUrls": {
+      "message": "Copiar URLs"
+   },
+   "modalFilterExportCsv": {
+      "message": "CSV"
+   },
+   "modalFilterExportFormatCsv": {
+      "message": "CSV"
+   },
+   "modalFilterExportFormatJson": {
+      "message": "JSON"
+   },
+   "modalFilterExportFormatTxt": {
+      "message": "TXT"
+   },
+   "modalFilterExportFormatXlsx": {
+      "message": "Excel (.xlsx)"
+   },
+   "modalFilterExportJson": {
+      "message": "JSON"
+   },
+   "modalFilterExportPausing": {
+      "message": "Pausando el filtrado para exportar…"
+   },
+   "modalFilterExportSuccess": {
+      "message": "Exportado a $1 correctamente",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterExportTxt": {
+      "message": "TXT"
+   },
+   "modalFilterExportXlsx": {
+      "message": "XLSX"
+   },
+   "modalFilterFilterTagsMore": {
+      "message": "+ $1 más"
+   },
+   "modalFilterFiltering": {
+      "message": "Filtrando videos…"
+   },
+   "modalFilterFiltersSummaryTitle": {
+      "message": "Resumen de filtros"
+   },
+   "modalFilterGoToPage": {
+      "message": "Ir a la página"
+   },
+   "modalFilterGoToPagePlaceholder": {
+      "message": "#"
+   },
+   "modalFilterKeepSearching": {
+      "message": "Seguir buscando"
+   },
+   "modalFilterLoading": {
+      "message": "Cargando…"
+   },
+   "modalFilterMetricCheckedLabel": {
+      "message": "videos analizados"
+   },
+   "modalFilterMetricElapsedLabel": {
+      "message": "tiempo transcurrido"
+   },
+   "modalFilterMetricFoundLabel": {
+      "message": "video(s) coincidente(s)"
+   },
+   "modalFilterMetricPageLabel": {
+      "message": "páginas alcanzadas"
+   },
+   "modalFilterMoreVideosProcessing": {
+      "message": "$1 vídeos más en proceso",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterNextPage": {
+      "message": "Página siguiente"
+   },
+   "modalFilterNextPageBtn": {
+      "message": "Página siguiente"
+   },
+   "modalFilterNoMatches": {
+      "message": "No se encontraron videos coincidentes."
+   },
+   "modalFilterNoMoreResults": {
+      "message": "No hay más resultados en esta página de búsqueda"
+   },
+   "modalFilterPageSuffix": {
+      "message": "(página $1)"
+   },
+   "modalFilterPaginationAria": {
+      "message": "Páginas de resultados"
+   },
+   "modalFilterPanelCompletedStatus": {
+      "message": "Filtrado completado. $1 video(s) encontrado(s).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "modalFilterPanelEnabledStatus": {
+      "message": "Filtrado activado. $1 video(s) encontrado(s).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "modalFilterPanelFound": {
+      "message": "Se encontraron \u003Cspan class=\"yfp-toast__found-count\">$1\u003C/span> videos \u003Csmall class=\"yfp-mfr-checked\">($2 videos revisados)\u003C/small>"
+   },
+   "modalFilterPanelPausedStatus": {
+      "message": "Filtrado en pausa. $1 video(s) encontrado(s).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "modalFilterPause": {
+      "message": "Pausa"
+   },
+   "modalFilterPausing": {
+      "message": "Pausando…"
+   },
+   "modalFilterPreparingDownload": {
+      "message": "Preparando la descarga…"
+   },
+   "modalFilterPrevPage": {
+      "message": "Página anterior"
+   },
+   "modalFilterProgressFoundPlural": {
+      "message": "$1 resultados encontrados"
+   },
+   "modalFilterProgressFoundSingular": {
+      "message": "$1 resultado encontrado"
+   },
+   "modalFilterRateFiveStars": {
+      "message": "Valorar"
+   },
+   "modalFilterReportBug": {
+      "message": "Informar de un error"
+   },
+   "modalFilterResultsCompleteSubtitle": {
+      "message": "Búsqueda completada."
+   },
+   "modalFilterResultsForQuery": {
+      "message": "Resultados para: «$1»",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterResultsTitle": {
+      "message": "Resultados filtrados"
+   },
+   "modalFilterResume": {
+      "message": "Reanudar"
+   },
+   "modalFilterSearchingBannerSubtitle": {
+      "message": "Desplazando la página automáticamente y buscando videos que coincidan con tus filtros.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterSearchingBannerSubtitleFallback": {
+      "message": "Por favor, deja esta pestaña abierta."
+   },
+   "modalFilterSearchingChannelsSubtitle": {
+      "message": "Buscando en canales incluidos «$1». Por favor, deja esta pestaña abierta."
+   },
+   "modalFilterSearchingChannelsSubtitleFallback": {
+      "message": "Buscando en tus canales incluidos. Por favor, deja esta pestaña abierta."
+   },
+   "modalFilterSearchingChannelsTitle": {
+      "message": "Buscando en $1 canales"
+   },
+   "modalFilterSearchingCriteriaTitle": {
+      "message": "Filtrando videos que cumplen todos tus criterios"
+   },
+   "modalFilterSearchingEmptyHint": {
+      "message": "Los resultados aparecerán aquí a medida que se encuentren.\nEsto puede tardar unos minutos. Puedes cerrar esta página en cualquier momento."
+   },
+   "modalFilterSearchingNoResultsYet": {
+      "message": "Buscando… aún no hay resultados."
+   },
+   "modalFilterSearchingPausedSubtitle": {
+      "message": "El desplazamiento automático de la página se ha pausado."
+   },
+   "modalFilterSearchingPausedTitle": {
+      "message": "Búsqueda en pausa."
+   },
+   "modalFilterSearchingProgress": {
+      "message": "Buscando ($1 de $2 videos encontrados)"
+   },
+   "modalFilterSearchingProgressShort": {
+      "message": "$1 de $2 videos encontrados"
+   },
+   "modalFilterSearchingStatus": {
+      "message": "Buscando..."
+   },
+   "modalFilterSearchingStatusFilters": {
+      "message": "Aplicando filtros"
+   },
+   "modalFilterSearchingStatusMatches": {
+      "message": "Buscando coincidencias"
+   },
+   "modalFilterSearchingStatusScroll": {
+      "message": "Desplazamiento automático"
+   },
+   "modalFilterSearchingStatusTime": {
+      "message": "Esto puede tardar unos minutos"
+   },
+   "modalFilterSearchingSubtitle": {
+      "message": "Analizando videos que coinciden con tus $1 filtros"
+   },
+   "modalFilterSearchingSubtitlePlural": {
+      "message": "Analizando videos que coinciden con tus $1 filtros"
+   },
+   "modalFilterSearchingSubtitleSingular": {
+      "message": "Analizando videos que coinciden con tu $1 filtro"
+   },
+   "modalFilterSearchingTipBody": {
+      "message": "¿Tarda demasiado? Si tus filtros son demasiado estrictos, puede haber muy pocos resultados — o ninguno."
+   },
+   "modalFilterSearchingTipLabel": {
+      "message": "Consejo:"
+   },
+   "modalFilterSearchingTitle": {
+      "message": "Buscando en YouTube..."
+   },
+   "modalFilterShowFeedback": {
+      "message": "Mostrar valoración"
+   },
+   "modalFilterShowLess": {
+      "message": "Mostrar menos"
+   },
+   "modalFilterShowMore": {
+      "message": "Mostrar más"
+   },
+   "modalFilterSortAvailableWhenSettled": {
+      "message": "La ordenación estará disponible cuando aparezcan resultados"
+   },
+   "modalFilterSortReorderHint": {
+      "message": "Los vídeos se ordenan en tiempo real. Puede tardar 30-60 segundos en cargar y ordenar todos los resultados."
+   },
+   "modalFilterSortReorderTitle": {
+      "message": "Los vídeos pueden reordenarse mientras se cargan."
+   },
+   "modalFilterSortTip": {
+      "message": "Haz clic aquí para ordenar los resultados"
+   },
+   "modalFilterSortTipDismissAria": {
+      "message": "Cerrar consejo de ordenación"
+   },
+   "modalFilterSortVisibleResultsAria": {
+      "message": "Ordenar los resultados visibles ahora"
+   },
+   "modalFilterSortingBy": {
+      "message": "Ordenando resultados por $1…",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalFilterStart": {
+      "message": "Iniciar"
+   },
+   "modalFilterStartedHint": {
+      "message": "Los resultados aparecerán aquí a medida que se encuentren. Por favor, deja esta pestaña abierta."
+   },
+   "modalFilterStartedTitle": {
+      "message": "Filtrado iniciado"
+   },
+   "modalFilterStop": {
+      "message": "Detener"
+   },
+   "modalFilterStopped": {
+      "message": "Filtrado detenido"
+   },
+   "modalFilterSupportPromo": {
+      "message": "Si esta extensión te ayuda, tu apoyo se agradece enormemente."
+   },
+   "modalFilterVideosChecked": {
+      "message": "$1 vídeos comprobados…"
+   },
+   "modalFilterVideosSorted": {
+      "message": "$1/$2 vídeos ordenados"
+   },
+   "modalFilterViewResults": {
+      "message": "Ver $1 resultados"
+   },
+   "modalFilterViewResultsPlural": {
+      "message": "Ver $1 resultados"
+   },
+   "modalFilterViewResultsSingular": {
+      "message": "Ver $1 resultado"
+   },
+   "modalFilteringDisabled": {
+      "message": "Desactivado"
+   },
+   "modalFilteringEnabled": {
+      "message": "Activado"
+   },
+   "modalSubtitle": {
+      "message": "Agregar filtros para esta búsqueda:"
+   },
+   "modalSubtitleFiltering": {
+      "message": "Filtrando búsquedas de"
+   },
+   "modalSubtitleLogin": {
+      "message": "Mejorar plan"
+   },
+   "modalSubtitleLoginMore": {
+      "message": "para búsquedas ilimitadas."
+   },
+   "modalSubtitleQuotaLeft": {
+      "message": "Te quedan $1 búsquedas.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "modalSubtitleQuotaUnlimited": {
+      "message": "Tienes búsquedas ilimitadas."
+   },
+   "modalTitle": {
+      "message": "Filtros"
+   },
+   "multiSelectNoResults": {
+      "message": "Sin coincidencias"
+   },
+   "nextMatch": {
+      "message": "Siguiente coincidencia"
+   },
+   "noteChannelCountryDisplay": {
+      "message": "Activa $1 para hacerte una mejor idea del país de cada canal.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "noteChannelCountryLanguage": {
+      "message": "Prueba a buscar en el idioma del canal correspondiente para mejorar los resultados."
+   },
+   "noteChannelCountryUndeclared": {
+      "message": "Los resultados pueden ser muy limitados. No todos los canales declaran explícitamente de qué país son."
+   },
+   "notesChannelCountryTitle": {
+      "message": "Notas:"
+   },
+   "onboardingDone": {
+      "message": "Listo"
+   },
+   "onboardingNext": {
+      "message": "Siguiente"
+   },
+   "onboardingSkip": {
+      "message": "Saltar tutorial"
+   },
+   "onboardingStep1Desc": {
+      "message": "Añadamos filtros a nuestra búsqueda.\n\nHaz clic en el botón de filtros de arriba."
+   },
+   "onboardingStep2Desc": {
+      "message": "Hay muchos filtros útiles: en este tutorial usaremos solo 2.\n\nBusquemos videos de entre 5 y 10 minutos.\n\nYa hemos configurado la duración por ti; haz clic en {{NEXT}} para continuar."
+   },
+   "onboardingStep3Desc": {
+      "message": "Se ha añadido otro filtro para ti:\n\nMostrar solo videos de canales con \u003Cb>más de 10 mil suscriptores\u003C/b>.\n\nHaz clic en {{NEXT}} para continuar."
+   },
+   "onboardingStep4Desc": {
+      "message": "Haz clic en Buscar para empezar a filtrar."
+   },
+   "onboardingStep5Desc": {
+      "message": "Aquí puedes ver los resultados que coinciden con tus filtros.\n\nLos filtros complejos pueden tardar mucho; tenlo en cuenta."
+   },
+   "onboardingStep6Desc": {
+      "message": "Puedes pausar en cualquier momento.\n\nPara una experiencia más fluida, se recomienda pausar antes de revisar los resultados.\n\n¡Disfruta!"
+   },
+   "onboardingStepProgress": {
+      "message": "Paso $1/$2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "onboardingWelcomeBody": {
+      "message": "Recomendamos \u003Cb>mucho\u003C/b> hacer este tutorial de 30 segundos."
+   },
+   "onboardingWelcomeClose": {
+      "message": "Cerrar"
+   },
+   "onboardingWelcomeLegal": {
+      "message": "Al continuar y usar nuestra extensión, aceptas la \u003Ca href=\"https://codedcitadel.com/privacy-policy/youtube-filter-pro\" target=\"_blank\" rel=\"noopener noreferrer\">Política de privacidad\u003C/a> y los \u003Ca href=\"https://codedcitadel.com/terms-of-service/youtube-filter-pro\" target=\"_blank\" rel=\"noopener noreferrer\">Términos de servicio\u003C/a>."
+   },
+   "onboardingWelcomeOk": {
+      "message": "Muéstrame"
+   },
+   "onboardingWelcomeTitle": {
+      "message": "¡Gracias por instalar YouTube Filter Pro!"
+   },
+   "placeholderAddIncludeChannel": {
+      "message": "Pega la URL o @handle y pulsa Intro"
+   },
+   "placeholderChannelDescExcludes": {
+      "message": "Excluir si Acerca de contiene… (coma o Enter)"
+   },
+   "placeholderChannelDescIncludes": {
+      "message": "Palabras clave en la descripción Acerca de (coma o Enter)"
+   },
+   "placeholderChannelTags": {
+      "message": "Channel tags (comma or Enter)"
+   },
+   "placeholderDescExclude": {
+      "message": "Words to exclude (comma or Enter)"
+   },
+   "placeholderDescKeywords": {
+      "message": "Keywords in description (comma or Enter)"
+   },
+   "placeholderExcludeChannels": {
+      "message": "Seleccionar canales excluidos…"
+   },
+   "placeholderIncludeChannels": {
+      "message": "Seleccionar canales incluidos…"
+   },
+   "placeholderMaxChannelViews": {
+      "message": "Vistas máx."
+   },
+   "placeholderMaxCommentRate": {
+      "message": "3%"
+   },
+   "placeholderMaxComments": {
+      "message": "1000"
+   },
+   "placeholderMaxDislikeRate": {
+      "message": "2%"
+   },
+   "placeholderMaxDislikes": {
+      "message": "Máx"
+   },
+   "placeholderMaxLikeRate": {
+      "message": "3%"
+   },
+   "placeholderMaxLikes": {
+      "message": "10000"
+   },
+   "placeholderMaxSubscribers": {
+      "message": "Max subscribers"
+   },
+   "placeholderMaxVideos": {
+      "message": "Max videos"
+   },
+   "placeholderMaxViews": {
+      "message": "50000"
+   },
+   "placeholderMaxViewsPerDay": {
+      "message": "1000"
+   },
+   "placeholderMinChannelViews": {
+      "message": "Vistas mín."
+   },
+   "placeholderMinCommentRate": {
+      "message": "0.5%"
+   },
+   "placeholderMinComments": {
+      "message": "100"
+   },
+   "placeholderMinDislikeRate": {
+      "message": "0,1%"
+   },
+   "placeholderMinDislikes": {
+      "message": "Mín"
+   },
+   "placeholderMinLikeRate": {
+      "message": "0.5%"
+   },
+   "placeholderMinLikes": {
+      "message": "100"
+   },
+   "placeholderMinSubscribers": {
+      "message": "Min subscribers"
+   },
+   "placeholderMinVideos": {
+      "message": "Min videos"
+   },
+   "placeholderMinViews": {
+      "message": "1000"
+   },
+   "placeholderSearchCaptionLanguages": {
+      "message": "Buscar idiomas…"
+   },
+   "placeholderSearchCountries": {
+      "message": "Buscar países"
+   },
+   "placeholderSearchSocial": {
+      "message": "Buscar plataformas"
+   },
+   "placeholderSelectCaptionLanguages": {
+      "message": "Cualquier idioma"
+   },
+   "placeholderSelectCountries": {
+      "message": "Seleccionar países…"
+   },
+   "placeholderSelectCountriesExclude": {
+      "message": "Excluir países…"
+   },
+   "placeholderSelectSocial": {
+      "message": "Seleccionar plataformas…"
+   },
+   "placeholderTitleExclude": {
+      "message": "Words to exclude (comma or Enter)"
+   },
+   "placeholderTitleKeywords": {
+      "message": "Keywords in title (comma or Enter)"
+   },
+   "placeholderViewsPerDay": {
+      "message": "100"
+   },
+   "planAiChats": {
+      "message": "Chat de IA"
+   },
+   "planAiChatsHelp": {
+      "message": "Haz preguntas sobre los videos en tus resultados filtrados: resúmenes, puntos clave y más."
+   },
+   "planBestValue": {
+      "message": "Mejor valor"
+   },
+   "planChannelData": {
+      "message": "Datos del canal"
+   },
+   "planChannelDataHelp": {
+      "message": "Estadísticas por canal en los resultados de búsqueda: suscriptores, cantidad de videos, país, vistas del canal, fecha de unión y enlaces a redes sociales."
+   },
+   "planChannelFilters": {
+      "message": "Filtros de canal"
+   },
+   "planChannelFiltersHelp": {
+      "message": "Filtra por suscriptores, país, canales específicos y más. $1 filtros disponibles.",
+      "placeholders": {
+         "1": {
+            "content": "$1",
+            "example": "14"
+         }
+      }
+   },
+   "planDescription": {
+      "message": "Descripción"
+   },
+   "planDescriptionHelp": {
+      "message": "Consulta la descripción del video sin tener que abrirlo."
+   },
+   "planDetectAiContent": {
+      "message": "Detectar contenido de IA"
+   },
+   "planDetectAiContentHelp": {
+      "message": "YouTube marca automáticamente parte del contenido generado por IA, que se muestra en los resultados filtrados."
+   },
+   "planDislikeCount": {
+      "message": "Cantidad de dislikes"
+   },
+   "planDislikeCountHelp": {
+      "message": "Ver cuántos dislikes tiene cualquier video."
+   },
+   "planExports": {
+      "message": "Exportaciones"
+   },
+   "planExportsHelp": {
+      "message": "Descarga los resultados filtrados en CSV, Excel, JSON o texto plano, o copia las URL de los videos desde el panel de resultados."
+   },
+   "planFeatures": {
+      "message": "Features"
+   },
+   "planFree": {
+      "message": "Gratis"
+   },
+   "planIncluded": {
+      "message": "Incluido"
+   },
+   "planLimited": {
+      "description": "Free column label for add-ons that are available but capped on the free plan",
+      "message": "Limitado"
+   },
+   "planPerformance": {
+      "message": "Rendimiento"
+   },
+   "planPerformanceHelp": {
+      "message": "Ver métricas de rendimiento de cada video."
+   },
+   "planPresets": {
+      "message": "Preajustes"
+   },
+   "planPresetsHelp": {
+      "message": "Combinaciones de filtros predefinidas útiles para búsquedas rápidas."
+   },
+   "planPro": {
+      "message": "Pro"
+   },
+   "planQuickView": {
+      "message": "Datos del video"
+   },
+   "planQuickViewHelp": {
+      "message": "Estadísticas por video en los resultados: me gusta, vistas, comentarios y vistas por día."
+   },
+   "planReadComments": {
+      "message": "Ver comentarios"
+   },
+   "planReadCommentsHelp": {
+      "message": "Pasa el cursor para leer los comentarios más votados."
+   },
+   "planSearches": {
+      "message": "Búsquedas / semana"
+   },
+   "planSocialMedia": {
+      "message": "Redes sociales"
+   },
+   "planSocialMediaHelp": {
+      "message": "Ver todos los enlaces del canal extraídos por IA."
+   },
+   "planSorting": {
+      "message": "Ordenación"
+   },
+   "planSortingHelp": {
+      "message": "Ordena los resultados filtrados por vistas, fecha de subida, suscriptores y más desde el encabezado del panel de resultados."
+   },
+   "planUnlimited": {
+      "message": "Ilimitado"
+   },
+   "planVideoFilters": {
+      "message": "Filtros de video"
+   },
+   "planVideoFiltersHelp": {
+      "message": "Filtra por vistas, fecha de subida, duración, me gusta y $1 filtros útiles más.",
+      "placeholders": {
+         "1": {
+            "content": "$1",
+            "example": "10"
+         }
+      }
+   },
+   "planVideoStats": {
+      "description": "Profile compare row for watch-page Data / Video Stats",
+      "message": "Estadísticas de video / semana"
+   },
+   "planVideoStatsHelp": {
+      "description": "Help tooltip for the Video Stats row in the account compare table",
+      "message": "Ver estadísticas del rendimiento de este video en la página de reproducción."
+   },
+   "presetComplete": {
+      "message": "Completo"
+   },
+   "presetShort": {
+      "message": "Corto"
+   },
+   "presetSuperShort": {
+      "message": "Muy corto"
+   },
+   "presetsApplied": {
+      "message": "Preajuste aplicado"
+   },
+   "presetsButton": {
+      "message": "Preajustes"
+   },
+   "presetsButtonAria": {
+      "message": "Preajustes de filtros"
+   },
+   "presetsClearAria": {
+      "message": "Borrar preajuste"
+   },
+   "presetsDeleteAria": {
+      "message": "Eliminar preajuste $1"
+   },
+   "presetsEmpty": {
+      "message": "Aún no hay preajustes guardados"
+   },
+   "presetsModalHint": {
+      "message": "Son combinaciones predefinidas de los filtros de búsqueda. Pasa el cursor para leer una breve descripción."
+   },
+   "presetsModalTitle": {
+      "message": "Preajustes de filtros"
+   },
+   "presetsNewTip": {
+      "message": "¡Nuevo! Añade aquí filtros predefinidos útiles."
+   },
+   "presetsNewTipDismissAria": {
+      "message": "Cerrar consejo de preajustes"
+   },
+   "presetsNone": {
+      "message": "Ninguno"
+   },
+   "presetsNoneDesc": {
+      "message": "Sin preajuste"
+   },
+   "presetsSaveCancel": {
+      "message": "Cancelar"
+   },
+   "presetsSaveConfirm": {
+      "message": "Guardar"
+   },
+   "presetsSaveCurrent": {
+      "message": "Guardar ajustes actuales como preajuste"
+   },
+   "presetsSaveDefaultName": {
+      "message": "Mi preajuste"
+   },
+   "presetsSaveNamePlaceholder": {
+      "message": "Nombre del preajuste"
+   },
+   "presetsSuggested": {
+      "message": "Sugeridos"
+   },
+   "presetsYours": {
+      "message": "Tus preajustes"
+   },
+   "previousMatch": {
+      "message": "Coincidencia anterior"
+   },
+   "privacyNoticeBody": {
+      "message": "Recopilamos datos anónimos sobre qué tipos de filtros se usan para ayudar a que YouTube Filter Pro sea más preciso y útil. Nunca recopilamos consultas de búsqueda, contenido de videos ni datos personales. Tu privacidad permanece intacta en todo momento."
+   },
+   "privacyNoticeContinue": {
+      "message": "Continuar"
+   },
+   "privacyNoticeLearnMore": {
+      "message": "Más información"
+   },
+   "privacyNoticeOptInLabel": {
+      "message": "Compartir datos anónimos de uso de filtros"
+   },
+   "privacyNoticeTitle": {
+      "message": "Tu privacidad importa"
+   },
+   "pubPreset_10y": {
+      "message": "Últimos 10 años"
+   },
+   "pubPreset_12h": {
+      "message": "Últimas 12 horas"
+   },
+   "pubPreset_15d": {
+      "message": "Últimos 15 días"
+   },
+   "pubPreset_18m": {
+      "message": "Últimos 18 meses"
+   },
+   "pubPreset_1h": {
+      "message": "Última hora"
+   },
+   "pubPreset_1m": {
+      "message": "Último mes"
+   },
+   "pubPreset_1w": {
+      "message": "Última semana"
+   },
+   "pubPreset_1y": {
+      "message": "Último año"
+   },
+   "pubPreset_24h": {
+      "message": "Últimas 24 horas"
+   },
+   "pubPreset_2d": {
+      "message": "Últimos 2 días"
+   },
+   "pubPreset_2m": {
+      "message": "Últimos 2 meses"
+   },
+   "pubPreset_2w": {
+      "message": "Últimas 2 semanas"
+   },
+   "pubPreset_2y": {
+      "message": "Últimos 2 años"
+   },
+   "pubPreset_3d": {
+      "message": "Últimos 3 días"
+   },
+   "pubPreset_3h": {
+      "message": "Últimas 3 horas"
+   },
+   "pubPreset_3m": {
+      "message": "Últimos 3 meses"
+   },
+   "pubPreset_3w": {
+      "message": "Últimas 3 semanas"
+   },
+   "pubPreset_3y": {
+      "message": "Últimos 3 años"
+   },
+   "pubPreset_5d": {
+      "message": "Últimos 5 días"
+   },
+   "pubPreset_5y": {
+      "message": "Últimos 5 años"
+   },
+   "pubPreset_6h": {
+      "message": "Últimas 6 horas"
+   },
+   "pubPreset_6m": {
+      "message": "Últimos 6 meses"
+   },
+   "pubPreset_9m": {
+      "message": "Últimos 9 meses"
+   },
+   "pubPreset_any": {
+      "message": "Cualquier fecha"
+   },
+   "pubPreset_specific": {
+      "message": "Rango específico…"
+   },
+   "quickViewLimitReached": {
+      "message": "Has usado Vista rápida en las $1 búsquedas gratuitas. Mejora tu plan para Vista rápida ilimitada.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quickViewLimitReachedAnon": {
+      "message": "Has usado Vista rápida en las $1 búsquedas gratuitas. Inicia sesión y mejora tu plan para Vista rápida ilimitada.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quotaLimitReached": {
+      "message": "Has usado las $1 búsquedas de esta semana. Mejora tu plan o canjea un código de regalo para obtener más."
+   },
+   "quotaLimitReachedAnon": {
+      "message": "Has usado las $1 búsquedas de esta semana. Inicia sesión y mejora a Pro para búsquedas ilimitadas."
+   },
+   "quotaUnlimited": {
+      "message": "Búsquedas ilimitadas"
+   },
+   "quotaUsage": {
+      "message": "$1 / $2 búsquedas esta semana"
+   },
+   "rangeDisplayMax": {
+      "message": "Máx: \u003Cem>$1\u003C/em>"
+   },
+   "rangeDisplayMin": {
+      "message": "Mín: \u003Cem>$1\u003C/em>"
+   },
+   "refreshThePage": {
+      "message": "Actualiza la página"
+   },
+   "resultsHelpfulDislikeAria": {
+      "message": "No, no fue útil"
+   },
+   "resultsHelpfulLikeAria": {
+      "message": "Sí, fue útil"
+   },
+   "resultsHelpfulPrompt": {
+      "message": "¿Te resultaron útiles estos resultados?"
+   },
+   "resultsHelpfulThankYou": {
+      "message": "¡Gracias!"
+   },
+   "search": {
+      "message": "Buscar"
+   },
+   "searchChat": {
+      "message": "Buscar en el chat"
+   },
+   "searchQueryIncludeAlready": {
+      "message": "Ya está en El título incluye"
+   },
+   "searchQueryIncludeTip": {
+      "message": "Incluir solo vídeos cuyo título incluya esta palabra"
+   },
+   "searchSortApply": {
+      "message": "Ordenar"
+   },
+   "searchSortAria": {
+      "message": "Ordenar resultados de búsqueda"
+   },
+   "searchSortAscendent": {
+      "message": "Ascendente"
+   },
+   "searchSortAuto": {
+      "message": "Automático"
+   },
+   "searchSortAutoAria": {
+      "message": "Ordenar automáticamente cuando aparezca un nuevo video coincidente"
+   },
+   "searchSortChannelVideos": {
+      "message": "Videos del canal"
+   },
+   "searchSortComments": {
+      "message": "Comments (qty)"
+   },
+   "searchSortCommentsGroup": {
+      "message": "Comments"
+   },
+   "searchSortCommentsPct": {
+      "message": "Comments (%)"
+   },
+   "searchSortDate": {
+      "message": "Fecha de subida"
+   },
+   "searchSortDefault": {
+      "message": "Orden de YouTube"
+   },
+   "searchSortDescendent": {
+      "message": "Descendente"
+   },
+   "searchSortDirAria": {
+      "message": "Cambiar dirección de orden"
+   },
+   "searchSortDislikes": {
+      "message": "Dislikes (cant.)"
+   },
+   "searchSortDislikesGroup": {
+      "message": "No me gusta"
+   },
+   "searchSortDislikesPct": {
+      "message": "No me gusta (%)"
+   },
+   "searchSortDuration": {
+      "message": "Duración"
+   },
+   "searchSortExpandAria": {
+      "message": "Expandir controles de orden"
+   },
+   "searchSortHeading": {
+      "message": "Ordenar resultados"
+   },
+   "searchSortLabel": {
+      "message": "Ordenar"
+   },
+   "searchSortLikes": {
+      "message": "Me gusta"
+   },
+   "searchSortLikesGroup": {
+      "message": "Likes"
+   },
+   "searchSortLikesPct": {
+      "message": "Likes (%)"
+   },
+   "searchSortPercentage": {
+      "message": "Percentage"
+   },
+   "searchSortQuantity": {
+      "message": "Quantity"
+   },
+   "searchSortSubscribers": {
+      "message": "Suscriptores"
+   },
+   "searchSortTeaser": {
+      "message": "Ordenar resultados…"
+   },
+   "searchSortTeaserActive": {
+      "message": "Orden: $1 $2"
+   },
+   "searchSortViews": {
+      "message": "Vistas"
+   },
+   "searchSortViewsPerDay": {
+      "message": "Vistas / día"
+   },
+   "searchViewsPerDayLabel": {
+      "message": "$1 vistas/día"
+   },
+   "sectionChannelSettings": {
+      "message": "Configuración de canal"
+   },
+   "sectionVideoSettings": {
+      "message": "Configuración de video"
+   },
+   "send": {
+      "message": "Enviar"
+   },
+   "settings": {
+      "message": "Configuración"
+   },
+   "settingsAboutLabel": {
+      "message": "Acerca de YouTube Filter Pro"
+   },
+   "settingsAccountTitle": {
+      "message": "Profile"
+   },
+   "settingsAllowUsageAnalyticsDesc": {
+      "message": "Enviar uso anónimo de filtros para mejorar Youtube Filter Pro. Sin consultas de búsqueda ni texto de palabras clave."
+   },
+   "settingsAllowUsageAnalyticsLabel": {
+      "message": "Compartir datos de uso anónimos"
+   },
+   "settingsAutoApplyDesc": {
+      "message": "Aplicar filtros automáticamente cuando cambie cualquier valor."
+   },
+   "settingsAutoApplyLabel": {
+      "message": "Aplicar automáticamente"
+   },
+   "settingsBackToChat": {
+      "message": "Volver al chat"
+   },
+   "settingsBatchFilterUpdatesDesc": {
+      "message": "Combinar pasadas rápidas de filtro en una actualización por fotograma en lugar de ejecutar cada una al instante."
+   },
+   "settingsBatchFilterUpdatesLabel": {
+      "message": "Agrupar actualizaciones de filtro"
+   },
+   "settingsDebugDisableYfpDataDesc": {
+      "message": "Dejar yfp-data vacío hasta pulsar Volver a cargar. Úsalo para comparar el rendimiento del filtrado."
+   },
+   "settingsDebugDisableYfpDataLabel": {
+      "message": "No cargar yfp-data [depuración]"
+   },
+   "settingsDebugDomDesc": {
+      "message": "Registrar todas las filas de video y resultados visibles en la consola (yfpDebugDomVideos, yfpDebugVisibleVideos)."
+   },
+   "settingsDebugDomLabel": {
+      "message": "Depurar DOM"
+   },
+   "settingsFetchModeAll": {
+      "message": "Cargar todo"
+   },
+   "settingsFetchModeDefault": {
+      "message": "Lento"
+   },
+   "settingsFetchModeDesc": {
+      "message": "Lento sigue cargando resultados en segundo plano. Rápido llena esta página y la siguiente, luego espera."
+   },
+   "settingsFetchModeFast": {
+      "message": "Rápido"
+   },
+   "settingsFetchModeLabel": {
+      "message": "Modo de carga"
+   },
+   "settingsFetchModeSlow": {
+      "message": "Lento"
+   },
+   "settingsFilterActivatedDesc": {
+      "message": "Activar o desactivar filtros en tiempo real."
+   },
+   "settingsFilterActivatedLabel": {
+      "message": "Filtro activado"
+   },
+   "settingsFilterToastsDesc": {
+      "message": "Mostrar una notificación cuando se oculten videos."
+   },
+   "settingsFilterToastsLabel": {
+      "message": "Notificaciones de filtro"
+   },
+   "settingsFilteredSearchesDesc": {
+      "message": "Búsquedas de YouTube realizadas con el filtrado activado."
+   },
+   "settingsFilteredSearchesLabel": {
+      "message": "Búsquedas filtradas"
+   },
+   "settingsFilteringModeDesc": {
+      "message": "Modal deja los resultados de YouTube intactos y muestra coincidencias en un panel. Página oculta los que no coinciden en la lista."
+   },
+   "settingsFilteringModeLabel": {
+      "message": "Modo de filtrado"
+   },
+   "settingsFilteringModeModal": {
+      "message": "Modal (recomendado)"
+   },
+   "settingsFilteringModePage": {
+      "message": "Página"
+   },
+   "settingsHardToFindTipsDesc": {
+      "message": "Muestra un consejo cuando tus filtros no encuentran nada tras muchos resultados, o cuando las coincidencias son raras."
+   },
+   "settingsHardToFindTipsLabel": {
+      "message": "Avisar cuando los filtros encuentren pocos o ningún vídeo"
+   },
+   "settingsHideAdsFromDesc": {
+      "message": "Ocultar filas de anuncios patrocinados en los resultados de búsqueda de YouTube."
+   },
+   "settingsHideAdsFromLabel": {
+      "message": "Ocultar anuncios de la búsqueda"
+   },
+   "settingsImprovementFiltersDesc": {
+      "message": "Opciones experimentales de rendimiento. Combínalas para ver qué va más fluido en tu equipo."
+   },
+   "settingsImprovementFiltersTitle": {
+      "message": "Más ajustes"
+   },
+   "settingsIncludeOnlyVideosDesc": {
+      "message": "Añadir el filtro Videos de YouTube a las URLs de búsqueda."
+   },
+   "settingsIncludeOnlyVideosLabel": {
+      "message": "Incluir solo videos en la búsqueda"
+   },
+   "settingsLoadAdditionalDataImmediatelyDesc": {
+      "message": "Si está activado, las estadísticas extra se cargan en cuanto aparece un resultado. Si está desactivado, más tarde."
+   },
+   "settingsLoadAdditionalDataImmediatelyLabel": {
+      "message": "Cargar datos adicionales de inmediato"
+   },
+   "settingsProcessModeDesc": {
+      "message": "Externo (predeterminado) agrupa likes, comentarios y estadísticas del canal a través de Cloudflare. Local lo hace en el navegador. Externo vuelve a Local si el Worker falla."
+   },
+   "settingsProcessModeExternal": {
+      "message": "Externo (Cloudflare)"
+   },
+   "settingsProcessModeLabel": {
+      "message": "Modo de procesamiento"
+   },
+   "settingsProcessModeLocal": {
+      "message": "Local"
+   },
+   "settingsResetCacheDesc": {
+      "message": "Borrar la info extra de canales y vídeos para volver a obtenerla."
+   },
+   "settingsResetCacheDone": {
+      "message": "Caché borrada"
+   },
+   "settingsResetCacheLabel": {
+      "message": "Restablecer caché"
+   },
+   "settingsResetFiltersDesc": {
+      "message": "Borrar todos los filtros y restaurar valores predeterminados."
+   },
+   "settingsResetFiltersLabel": {
+      "message": "Restablecer todos los filtros"
+   },
+   "settingsResultsFetchMethodApi": {
+      "message": "Cargar por API"
+   },
+   "settingsResultsFetchMethodDesc": {
+      "message": "Solo pruebas — elige cómo la extensión carga más vídeos al filtrar."
+   },
+   "settingsResultsFetchMethodLabel": {
+      "message": "Cargar más resultados"
+   },
+   "settingsResultsFetchMethodScroll": {
+      "message": "Cargar al desplazarse"
+   },
+   "settingsSavePreferencesDesc": {
+      "message": "Recordar mis filtros la próxima vez."
+   },
+   "settingsSavePreferencesLabel": {
+      "message": "Guardar preferencias"
+   },
+   "settingsShowChannelVideosDesc": {
+      "message": "Mostrar el total de videos de cada canal en resultados y Explorar."
+   },
+   "settingsShowChannelVideosLabel": {
+      "message": "Mostrar número de videos del canal"
+   },
+   "settingsShowCountryDesc": {
+      "message": "Mostrar la bandera del país del canal junto al nombre en los resultados de búsqueda."
+   },
+   "settingsShowCountryLabel": {
+      "message": "Mostrar país"
+   },
+   "settingsShowExtraInfoDesc": {
+      "message": "Mostrar estadísticas adicionales (me gusta, vistas/día, suscriptores, número de videos, país, vistas totales) y enlaces del canal directamente en los resultados. \u003Cb>Puede ralentizar la carga.\u003C/b>"
+   },
+   "settingsShowExtraInfoExperimental": {
+      "message": "Experimental."
+   },
+   "settingsShowExtraInfoLabel": {
+      "message": "¿Mostrar información extra?"
+   },
+   "settingsShowExtraInfoOnFilteredResultsLabel": {
+      "message": "Mostrar información adicional en la página de resultados filtrados"
+   },
+   "settingsShowExtraInfoOnSearchPageLabel": {
+      "message": "Mostrar información adicional en la página de búsqueda"
+   },
+   "settingsShowExtraInfoSlowDown": {
+      "message": "Puede ralentizar."
+   },
+   "settingsShowLikesDesc": {
+      "message": "Mostrar el número de me gusta de cada video junto a la info del canal en los resultados."
+   },
+   "settingsShowLikesLabel": {
+      "message": "Mostrar total de me gusta en la página de búsqueda"
+   },
+   "settingsShowMatchCheckmarkDesc": {
+      "message": "Añade una marca verde junto a los títulos que pasan tus filtros activos."
+   },
+   "settingsShowMatchCheckmarkLabel": {
+      "message": "Mostrar una marca en los videos que coinciden con tus filtros"
+   },
+   "settingsShowNonMatchMarkDesc": {
+      "message": "Añadir una × roja junto a los títulos que no cumplen tus filtros activos."
+   },
+   "settingsShowNonMatchMarkLabel": {
+      "message": "Mostrar × en videos que no coinciden"
+   },
+   "settingsShowSocialIconsDesc": {
+      "message": "Mostrar plataformas sociales vinculadas como iconos en los resultados de búsqueda."
+   },
+   "settingsShowSocialIconsLabel": {
+      "message": "Mostrar iconos de redes sociales del canal"
+   },
+   "settingsShowSubscribersDesc": {
+      "message": "Mostrar el número de suscriptores del canal en resultados y Explorar."
+   },
+   "settingsShowSubscribersLabel": {
+      "message": "Mostrar número de suscriptores"
+   },
+   "settingsShowSummaryDesc": {
+      "message": "Mostrar descripción de filtros activos abajo."
+   },
+   "settingsShowSummaryLabel": {
+      "message": "Mostrar resumen de filtros"
+   },
+   "settingsShowTutorialDesc": {
+      "message": "Reproducir la guía rápida inicial del panel de filtros."
+   },
+   "settingsShowTutorialLabel": {
+      "message": "Mostrar tutorial"
+   },
+   "settingsShowViewsPerDayDesc": {
+      "message": "Mostrar las vistas por día de cada video junto a la info del canal en los resultados."
+   },
+   "settingsShowViewsPerDayLabel": {
+      "message": "Mostrar vistas por día"
+   },
+   "settingsSignInSync": {
+      "message": "Sign in to sync your plan across devices"
+   },
+   "settingsSmartChannelFetchDesc": {
+      "message": "Obtener datos Acerca de de un canal (país, vistas totales, fecha de creación, enlaces sociales) solo cuando un filtro o complemento visual lo necesite."
+   },
+   "settingsSmartChannelFetchLabel": {
+      "message": "Obtención inteligente del canal"
+   },
+   "settingsTabDisplay": {
+      "message": "Visualización"
+   },
+   "settingsTabFiltering": {
+      "message": "Filtrado"
+   },
+   "settingsTitle": {
+      "message": "Opciones de filtro"
+   },
+   "settingsTransparentModeDesc": {
+      "message": "Atenuar videos filtrados en lugar de ocultarlos por completo."
+   },
+   "settingsTransparentModeLabel": {
+      "message": "Modo transparente"
+   },
+   "settingsVersion": {
+      "message": "Versión"
+   },
+   "settingsVersionNumber": {
+      "message": "Versión $1"
+   },
+   "settingsViewThankYouModal": {
+      "message": "Ver modal de agradecimiento"
+   },
+   "settingsViewThankYouModalDesc": {
+      "message": "Vista previa de la carta de regalo para usuarios de larga trayectoria (temporal)."
+   },
+   "settingsVisualAddons": {
+      "message": "Complementos visuales"
+   },
+   "socialAmazon": {
+      "message": "Amazon"
+   },
+   "socialBluesky": {
+      "message": "Bluesky"
+   },
+   "socialDiscord": {
+      "message": "Discord"
+   },
+   "socialEmail": {
+      "message": "Correo"
+   },
+   "socialFacebook": {
+      "message": "Facebook"
+   },
+   "socialInstagram": {
+      "message": "Instagram"
+   },
+   "socialKick": {
+      "message": "Kick"
+   },
+   "socialLinkedin": {
+      "message": "LinkedIn"
+   },
+   "socialLinktree": {
+      "message": "Linktree"
+   },
+   "socialOthers": {
+      "message": "Otros"
+   },
+   "socialPatreon": {
+      "message": "Patreon"
+   },
+   "socialPinterest": {
+      "message": "Pinterest"
+   },
+   "socialReddit": {
+      "message": "Reddit"
+   },
+   "socialSnapchat": {
+      "message": "Snapchat"
+   },
+   "socialSpotify": {
+      "message": "Spotify"
+   },
+   "socialTelegram": {
+      "message": "Telegram"
+   },
+   "socialThreads": {
+      "message": "Threads"
+   },
+   "socialTiktok": {
+      "message": "TikTok"
+   },
+   "socialTwitch": {
+      "message": "Twitch"
+   },
+   "socialWebsite": {
+      "message": "Sitio web personal"
+   },
+   "socialWhatsapp": {
+      "message": "WhatsApp"
+   },
+   "socialX": {
+      "message": "X / Twitter"
+   },
+   "socialYoutube": {
+      "message": "YouTube"
+   },
+   "starterRecommend": {
+      "message": "Recomendar contenido relacionado"
+   },
+   "starterSummarize": {
+      "message": "Resumir el video"
+   },
+   "starterTimestamps": {
+      "message": "Ver marcas de tiempo"
+   },
+   "starterWelcome": {
+      "message": "¡Hola! ¿Alguna pregunta sobre este video filtrado? Estoy aquí para ayudar."
+   },
+   "subscriptionFetchConsentBody": {
+      "message": "Solo obtendremos tus suscripciones — ningún otro dato. ¿Das tu consentimiento?"
+   },
+   "subscriptionFetchConsentCancel": {
+      "message": "Cancelar"
+   },
+   "subscriptionFetchConsentConfirm": {
+      "message": "Sí, obtener canales"
+   },
+   "subscriptionFetchConsentTitle": {
+      "message": "Obtener canales de suscripciones"
+   },
+   "suffixPercent": {
+      "message": "%"
+   },
+   "suffixViewsPerDay": {
+      "message": "vistas/día"
+   },
+   "summarizeWithAi": {
+      "message": "Resumir con IA"
+   },
+   "summarizing": {
+      "message": "Resumiendo…"
+   },
+   "summaryCaptionLanguagesListAria": {
+      "message": "Idiomas de subtítulos"
+   },
+   "summaryChannelCountries": {
+      "message": "es de \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelCountriesExclude": {
+      "message": "no es de \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelDescExcludes": {
+      "message": "acerca de excluye \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelDescIncludesAll": {
+      "message": "acerca de incluye todos de \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelJoinedAfter": {
+      "message": "creado después de \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelJoinedBefore": {
+      "message": "creado antes de \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelJoinedBetween": {
+      "message": "creado entre \u003Cem>$1\u003C/em> y \u003Cem>$2\u003C/em>"
+   },
+   "summaryChannelJoinedInClause": {
+      "message": "creado en \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelJoinedPickClause": {
+      "message": "creado en un rango de fechas específico (elige fechas arriba)"
+   },
+   "summaryChannelSocial": {
+      "message": "tiene \u003Cem>$1\u003C/em> enlazado"
+   },
+   "summaryChannelTagsInclude": {
+      "message": "etiquetas del canal incluyen alguna de: \u003Cem>$1\u003C/em>"
+   },
+   "summaryChannelVideosAtLeast": {
+      "message": "el canal tiene al menos \u003Cem>$1\u003C/em> videos"
+   },
+   "summaryChannelVideosBetween": {
+      "message": "el canal tiene \u003Cem>$1\u003C/em>–\u003Cem>$2\u003C/em> videos"
+   },
+   "summaryChannelVideosUpTo": {
+      "message": "el canal tiene hasta \u003Cem>$1\u003C/em> videos"
+   },
+   "summaryChannelViewsAtLeast": {
+      "message": "tiene al menos \u003Cem>$1\u003C/em> vistas totales"
+   },
+   "summaryChannelViewsBetween": {
+      "message": "tiene entre \u003Cem>$1\u003C/em> y \u003Cem>$2\u003C/em> vistas totales"
+   },
+   "summaryChannelViewsUpTo": {
+      "message": "tiene hasta \u003Cem>$1\u003C/em> vistas totales"
+   },
+   "summaryChannelWith": {
+      "message": "Canal $1."
+   },
+   "summaryCommentRateAtLeast": {
+      "message": "al menos \u003Cem>$1\u003C/em> comentarios (%)"
+   },
+   "summaryCommentRateBetween": {
+      "message": "entre \u003Cem>$1\u003C/em> y \u003Cem>$2\u003C/em> comentarios (%)"
+   },
+   "summaryCommentRateUpTo": {
+      "message": "hasta \u003Cem>$1\u003C/em> comentarios (%)"
+   },
+   "summaryCommentsAtLeast": {
+      "message": "al menos \u003Cem>$1\u003C/em> comentarios"
+   },
+   "summaryCommentsBetween": {
+      "message": "entre \u003Cem>$1\u003C/em> y \u003Cem>$2\u003C/em> comentarios"
+   },
+   "summaryCommentsUpTo": {
+      "message": "hasta \u003Cem>$1\u003C/em> comentarios"
+   },
+   "summaryDescExcludes": {
+      "message": "la descripción excluye: \u003Cem>$1\u003C/em>"
+   },
+   "summaryDescIncludesAll": {
+      "message": "la descripción incluye todas: \u003Cem>$1\u003C/em>"
+   },
+   "summaryDislikeRateAtLeast": {
+      "message": "al menos \u003Cem>$1\u003C/em> dislikes (%)"
+   },
+   "summaryDislikeRateBetween": {
+      "message": "entre \u003Cem>$1\u003C/em> y \u003Cem>$2\u003C/em> dislikes (%)"
+   },
+   "summaryDislikeRateUpTo": {
+      "message": "hasta \u003Cem>$1\u003C/em> dislikes (%)"
+   },
+   "summaryDislikesAtLeast": {
+      "message": "al menos \u003Cem>$1\u003C/em> dislikes"
+   },
+   "summaryDislikesBetween": {
+      "message": "entre \u003Cem>$1\u003C/em> y \u003Cem>$2\u003C/em> dislikes"
+   },
+   "summaryDislikesUpTo": {
+      "message": "hasta \u003Cem>$1\u003C/em> dislikes"
+   },
+   "summaryDurBetween": {
+      "message": "duración entre \u003Cem>$1\u003C/em> y \u003Cem>$2\u003C/em>"
+   },
+   "summaryDurLongerThan": {
+      "message": "más largo que \u003Cem>$1\u003C/em>"
+   },
+   "summaryDurUpTo": {
+      "message": "hasta \u003Cem>$1\u003C/em>"
+   },
+   "summaryExcludeChannelsListAria": {
+      "message": "Canales excluidos"
+   },
+   "summaryExcludeCountriesListAria": {
+      "message": "Países excluidos"
+   },
+   "summaryExcludingChannels": {
+      "message": "excluyendo canales: \u003Cem>$1\u003C/em>"
+   },
+   "summaryExcludingChannelsCount": {
+      "message": "excluyendo $1 canales"
+   },
+   "summaryExcludingCountriesCount": {
+      "message": "excluyendo $1 países"
+   },
+   "summaryIncludeChannels": {
+      "message": "buscando solo en \u003Cem>$1\u003C/em> canal(es) incluido(s)"
+   },
+   "summaryLanguage": {
+      "message": "Idioma del resumen"
+   },
+   "summaryLikeRateAtLeast": {
+      "message": "al menos \u003Cem>$1\u003C/em> Me gusta (%)"
+   },
+   "summaryLikeRateBetween": {
+      "message": "entre \u003Cem>$1\u003C/em> y \u003Cem>$2\u003C/em> Me gusta (%)"
+   },
+   "summaryLikeRateUpTo": {
+      "message": "hasta \u003Cem>$1\u003C/em> Me gusta (%)"
+   },
+   "summaryLikesAtLeast": {
+      "message": "al menos \u003Cem>$1\u003C/em> me gusta"
+   },
+   "summaryLikesBetween": {
+      "message": "entre \u003Cem>$1\u003C/em> y \u003Cem>$2\u003C/em> me gusta"
+   },
+   "summaryLikesUpTo": {
+      "message": "hasta \u003Cem>$1\u003C/em> me gusta"
+   },
+   "summaryNoFilters": {
+      "message": "Sin filtros activos. Mostrando todos los videos."
+   },
+   "summaryPub_10y": {
+      "message": "últimos 10 años"
+   },
+   "summaryPub_12h": {
+      "message": "últimas 12 horas"
+   },
+   "summaryPub_15d": {
+      "message": "últimos 15 días"
+   },
+   "summaryPub_18m": {
+      "message": "últimos 18 meses"
+   },
+   "summaryPub_1h": {
+      "message": "última hora"
+   },
+   "summaryPub_1m": {
+      "message": "último mes"
+   },
+   "summaryPub_1w": {
+      "message": "última semana"
+   },
+   "summaryPub_1y": {
+      "message": "último año"
+   },
+   "summaryPub_24h": {
+      "message": "últimas 24 horas"
+   },
+   "summaryPub_2d": {
+      "message": "últimos 2 días"
+   },
+   "summaryPub_2m": {
+      "message": "últimos 2 meses"
+   },
+   "summaryPub_2w": {
+      "message": "últimas 2 semanas"
+   },
+   "summaryPub_2y": {
+      "message": "últimos 2 años"
+   },
+   "summaryPub_3d": {
+      "message": "últimos 3 días"
+   },
+   "summaryPub_3h": {
+      "message": "últimas 3 horas"
+   },
+   "summaryPub_3m": {
+      "message": "últimos 3 meses"
+   },
+   "summaryPub_3w": {
+      "message": "últimas 3 semanas"
+   },
+   "summaryPub_3y": {
+      "message": "últimos 3 años"
+   },
+   "summaryPub_5d": {
+      "message": "últimos 5 días"
+   },
+   "summaryPub_5y": {
+      "message": "últimos 5 años"
+   },
+   "summaryPub_6h": {
+      "message": "últimas 6 horas"
+   },
+   "summaryPub_6m": {
+      "message": "últimos 6 meses"
+   },
+   "summaryPub_9m": {
+      "message": "últimos 9 meses"
+   },
+   "summaryRequireCaptions": {
+      "message": "tiene subtítulos"
+   },
+   "summaryRequireCaptionsLang": {
+      "message": "subtítulos: $1"
+   },
+   "summaryRequireCaptionsLangCount": {
+      "message": "subtítulos: $1 idiomas"
+   },
+   "summaryRequireChapters": {
+      "message": "tiene capítulos en la descripción"
+   },
+   "summaryRequireEmail": {
+      "message": "tiene email en la descripción del video"
+   },
+   "summaryResponse": {
+      "message": "Respuesta del resumen"
+   },
+   "summaryResponseHelp": {
+      "message": "Qué tan detallado debe ser el primer mensaje de la IA. Solo se aplica a la primera respuesta."
+   },
+   "summaryShowingUploaded": {
+      "message": "Filtrando videos subidos $1."
+   },
+   "summaryShowingUploadedWithAlso": {
+      "message": "Filtrando videos subidos $1, que coinciden con $2."
+   },
+   "summaryShowingWith": {
+      "message": "Mostrando videos con $1."
+   },
+   "summarySubsAtLeast": {
+      "message": "al menos \u003Cem>$1\u003C/em> suscriptores"
+   },
+   "summarySubsBetween": {
+      "message": "entre \u003Cem>$1\u003C/em> y \u003Cem>$2\u003C/em> suscriptores"
+   },
+   "summarySubsUpTo": {
+      "message": "hasta \u003Cem>$1\u003C/em> suscriptores"
+   },
+   "summaryTitleExcludes": {
+      "message": "el título excluye: \u003Cem>$1\u003C/em>"
+   },
+   "summaryTitleIncludesAll": {
+      "message": "mostrar solo títulos que incluyan todas: \u003Cem>$1\u003C/em>"
+   },
+   "summaryUnverifiedOnly": {
+      "message": "\u003Cem>solo canales no verificados\u003C/em>"
+   },
+   "summaryUploadedAfterClause": {
+      "message": "después de \u003Cem>$1\u003C/em>"
+   },
+   "summaryUploadedBeforeClause": {
+      "message": "antes de \u003Cem>$1\u003C/em>"
+   },
+   "summaryUploadedBetweenClause": {
+      "message": "entre \u003Cem>$1\u003C/em> y \u003Cem>$2\u003C/em>"
+   },
+   "summaryUploadedInClause": {
+      "message": "en \u003Cem>$1\u003C/em>"
+   },
+   "summaryUploadedPickClause": {
+      "message": "en un rango de fechas específico (elige fechas arriba)"
+   },
+   "summaryVerifiedOnly": {
+      "message": "\u003Cem>solo canales verificados\u003C/em>"
+   },
+   "summaryVideoTypeShorts": {
+      "message": "Solo \u003Cem>Shorts\u003C/em>"
+   },
+   "summaryVideoTypeVideos": {
+      "message": "Solo \u003Cem>Videos\u003C/em>"
+   },
+   "summaryViewsAtLeast": {
+      "message": "al menos \u003Cem>$1\u003C/em> vistas"
+   },
+   "summaryViewsBetween": {
+      "message": "entre \u003Cem>$1\u003C/em> y \u003Cem>$2\u003C/em> vistas"
+   },
+   "summaryViewsPerDayAtLeast": {
+      "message": "al menos \u003Cem>$1\u003C/em> vistas/día"
+   },
+   "summaryViewsPerDayBetween": {
+      "message": "entre \u003Cem>$1\u003C/em> y \u003Cem>$2\u003C/em> vistas/día"
+   },
+   "summaryViewsPerDayUpTo": {
+      "message": "hasta \u003Cem>$1\u003C/em> vistas/día"
+   },
+   "summaryViewsUpTo": {
+      "message": "hasta \u003Cem>$1\u003C/em> vistas"
+   },
+   "tabAbout": {
+      "message": "Acerca de"
+   },
+   "tabAccount": {
+      "message": "Profile"
+   },
+   "tabChannelFilters": {
+      "message": "Filtros de canal"
+   },
+   "tabDisplay": {
+      "message": "Visualización"
+   },
+   "tabUpgrade": {
+      "message": "Mejorar plan"
+   },
+   "tabVideoFilters": {
+      "message": "Filtros de video"
+   },
+   "thankYouGiftBodyDone": {
+      "message": "¡Eso es todo!"
+   },
+   "thankYouGiftBodyHelp": {
+      "message": "Si necesitas ayuda o tienes sugerencias, estoy aquí para ti:"
+   },
+   "thankYouGiftBodyHowever": {
+      "message": "Sin embargo..."
+   },
+   "thankYouGiftBodyServer": {
+      "message": "Soy desarrollador independiente y los costes del servidor para mantener esta extensión empiezan a ser elevados, así que no puedo seguir ofreciéndola gratis."
+   },
+   "thankYouGiftBodyToken": {
+      "message": "Llevas un tiempo con nosotros y espero que aceptes este pequeño detalle como muestra de agradecimiento."
+   },
+   "thankYouGiftHi": {
+      "message": "Hola,"
+   },
+   "thankYouGiftStepCode": {
+      "message": "Usa el siguiente código:"
+   },
+   "thankYouGiftStepLogin": {
+      "message": "Inicia sesión con una cuenta de Google haciendo clic aquí (100 % seguro y conforme a la privacidad)"
+   },
+   "thankYouGiftStepProfile": {
+      "message": "Haz clic en la pestaña \u003Cb>Perfil\u003C/b> a la izquierda"
+   },
+   "thankYouGiftStepsLead": {
+      "message": "Para activar tu mes de uso ilimitado:"
+   },
+   "thankYouGiftTitleAccent": {
+      "message": "1 mes de premium, ilimitado"
+   },
+   "thankYouGiftTitleAfter": {
+      "message": " ¡YouTube Filter Pro!"
+   },
+   "thankYouGiftTitleBefore": {
+      "message": "Recibes "
+   },
+   "thinking": {
+      "message": "Pensando…"
+   },
+   "titleClearChannelDescExcludes": {
+      "message": "Borrar exclusiones de descripción del canal"
+   },
+   "titleClearChannelDescIncludes": {
+      "message": "Borrar inclusiones de descripción del canal"
+   },
+   "titleClearChannelTags": {
+      "message": "Borrar etiquetas del canal"
+   },
+   "titleClearChannelVideos": {
+      "message": "Borrar videos del canal"
+   },
+   "titleClearChannelViews": {
+      "message": "Borrar vistas del canal"
+   },
+   "titleClearComments": {
+      "message": "Borrar comentarios"
+   },
+   "titleClearDescExcludes": {
+      "message": "Borrar exclusiones de descripción"
+   },
+   "titleClearDescIncludes": {
+      "message": "Borrar inclusiones de descripción"
+   },
+   "titleClearDuration": {
+      "message": "Borrar duración"
+   },
+   "titleClearExcludedChannels": {
+      "message": "Borrar canales excluidos"
+   },
+   "titleClearJoined": {
+      "message": "Borrar fecha de creación"
+   },
+   "titleClearLikes": {
+      "message": "Borrar me gusta"
+   },
+   "titleClearPublished": {
+      "message": "Borrar publicación"
+   },
+   "titleClearSubscribers": {
+      "message": "Borrar suscriptores"
+   },
+   "titleClearTitleExcludes": {
+      "message": "Borrar exclusiones de título"
+   },
+   "titleClearTitleIncludes": {
+      "message": "Borrar inclusiones de título"
+   },
+   "titleClearVerified": {
+      "message": "Borrar verificado"
+   },
+   "titleClearViews": {
+      "message": "Borrar vistas"
+   },
+   "titleClearViewsPerDay": {
+      "message": "Borrar vistas por día"
+   },
+   "titleMatchCheckTooltip": {
+      "message": "Coincide con tus filtros"
+   },
+   "titleNonMatchTooltip": {
+      "message": "No coincide con el filtro"
+   },
+   "toastAutoScrollLabel": {
+      "message": "Desplazamiento automático"
+   },
+   "toastCheckingProgress": {
+      "message": "Se revisaron $1 videos…"
+   },
+   "toastDismissAria": {
+      "message": "Descartar notificación"
+   },
+   "toastDismissBtn": {
+      "message": "No volver a mostrar"
+   },
+   "toastExcludeChannelNo": {
+      "message": "No"
+   },
+   "toastExcludeChannelPrompt": {
+      "message": "$1 añadido a «excluir canales». ¿Buscar de nuevo?",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "toastExcludeChannelYes": {
+      "message": "Yes"
+   },
+   "toastExhaustedHint": {
+      "message": "Se encontraron $1 videos ($2 videos comprobados)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "toastExhaustedTitle": {
+      "message": "Parece que no hay más resultados.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "toastFilteringPaused": {
+      "message": "Filtros en pausa"
+   },
+   "toastFilteringPausedHint": {
+      "message": "Pulsa reproducir para reactivar los filtros en esta página."
+   },
+   "toastFiltersActivePlural": {
+      "message": "$1 filtros activos"
+   },
+   "toastFiltersActiveSingular": {
+      "message": "$1 filtro activo"
+   },
+   "toastFiltersUpdatedTitle": {
+      "message": "Filtros actualizados"
+   },
+   "toastFoundWithTotal": {
+      "message": "\u003Cspan class=\"yfp-toast__found-count\">$1\u003C/span> / \u003Cspan class=\"yfp-toast__total-count\">$2\u003C/span> encontrados"
+   },
+   "toastHintChainCap": {
+      "message": "Se revisaron $1 videos hasta ahora — se siguen cargando más resultados."
+   },
+   "toastHintChaining": {
+      "message": "Cargando más resultados… ($1 revisados hasta ahora)"
+   },
+   "toastHintContinuationFailed": {
+      "message": "No se pudieron cargar más resultados — recarga la página."
+   },
+   "toastHintExhausted": {
+      "message": "No hay más resultados de búsqueda para cargar."
+   },
+   "toastHintExhaustedDetail": {
+      "message": "Se buscaron $1 videos — solo $2 coinciden. No hay más resultados que revisar."
+   },
+   "toastHintScroll": {
+      "message": "Cargando más resultados para filtrar. ¡Puedes pausar en cualquier momento!"
+   },
+   "toastLogoAlt": {
+      "message": "YouTube Filter Pro"
+   },
+   "toastNoResults": {
+      "message": "No se encontraron resultados que coincidan con sus filtros."
+   },
+   "toastOpenFiltersBtn": {
+      "message": "Abrir filtros"
+   },
+   "toastPauseAria": {
+      "message": "Pausar filtros"
+   },
+   "toastResultsFoundHint": {
+      "message": "Los resultados aparecerán aquí automáticamente."
+   },
+   "toastResultsFoundTitle": {
+      "message": "¡Resultados encontrados!"
+   },
+   "toastResumeAria": {
+      "message": "Reanudar filtros"
+   },
+   "toastSearchCompleteLine": {
+      "message": "Búsqueda completa. $1 vídeos encontrados",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "toastSearchCompleteTitle": {
+      "message": "¡Búsqueda completada!"
+   },
+   "toastSlowTrickleTitle": {
+      "message": "Sigue buscando · 1 coincidencia cada ~$1 vídeos. Esta combinación de filtros es rara."
+   },
+   "toastSummaryCollapseAria": {
+      "message": "Ocultar filtros"
+   },
+   "toastSummaryExpandAria": {
+      "message": "Mostrar todos los filtros"
+   },
+   "toastTutorialCompleteBody": {
+      "message": "Los resultados se están filtrando. Haz clic en {{VIEW_RESULTS}} para ver los resultados filtrados.\n\nTambién puedes {{PAUSE}} en cualquier momento. ¡Disfruta!"
+   },
+   "toastTutorialCompleteHere": {
+      "message": "haciendo clic aquí"
+   },
+   "toastTutorialDismissBtn": {
+      "message": "Descartar"
+   },
+   "toastTutorialResetBtn": {
+      "message": "Restablecer"
+   },
+   "toastZeroMatchWarnHint": {
+      "message": "Está bien, solo puede tardar más. Sigue buscando, o prueba a suavizar tus filtros."
+   },
+   "toastZeroMatchWarnTitle": {
+      "message": "Puede haber muy pocos o ningún resultado con tus filtros."
+   },
+   "tooltipReset": {
+      "message": "Restablecer"
+   },
+   "tryAgain": {
+      "message": "Reintentar"
+   },
+   "unableToSummarize": {
+      "message": "La IA no está disponible actualmente para este video. "
+   },
+   "unableToSummarizeAfter": {
+      "message": " e inténtalo de nuevo."
+   },
+   "verifiedHide": {
+      "message": "Ocultar verificados"
+   },
+   "verifiedOnly": {
+      "message": "Solo verificados"
+   },
+   "verifiedShowAll": {
+      "message": "Mostrar todo"
+   },
+   "videoStatsLimitReached": {
+      "message": "Has usado las Estadísticas de video en las $1 aperturas gratuitas de esta semana. Mejora el plan para estadísticas ilimitadas.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "videoStatsLimitReachedAnon": {
+      "message": "Has usado las Estadísticas de video en las $1 aperturas gratuitas de esta semana. Inicia sesión y mejora el plan para estadísticas ilimitadas.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "videoStatsQuotaLockedTip": {
+      "description": "Click tip on Stats when free weekly Video Stats are exhausted. {{UPGRADE}} is replaced by a profile link.",
+      "message": "{{UPGRADE}} para estadísticas de video ilimitadas."
+   },
+   "videoStatsUpgradeLink": {
+      "description": "Clickable Upgrade label in the Video Stats quota tip",
+      "message": "Mejorar plan"
+   },
+   "videoTypeShorts": {
+      "message": "Shorts"
+   },
+   "videoTypeVideos": {
+      "message": "Videos"
+   },
+   "yfpDataAllLinksClose": {
+      "message": "Cerrar"
+   },
+   "yfpDataAllLinksTitle": {
+      "message": "Todos los enlaces"
+   },
+   "yfpDataCaptionsAutoGenerated": {
+      "message": "(generados automáticamente)"
+   },
+   "yfpDataCaptionsAutoOnlyTip": {
+      "message": "Solo generados automáticamente"
+   },
+   "yfpDataCaptionsAutoTip": {
+      "message": "También generados automáticamente"
+   },
+   "yfpDataCaptionsNone": {
+      "message": "Sin subtítulos"
+   },
+   "yfpDataChannelViewsLifetimeAvg": {
+      "message": "Promedio histórico: $1 vistas/día",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "yfpDataDislikesLoadHint": {
+      "message": "Haz clic para mostrar dislikes"
+   },
+   "yfpDataEmailCopied": {
+      "message": "Copiado"
+   },
+   "yfpDataEmailCopy": {
+      "message": "Copiar"
+   },
+   "yfpDataEmailTitle": {
+      "message": "Correo"
+   },
+   "yfpDataEmailsTitle": {
+      "message": "Correos"
+   },
+   "yfpDataExcellentEngagement": {
+      "message": "Excelente engagement"
+   },
+   "yfpDataLabelCaptions": {
+      "message": "subtítulos"
+   },
+   "yfpDataLabelChannelViews": {
+      "message": "vistas"
+   },
+   "yfpDataLabelComments": {
+      "message": "comentarios"
+   },
+   "yfpDataLabelCountry": {
+      "message": "país"
+   },
+   "yfpDataLabelDislikes": {
+      "message": "no me gusta"
+   },
+   "yfpDataLabelJoined": {
+      "message": "creado"
+   },
+   "yfpDataLabelLikes": {
+      "message": "me gusta"
+   },
+   "yfpDataLabelSubscribers": {
+      "message": "suscriptores"
+   },
+   "yfpDataLabelVideos": {
+      "message": "vídeos"
+   },
+   "yfpDataLabelViewsPerDay": {
+      "message": "vistas/día"
+   },
+   "yfpDataNoSocials": {
+      "message": "No se encontraron redes sociales/sitios web."
+   },
+   "yfpDataRateTierAverage": {
+      "message": "Promedio"
+   },
+   "yfpDataRateTierCommentsAverage": {
+      "message": "Promedio"
+   },
+   "yfpDataRateTierCommentsCritical": {
+      "message": "Crítico"
+   },
+   "yfpDataRateTierCommentsExcellent": {
+      "message": "Excelente"
+   },
+   "yfpDataRateTierCommentsGood": {
+      "message": "Bueno"
+   },
+   "yfpDataRateTierCommentsLow": {
+      "message": "Bajo"
+   },
+   "yfpDataRateTierCritical": {
+      "message": "Crítico"
+   },
+   "yfpDataRateTierDislikesAverage": {
+      "message": "Promedio"
+   },
+   "yfpDataRateTierDislikesCritical": {
+      "message": "Crítico"
+   },
+   "yfpDataRateTierDislikesExcellent": {
+      "message": "Excelente"
+   },
+   "yfpDataRateTierDislikesGood": {
+      "message": "Bueno"
+   },
+   "yfpDataRateTierDislikesPoor": {
+      "message": "Deficiente"
+   },
+   "yfpDataRateTierExcellent": {
+      "message": "Excelente"
+   },
+   "yfpDataRateTierGood": {
+      "message": "Bueno"
+   },
+   "yfpDataRateTierLikesAverage": {
+      "message": "Promedio"
+   },
+   "yfpDataRateTierLikesCritical": {
+      "message": "Crítico"
+   },
+   "yfpDataRateTierLikesExcellent": {
+      "message": "Excelente"
+   },
+   "yfpDataRateTierLikesGood": {
+      "message": "Bueno"
+   },
+   "yfpDataRateTierLikesLow": {
+      "message": "Bajo"
+   },
+   "yfpDataRateTierLow": {
+      "message": "Bajo"
+   },
+   "yfpDataRateTierPoor": {
+      "message": "Deficiente"
+   },
+   "yfpDataRefetch": {
+      "message": "Volver a cargar"
+   },
+   "yfpDataRefetchTitle": {
+      "message": "Algunos datos pueden no haberse cargado correctamente.\nPuedes volver a cargarlos manualmente."
+   },
+   "yfpDataRefetching": {
+      "message": "Cargando…"
+   },
+   "yfpDataTierChannelViewsAverage": {
+      "message": "Promedio"
+   },
+   "yfpDataTierChannelViewsCritical": {
+      "message": "Crítico"
+   },
+   "yfpDataTierChannelViewsExcellent": {
+      "message": "Excelente"
+   },
+   "yfpDataTierChannelViewsGood": {
+      "message": "Bueno"
+   },
+   "yfpDataTierChannelViewsLow": {
+      "message": "Bajo"
+   },
+   "yfpDataTierVelocityLongAverage": {
+      "message": "Promedio"
+   },
+   "yfpDataTierVelocityLongCritical": {
+      "message": "Crítico"
+   },
+   "yfpDataTierVelocityLongExcellent": {
+      "message": "Excelente"
+   },
+   "yfpDataTierVelocityLongGood": {
+      "message": "Bueno"
+   },
+   "yfpDataTierVelocityLongLow": {
+      "message": "Bajo"
+   },
+   "yfpDataTierVelocityShortAverage": {
+      "message": "Promedio"
+   },
+   "yfpDataTierVelocityShortCritical": {
+      "message": "Crítico"
+   },
+   "yfpDataTierVelocityShortExcellent": {
+      "message": "Excelente"
+   },
+   "yfpDataTierVelocityShortGood": {
+      "message": "Bueno"
+   },
+   "yfpDataTierVelocityShortLow": {
+      "message": "Bajo"
+   },
+   "yfpDataUnknownTip": {
+      "message": "Datos no disponibles"
+   },
+   "yfpDataUpgradeLink": {
+      "message": "Mejorar plan"
+   },
+   "yfpDataUpgradePromptTail": {
+      "message": "para ver estadísticas rápidas: likes, comentarios, vistas totales, redes sociales y mucho más"
+   },
+   "yfpDataVelocityColLong": {
+      "message": "Formato largo"
+   },
+   "yfpDataVelocityColScore": {
+      "message": "Puntuación"
+   },
+   "yfpDataVelocityColShort": {
+      "message": "Shorts"
+   },
+   "yfpDataViewAllLinks": {
+      "message": "Ver todos los enlaces"
+   },
+   "yfpDataViewMoreLinks": {
+      "description": "Shown after capped social icons on the watch Data bar; $1 is the hidden link count.",
+      "message": "Ver $1 más"
+   },
+   "yfpDataViewVelocityFormula": {
+      "message": "Fórmula: (vistas ÷ días en línea) ÷ suscriptores × 100"
+   },
+   "yfpDataViewVelocityScore": {
+      "message": "Velocidad de suscripción: $1%",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "yfpDataViewVelocityShortsContext": {
+      "message": "Búsqueda de Shorts"
+   },
+   "yfpDataViewVelocityVideosContext": {
+      "message": "Búsqueda de videos"
+   },
+   "yfpPerformanceMetricsTitle": {
+      "description": "Title above channel performance metrics grid on watch / channel Stats",
+      "message": "Métricas de rendimiento"
+   }
+}
