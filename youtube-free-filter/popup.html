@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="ru">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>YouTube Free Filter</title><link rel="stylesheet" href="popup.css"></head>
+<body>
+  <header><span class="mark">▶</span><div><h1>Free Filter</h1><p>YouTube под ваш вкус</p></div><span class="local">Локально</span></header>
+  <form id="filters">
+    <label class="toggle"><span>Фильтры включены</span><input name="enabled" type="checkbox"></label>
+    <section><h2>Формат</h2><div class="checks"><label><input name="hideShorts" type="checkbox"> Скрыть Shorts</label><label><input name="hideLive" type="checkbox"> Скрыть эфиры</label></div></section>
+    <section><h2>Просмотры</h2><div class="pair"><label>От<input name="minViews" type="number" min="0" step="1" placeholder="Без минимума"></label><label>До<input name="maxViews" type="number" min="0" step="1" placeholder="Без максимума"></label></div></section>
+    <section><h2>Длительность, минуты</h2><div class="pair"><label>От<input name="minMinutes" type="number" min="0" step="0.1" placeholder="Любая"></label><label>До<input name="maxMinutes" type="number" min="0" step="0.1" placeholder="Любая"></label></div></section>
+    <section><h2>Дата публикации</h2><label>Не старше, дней<input name="maxAgeDays" type="number" min="0" step="1" placeholder="Любая дата"></label></section>
+    <section><h2>Слова и каналы</h2><label>Название содержит хотя бы одно<input name="titleInclude" type="text" placeholder="наука, космос"></label><label>Исключить слова из названия<input name="titleExclude" type="text" placeholder="спойлер, розыгрыш"></label><label>Исключить каналы<input name="channelExclude" type="text" placeholder="Название канала"></label><p class="hint">Разделяйте запятыми. Совпадение по части текста.</p></section>
+    <section><label>Если просмотры, дата или длительность неизвестны<select name="unknown"><option value="keep">Оставлять видео</option><option value="hide">Скрывать при активном числовом фильтре</option></select></label><p class="hint">Распознаются русские и английские подписи. Числа и даты YouTube округляет. Фильтруются только загруженные карточки.</p></section>
+    <footer><button type="button" id="reset">Сбросить</button><button type="submit" class="primary">Применить</button></footer>
+    <p id="status" role="status" aria-live="polite"></p>
+  </form>
+  <p class="privacy">Без оплаты, аккаунтов и отправки данных.</p>
+  <script src="filter-core.js"></script><script src="popup.js"></script>
+</body></html>
