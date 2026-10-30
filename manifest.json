@@ -1,0 +1,36 @@
+{
+   "background": {
+      "service_worker": "service-worker-loader.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "css": [ "assets/index-BEl-xhzj.css" ],
+      "js": [ "assets/index.ts-loader-MLBTP4lF.js" ],
+      "matches": [ "https://www.youtube.com/*", "https://youtube.com/*" ],
+      "run_at": "document_idle"
+   }, {
+      "js": [ "assets/mainWorld.ts-loader-D4cLEja8.js" ],
+      "matches": [ "https://www.youtube.com/*", "https://youtube.com/*" ],
+      "run_at": "document_start",
+      "world": "MAIN"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extensionDescription__",
+   "host_permissions": [ "https://www.youtube.com/*", "https://youtube.com/*", "https://pinypmgcawshibcmyxqp.supabase.co/*", "https://codedcitadel.com/*", "https://flagcdn.com/*", "https://returnyoutubedislikeapi.com/*", "https://yfp-enrich.codedcitadel.workers.dev/*", "https://*.workers.dev/*" ],
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlf6Q+RNg1FNPNI3Fnd6wCEL2y92rABirL87sMNcDJ3CVazY5z0w1CYtf4ju53vPA7q3winh3QntO7o+4zPqG2AnYf76Rt/kDN2ZVdlbRlRL8M/TfDcI5RB310iccbsxBvX9KVSactOQyOhwzP2UlFsOkVQce4XwgrNehsC9R3J9V0UjfR/Dy136qpOU0xSQs14X04lDm/52r/uDoV4EVXoAvMcLSNH7ifTDK4mkjmqi8kihERbFXxxzsZ7QvHG4NjRwzlwRB692T5nkoBvxrB5IM602kjgcMTOHTN7Qn8/vapDrC4soaJNVLmDpIeMcE5SGRva+l91ZCONICE3qRswIDAQAB",
+   "manifest_version": 3,
+   "name": "YT Filter Pro: filter by views, duration, date, and more",
+   "permissions": [ "storage", "identity" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.185",
+   "web_accessible_resources": [ {
+      "matches": [ "https://www.youtube.com/*", "https://youtube.com/*" ],
+      "resources": [ "icons/icon48.png", "assets/*", "media/help/*", "assets/perf-trend-chart-BlZORVaQ.mp4", "assets/perf-upload-heatmap-BR1tHPDc.mp4", "assets/quick-view-DNRlQwjj.mp4", "assets/dislike-count-5PR7uBbo.mp4", "assets/performance-RiujkMAw.mp4", "assets/performance-insights-DzxoBaCO.mp4", "assets/read-comments-CD1_QUHE.mp4", "assets/social-media-5sdrd5xw.mp4", "assets/description-B86e2Ok-.mp4", "assets/ai-chat-DJ6mDdTm.mp4", "assets/channel-date-filter-DvOrAc1z.mp4", "assets/has-chapters-bHwf-NfC.mp4", "assets/strict-search-B_NBG0SZ.mp4", "assets/onboardingKeys-BJre6MTj.js", "assets/i18n-TjKCKu9J.js", "assets/fetchLatestVideos-CffmCuuR.js", "assets/quotaUsageMirrors-CenXWOpi.js", "assets/commentsTippy-CWVo4BtY.js", "assets/persistentCache-BubsZD8T.js", "assets/resultsHelpfulFeedback-1s_wPH72.js", "assets/youtubeSearchChips-DCQKA1vk.js", "assets/index.ts-BvtW_Xxd.js", "assets/mainWorld.ts-Dop1yQHM.js" ],
+      "use_dynamic_url": false
+   } ]
+}
